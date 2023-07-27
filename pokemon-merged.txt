@@ -1,0 +1,1262 @@
+Warning: Trainer DarkZoma in source file has a null Pokemon, ignoring
+Warning: Trainer Noxamillion in source file has a null Pokemon, ignoring
+
+************** Merged file **************
+TheGoodJared ... Pokemon: MissingNo., Mewtwo, Ninetales, Raichu, Shiny Muk, Machoke, Golem, Metapod, Venonat, Arbok, Wartortle, Ivysaur, Charmander, Gengar, Shiny Paras, Cloyster, Dragonair, Hoothoot, Tyrogue, Shiny Aipom, Magikarp, Omastar, Cyndaquil, Shiny Vulpix, Poliwrath, Suicune, Unown, Shiny Jolteon, Mankey, Swinub, Kabuto, Shiny Shuckle, Mew, Shiny Eevee
+FieryPoops89 ... Pokemon: Bellsprout, Mankey, Horsea, Weezing, Shellder, Hitmonchan, Pidgey, Dodrio, Charizard, Spearow, Vulpix, Tentacool, Rapidash, Sandshrew, Kakuna, Growlithe, Rattata, Porygon, Victreebel, Kadabra, Doduo, Magnemite, Graveler, Flareon, Clefable, Clefairy, Muk, Jigglypuff, Gloom, Sandslash, Goldeen, Wigglytuff, Machop, Drowzee, Voltorb, Articuno, Cubone
+Siegemaker ... Pokemon: Hitmonlee, Machamp, Magmar, Jigglypuff, Spearow, Beedrill, Arbok, Caterpie, Charizard, Poliwhirl, Cubone, Gastly, Magnemite, Graveler, Machop, Shellder, Tentacool, Nidoqueen, Clefable, Zubat, Pidgeot, Abra, Diglett, Horsea, Vulpix, Growlithe, Ditto, Tentacruel, Nidoran-m, Kingler, Geodude, Kakuna, Cloyster, Meowth, Exeggcute, Dratini, Slowbro, Kabuto, Paras, Seel, Pikachu, Nidoran-f, Exeggutor, Grimer, Rattata, Goldeen, Omastar, Bulbasaur, Starmie, Poliwag, Oddish
+monkeymetroid ... Pokemon: Moltres, Aerodactyl, Articuno, Mewtwo, Mew, Nidoking
+GoodbyeJamie ... Pokemon: Kangaskhan, Jigglypuff, Dratini, Hypno, Jynx, Golduck, Pikachu, Parasect, Wigglytuff, Gengar
+DragonColony ... Pokemon: Haunter, Poliwag, Gloom, Cubone, Nidorina, Dragonite, Sandshrew, Mewtwo
+uncle_nix ... Pokemon: Clefairy, Voltorb, Mankey, Koffing, Ninetales, Tentacool, Kingler, Muk, Drowzee, Arbok, Caterpie, Seadra, Shellder, Pikachu, Nidorina, Abra, Magnemite, Scyther, Raichu
+Slurmcanpushers2 ... Pokemon: Vaporeon, Nidoran-f, Arbok, Ivysaur, Venomoth, Diglett, Charmander, Shiny Gengar
+catlikemeow ... Pokemon: Cubone
+JR_Kong17 ... Pokemon: Jigglypuff
+LuperMattroid ... Pokemon: Kabutops, Voltorb, Charizard
+UltraMinimalist ... Pokemon: Koffing, Lapras, Spearow, Venomoth, Staryu, Vulpix, Cubone, Scyther, Paras, Krabby, Kabuto, Clefairy, Bellsprout, Shellder, Pikachu, Jigglypuff, Golduck, Pidgeotto, Magikarp, Clefable, Cloyster, Farfetch'd, Tauros, Exeggutor, Dragonair, Flareon, Kingler, Venonat, Victreebel, Raichu, Slowpoke, Poliwag, Sandshrew, Hypno, Dodrio, Rhyhorn, Diglett, Machamp, Drowzee, Ekans
+Fortefyre ... Pokemon: Cubone, Victreebel, Ditto, Tangela, Oddish
+jefecow ... Pokemon: Vulpix, Staryu, Jigglypuff, Gengar, Gloom, Poliwhirl, Venonat, Arbok, Poliwag, Graveler, Alakazam, Goldeen, Raichu, Ekans, Mr. Mime, Abra, Golduck, Mewtwo, Electabuzz, Sandshrew, Kabuto, Gyarados, Magmar, Seadra
+heribertocastaneda912 ... Pokemon: Weedle
+catdag85 ... Pokemon: Kabuto, Paras, Nidorina, Squirtle, Krabby, Koffing, Pidgeot, Weepinbell, Arbok, Alakazam, Jynx, Kadabra, Gloom, Poliwhirl, Kakuna, Geodude, Hitmonlee, Omanyte, Cloyster, Dugtrio, Horsea, Mew, Nidorino, Seadra, Doduo, Kabutops, Pidgey, Scyther, Ponyta, Persian, Machamp, Arcanine, Jolteon, Machop
+Raspberylmyst ... Pokemon: Pidgey, Slowpoke, Paras, Tentacruel, Kabuto, Pikachu, Jynx, Sandslash, Nidorina, Jigglypuff, Rhydon, Nidoqueen, Seaking, Gastly, Poliwhirl, Oddish, Dratini, Gengar, Rapidash
+pielord90 ... Pokemon: Caterpie, Machop, Charizard, Marowak, Gyarados, Golbat, Chansey, Mewtwo, Nidoqueen, Seadra, Dragonair, Ivysaur
+yungteacup ... Pokemon: Rattata, Spearow, Gastly, Slowpoke, Shellder
+Ace_Gaming_LPs ... Pokemon: Chansey, Wartortle, Slowbro, Aerodactyl, Zapdos, Cubone, Sandshrew
+bOmBsHeLbOy ... Pokemon: Scyther, Zapdos, Dewgong, Pidgey, Poliwag, Beedrill, Drowzee, Eevee, Arcanine
+LeeRyJankens ... Pokemon: Golduck, Jigglypuff, Machop, Psyduck, Parasect, Charizard
+LyraMinks ... Pokemon: Venonat, Kabuto
+huckleberry__gin ... Pokemon: Venomoth, Metapod, Machamp, Gyarados, Ekans, Raichu, Mr. Mime, Tauros
+BrynthOuttaHell ... Pokemon: Nidorina, Ekans, Gastly, Nidorino, Nidoran-m, Onix, Spearow, Tauros, Rhyhorn, Rhydon, Nidoking, Mew, Meowth, Doduo, Venomoth, Vulpix, Shellder, Alakazam, Machop, Seel, Geodude, Jigglypuff
+kirkyperky ... Pokemon: Clefairy, Drowzee, Butterfree, Staryu, Rhyhorn, Flareon, Pidgeotto, Meowth, Jigglypuff, Golbat, Clefable, Golduck, Raichu, Vulpix, Machoke, Slowpoke, Pikachu, Magikarp, Poliwrath, Farfetch'd, Aerodactyl, Pidgey, Sandslash, Primeape, Paras, Voltorb, Kakuna, Slowbro
+dan_goatinez ... Pokemon: Golduck, Hypno, Lapras, Seaking, Persian
+anubisfalln ... Pokemon: Sandshrew, Rattata, Vileplume
+AntiSnowman ... Pokemon: Spearow
+TheFenrisWulf ... Pokemon: Mew, Mankey, Porygon, Jigglypuff, Kabutops, Electabuzz, Ponyta, Jynx, Poliwhirl, Krabby, Shellder, Dragonair, Golem, Jolteon, Kadabra, Venonat, Butterfree, Psyduck, Nidoking, Drowzee, Fearow, Marowak, Machop, Pidgeot, Tentacruel, Rhydon, Bellsprout, Meowth, Vileplume, Ninetales, Vulpix, Persian, Poliwag, Cubone, Victreebel, Oddish, Raticate, Pidgeotto, Wartortle, Aerodactyl, Nidoran-f, Ekans, Dugtrio, Cloyster, Golduck, Dragonite, Lickitung, Seel, Bulbasaur, Lapras, Eevee, Ditto, Flareon, Magneton, Scyther, Dodrio, Clefairy, Venusaur, Charizard, Arcanine, Growlithe, Mewtwo
+GuiltySlug ... Pokemon: Jolteon, Wartortle, Dratini, Seadra, Sandshrew, Gengar, Rapidash, Slowbro, Kingler, Ninetales, Arbok, Snorlax, Sandslash, Gastly, Seel, Weedle, Marowak, Growlithe, Lapras, Psyduck, Koffing, Raichu, Diglett, Pinsir, Doduo, Machop, Eevee, Clefairy
+phillipsolar ... Pokemon: Oddish, Meowth, Starmie, Raticate, Haunter, Drowzee, Geodude, Voltorb, Ekans, Goldeen, Sandslash, Dragonair
+KingNick69 ... Pokemon: Staryu, Rhydon, Cubone, Ponyta, Venonat, Exeggutor, Dragonite, Growlithe, Raichu, Sandshrew, Gastly, Lapras, Pikachu, Ninetales, Rapidash, Nidorina, Pidgey
+TheKrookedMane ... Pokemon: Mr. Mime
+SalvoSubs ... Pokemon: Electrode, Weedle, Parasect, Aerodactyl, Pidgeot, Ninetales
+zordon2354 ... Pokemon: Drowzee
+mugmouse ... Pokemon: MissingNo., Nidoking, Tentacool, Articuno, Nidoqueen, Dewgong, Gengar, Muk, Charmander, Kingler, Mankey, Seadra, Geodude, Seel, Magneton
+Crowe4WFG ... Pokemon: Koffing, Kadabra, Nidorina, Alakazam, Ekans, Rhyhorn, Sandshrew, Shellder, Caterpie, Seaking, Nidoran-f, Machop, Seel, Wartortle, Marowak, Rattata, Hitmonchan, Electrode, Lickitung, Staryu, Articuno, Bellsprout, Clefable, Slowpoke, Magneton, Nidorino, Diglett, Feraligatr, Omanyte
+cakefrosting43 ... Pokemon: Spearow
+TGerard ... Pokemon: Geodude
+colekdylan ... Pokemon: Primeape
+food42o ... Pokemon: Gengar, Magikarp
+Kirbgames ... Pokemon: Raichu, Haunter, Muk, Meowth
+HeyImBrett ... Pokemon: Gloom, Zubat
+Lusoka ... Pokemon: Mew, Pikachu, Muk, Rattata, Golbat, Kabuto, Clefairy, Tentacool, Graveler, Charmeleon, Pidgeotto, Paras, Gyarados, Jynx, Persian, Marowak, Vileplume, Slowpoke, Flareon, Haunter, Lickitung, Oddish, Primeape, Diglett, Dodrio, Slowbro, Seaking, Dugtrio, Raticate, Drowzee, Hypno, Sandslash, Weedle, Venomoth, Nidoran-m
+dig_pestroyer ... Pokemon: Cubone, Pikachu, Hitmonchan, Slowbro
+demhorsenutz ... Pokemon: Porygon, Venonat, Magikarp, Vaporeon, Ninetales, Nidoking, Beedrill, Cubone, Charmander, Poliwrath, Ekans, Gyarados, Goldeen, Slowpoke, Venomoth, Seaking, Koffing, Hypno, Nidorina, Sandslash, Weezing, Rattata, Raticate, Pikachu, Gastly, Clefairy, Golduck, Jynx, Oddish, Meowth, Kadabra, Poliwhirl, Zubat, Graveler
+SonicFourtex ... Pokemon: Grimer, Charizard, Koffing, Electrode, Gyarados, Graveler, Hitmonlee, Krabby, Rhyhorn
+little_nicolino ... Pokemon: Vulpix
+R41nb0wSqu1rr3l ... Pokemon: Charizard
+SimonDor ... Pokemon: Magnemite, Psyduck, Blastoise
+Da_jimmer ... Pokemon: Ponyta
+papapapepepiiiiiiioooooo ... Pokemon: Dodrio, Krabby, Mankey
+liz_BotBot ... Pokemon: Mankey, Jolteon, Bellsprout, Goldeen
+obscurereference2501 ... Pokemon: Golduck, Psyduck
+One_SweetPotato ... Pokemon: Geodude, Drowzee, Marowak
+Manofplate ... Pokemon: Starmie, Pidgeotto, Seaking, Sandslash, Kakuna
+TerrorVan ... Pokemon: MissingNo., Pidgey, Primeape, Dragonite
+vader1995a ... Pokemon: Weepinbell, Nidoran-m, Vaporeon, Cubone, Shellder, Machop, Seel, Kingler, Ekans, Pikachu, Koffing, Vulpix, Goldeen, Jigglypuff, Mankey, Rapidash, Krabby, Slowbro, Bellsprout, Tentacruel, Butterfree, Gastly, Squirtle, Oddish, Aerodactyl, Paras, Kangaskhan, Staryu, Hitmonlee, Grimer, Marowak, Magnemite, Magneton, Kakuna, Nidoran-f, Psyduck, Lapras, Machamp, Golem, Electrode, Nidoking, Meowth, Parasect, Miltank
+DeathDefyingBlonde ... Pokemon: Venusaur
+StalkingOfAshles ... Pokemon: MissingNo., Mr. Mime, Dragonite, Wigglytuff, Oddish, Weepinbell, Hypno, Nidoqueen, Dugtrio, Tauros, Nidorina, Weedle, Meowth, Nidoran-f, Kabutops, Paras, Zapdos, Poliwag, Rhydon, Slowpoke, Sandshrew, Ivysaur, Kadabra, Staryu, Rhyhorn, Tentacool, Gloom, Articuno, Mewtwo, Fearow, Marowak, Seel, Kingler, Jolteon, Metapod, Graveler, Charmander, Bulbasaur, Ninetales, Parasect, Magnemite, Jynx, Rapidash, Gastly, Persian, Magmar, Starmie, Kakuna, Goldeen, Spearow, Porygon, Caterpie, Vaporeon, Venonat, Ekans, Vulpix, Ponyta, Magikarp, Abra, Gengar, Drowzee, Golem, Raichu, Pikachu, Primeape, Kabuto, Shellder, Exeggcute, Muk, Cubone, Pinsir, Pidgeotto, Clefable, Zubat, Mankey, Koffing, Voltorb, Arcanine, Haunter, Poliwhirl, Charizard, Charmeleon, Lickitung, Grimer, Seadra, Geodude, Golbat
+serfins ... Pokemon: Diglett, Poliwrath
+Gadgee101 ... Pokemon: Omanyte
+tswpoker1 ... Pokemon: Beedrill
+firevyrm ... Pokemon: Clefairy
+Regiksy ... Pokemon: Lickitung, Goldeen, Pikachu, Rattata, Sandslash, Poliwhirl, Parasect
+SamusKnight2K ... Pokemon: MissingNo., Nidorina, Sandslash, Horsea, Jigglypuff, Nidorino, Flareon, Koffing, Tentacool, Shiny Seel, Charizard, Mew, Squirtle, Mr. Mime, Growlithe, Charmander, Dodrio, Rattata, Ponyta, Poliwag, Voltorb, Nidoqueen, Fearow, Gengar, Eevee, Muk, Primeape, Gloom, Metapod, Clefairy, Venonat, Charmeleon, Electrode, Cubone, Grimer, Spearow, Dewgong, Lapras, Oddish, Tauros, Golduck, Kabuto, Shiny Poliwhirl, Slowbro, Nidoran-f, Articuno, Raticate, Ekans, Shiny Drowzee, Shiny Haunter, Vaporeon, Exeggutor, Farfetch'd, Omanyte, Poliwrath, Ditto, Magikarp, Jynx, Kakuna, Shiny Graveler, Golbat, Machop, Shellder, Psyduck, Sandshrew, Onix, Wartortle, Butterfree, Moltres, Geodude, Hitmontop, Pidgeotto, Togepi, Miltank, Marowak, Totodile, Vulpix, Togetic, Nidoran-m, Sunkern, Shiny Magcargo, Ivysaur, Slowking, Croconaw, Porygon, Shiny Blastoise, Shuckle, Victreebel, Noctowl
+goldtack7 ... Pokemon: Hypno
+FusRoDonnell ... Pokemon: Raichu, Pikachu, Machamp
+food420 ... Pokemon: Charmeleon, Farfetch'd, Raticate
+dhtaray1 ... Pokemon: Metapod, Articuno, Persian, Vulpix, Goldeen, Pikachu, Mew, Sandshrew, Marowak, Graveler, Seadra, Staryu, Abra, Zapdos, Gengar, Victreebel, Wartortle, Magneton, Kingler
+higfudyrn ... Pokemon: Geodude, Ponyta, Tentacool, Victreebel, Magnemite, Slowpoke
+ghostribbon ... Pokemon: MissingNo., Wartortle, Seadra, Ivysaur, Weepinbell, Poliwag, Persian, Charmeleon, Oddish, Raichu, Magneton, Kabuto, Pidgey, Alakazam, Mankey, Pinsir, Starmie, Nidoran-m, Tentacruel, Gengar, Cubone, Electrode, Diglett, Geodude, Muk, Staryu, Omanyte, Doduo, Pidgeotto, Spearow, Seel, Beedrill, Butterfree, Koffing, Jolteon, Pikachu, Machoke, Cyndaquil, Shiny Fearow, Rapidash, Meowth, Espeon, Rhyhorn, Pidgeot, Shiny Kakuna, Totodile, Kingler, Arcanine, Magikarp, Smeargle, Seaking
+SPIROS_VONDAS ... Pokemon: Nidoking, Pidgeot, Abra, Staryu, Exeggutor, Rhyhorn, Golduck, Voltorb
+DorkyOnTV ... Pokemon: Porygon
+duhmelia ... Pokemon: Jigglypuff, Blastoise, Gyarados, Hypno, Gengar, Venonat, Pikachu
+northend206 ... Pokemon: Arcanine, Tentacool, Squirtle, Mr. Mime, Farfetch'd, Charizard, Ponyta, Hitmonchan, Kakuna, Hypno, Horsea, Dewgong, Sandslash, Porygon, Moltres, Muk, Vulpix, Golbat, Haunter, Caterpie, Doduo, Marowak, Starmie, Nidorino, Jolteon, Fearow, Jigglypuff, Eevee, Alakazam, Seadra, Zapdos, Mew, Kabutops, Beedrill, Rapidash, Magneton, Golem, Machamp, Gyarados, Mankey, Primeape, Weezing, Ninetales, Sandshrew, Metapod, Exeggutor, Psyduck, Weepinbell, Pinsir, Magmar, Meowth, Zubat, Slowbro, Raticate
+toddhockney ... Pokemon: Jigglypuff, Diglett, Caterpie
+whiskyisamazing ... Pokemon: Parasect, Nidoran-m, Slowbro, Zubat, Nidorino, Weepinbell, Grimer, Clefable, Rattata, Bellsprout, Arbok, Doduo, Ekans, Starmie, Butterfree, Magnemite, Pidgeot, Fearow, Slowpoke, Sandslash, Porygon, Zapdos, Horsea, Diglett, Tentacruel, Shellder, Meowth, Seel
+NotAPickupArtist ... Pokemon: Gloom, Kakuna
+MoustachioMoolah ... Pokemon: MissingNo., Dratini, Dewgong, Rattata, Sandslash, Nidoking, Oddish, Raticate, Mankey, Geodude, Machoke, Poliwag, Exeggcute, Jynx, Rapidash, Koffing, Kingler, Persian, Seel, Squirtle, Chansey, Paras, Slowpoke, Snorlax, Pinsir, Nidoran-f, Gastly, Staryu, Weepinbell, Machamp, Victreebel, Bellsprout, Machop, Pikachu, Onix, Golduck, Wartortle, Parasect, Poliwhirl, Hitmonchan, Tentacool, Psyduck, Charizard, Mewtwo, Rhydon, Shiny Weedle, Growlithe, Natu, Snubbull, Wooper, Noctowl, Magikarp, Shuckle, Dugtrio, Caterpie, Kadabra, Hitmontop, Eevee, Cyndaquil, Porygon2, Octillery, Misdreavus, Spearow, Pidgeotto, Voltorb, Kabutops, Shiny Weezing, Larvitar, Ho-oh, Wigglytuff, Electabuzz, Shiny Furret, Vaporeon, Grimer, Haunter, Smeargle, Rhyhorn, Houndoom, Raichu, Arbok
+dickard_deckard ... Pokemon: Bellsprout, Alakazam, Voltorb
+sternwoelfin ... Pokemon: MissingNo., Tauros, Bulbasaur, Fearow, Tentacool, Raticate, Rhyhorn, Primeape, Pidgey, Seaking, Voltorb, Doduo, Drowzee, Kadabra, Magnemite, Alakazam, Dodrio, Beedrill, Electabuzz, Zubat, Magikarp, Gastly, Magmar, Grimer, Nidoqueen, Aerodactyl, Slowbro, Pidgeot, Psyduck, Rhydon, Ninetales, Abra, Clefable, Blastoise, Weepinbell, Growlithe, Venomoth, Golduck, Charmeleon, Exeggutor, Graveler, Gloom, Marowak, Wartortle, Mankey, Arbok, Kangaskhan, Nidoran-f, Machoke, Machop, Goldeen, Kingler, Vulpix, Kakuna, Nidorino, Pikachu, Machamp, Cubone, Magneton, Electrode, Cloyster, Horsea, Vaporeon, Mr. Mime, Oddish, Ekans, Tangela, Spearow, Wigglytuff, Farfetch'd, Mewtwo, Hypno, Poliwrath, Vileplume, Paras, Parasect, Koffing, Ponyta, Nidoking, Jigglypuff, Arcanine, Slowpoke, Pinsir, Omanyte, Chansey, Golem, Nidorina, Lickitung, Lapras, Nidoran-m, Poliwhirl, Bellsprout, Poliwag, Clefairy, Venonat, Starmie, Dratini, Krabby, Metapod, Omastar, Dugtrio, Onix, Sandshrew, Seel, Persian, Dewgong, Articuno, Weezing, Rattata, Squirtle, Weedle, Seadra, Shellder, Venusaur, Dragonite, Geodude, Golbat, Scyther, Exeggcute, Victreebel, Muk, Hitmonchan, Caterpie, Eevee, Charizard, Meowth, Sandslash, Jolteon, Porygon, Diglett, Butterfree, Gyarados, Raichu, Snorlax, Ditto, Ivysaur, Flareon, Mew, Kabuto, Charmander, Dragonair, Staryu, Zapdos, Kabutops, Rapidash, Haunter, Pidgeotto, Tentacruel, Hitmonlee, Jynx, Gengar, Moltres
+Daze_521 ... Pokemon: Voltorb, Lapras
+the_standard_play ... Pokemon: Gastly
+PurpleDoot ... Pokemon: MissingNo., Chansey, Articuno, Wartortle, Golbat, Charmeleon, Gyarados, Electrode, Shiny Arcanine, Parasect, Nidoran-f, Blastoise, Ponyta, Meowth, Shiny Cloyster, Dragonair, Ekans, Seel, Shiny Primeape, Magmar, Tentacool, Horsea, Arbok, Tentacruel, Gloom, Exeggutor, Metapod, Shiny Gastly, Venonat, Eevee, Clefairy, Golem, Shiny Geodude, Cubone, Growlithe, Shiny Lapras, Raticate, Magikarp, Shiny Koffing, Shiny Drowzee, Ivysaur, Spearow, Seadra, Graveler, Shiny Machop, Shiny Kakuna, Slowpoke, Dewgong, Venomoth, Voltorb, Jynx, Shiny Venusaur, Abra, Beedrill, Shiny Nidoking, Shiny Vulpix, Grimer, Diglett, Shiny Nidoran-m, Goldeen, Doduo, Starmie, Dugtrio, Zubat, Oddish, Tangela, Marowak, Exeggcute, Bulbasaur, Kabuto, Pidgey, Slowbro, Shiny Rhyhorn, Nidoqueen, Charmander, Mankey, Fearow, Porygon, Shiny Staryu, Machoke, Squirtle, Farfetch'd, Machamp, Poliwag, Mew, Hypno, Dodrio, Sandshrew, Shiny Kabutops, Muk, Shiny Shellder, Nidorina, Pidgeotto, Omanyte, Onix, Vileplume, Shiny Hitmonlee, Pikachu, Pinsir, Tauros, Shiny Raichu, Krabby, Shiny Bellsprout, Pidgeot, Shiny Vaporeon, Dratini, Weezing, Omastar, Moltres, Kadabra, Jigglypuff, Kingler, Weepinbell, Paras, Shiny Poliwhirl, Persian, Lickitung, Seaking, Shiny Rhydon, Clefable, Golduck, Charizard, Caterpie, Mewtwo, Shiny Butterfree, Rattata, Ditto, Ninetales, Mr. Mime, Shiny Haunter, Dragonite, Psyduck, Rapidash, Flareon, Hitmonchan, Poliwrath, Electabuzz, Victreebel, Magnemite, Gengar, Shiny Nidorino, Weedle, Kangaskhan, Snorlax, Scyther, Jolteon, Zapdos, Aerodactyl, Wigglytuff, Alakazam, Magneton, Shiny Sandslash, Shiny Wooper, Slowking, Wobbuffet, Xatu, Forretress, Gligar, Cyndaquil, Remoraid, Marill, Phanpy, Natu, Ampharos, Qwilfish, Snubbull, Slugma, Pineco, Shiny Corsola, Azumarill, Furret, Shuckle, Hoppip, Togetic, Sudowoodo, Hitmontop, Shiny Hoothoot, Stantler, Skiploom, Shiny Mareep, Spinarak, Aipom, Pichu, Shiny Togepi, Ledian, Houndour, Totodile, Shiny Girafarig, Swinub, Umbreon, Suicune, Teddiursa, Unown, Chinchou, Shiny Tyrogue, Feraligatr, Steelix, Bellossom, Ledyba, Pupitar, Flaaffy, Sentret, Houndoom, Shiny Donphan, Miltank, Sunkern, Bayleef, Sunflora, Shiny Larvitar, Lanturn, Delibird, Ariados, Piloswine, Dunsparce, Igglybuff, Shiny Granbull, Smoochum, Entei, Politoed, Octillery, Shiny Crobat, Sneasel, Meganium, Croconaw, Smeargle, Scizor, Blissey, Noctowl, Lugia, Cleffa, Quagsire, Espeon, Ho-oh, Magby, Chikorita, Quilava, Misdreavus, Raikou, Shiny Murkrow, Shiny Yanma, Jumpluff, Magcargo, Ursaring, Shiny Heracross, Typhlosion, Porygon2, Skarmory
+katie_acnh ... Pokemon: Golbat, Omastar, Psyduck, Slowbro, Raticate, Pidgey, Staryu, Vulpix
+truthfarmer ... Pokemon: Caterpie, Starmie, Shellder
+yugimaster96 ... Pokemon: Rattata, Weedle, Tentacool, Golduck, Sandshrew, Hypno, Caterpie, Nidoran-m, Jigglypuff, Seel, Geodude, Clefairy, Horsea, Drowzee, Ekans, Sandslash, Doduo, Mew, Pikachu, Vulpix, Exeggcute, Oddish, Ditto, Cubone, Slowpoke, Muk, Dragonite, Koffing, Pidgey, Spearow, Bellsprout, Hitmonlee, Krabby, Golbat, Scyther, Gastly, Poliwhirl, Haunter, Nidoran-f, Growlithe, Seaking, Kadabra, Seadra, Abra, Dodrio, Jolteon, Squirtle, Mankey, Goldeen, Dratini, Rhydon, Magnemite, Slowbro, Tangela, Rhyhorn, Vileplume, Golem, Venusaur, Voltorb, Primeape, Psyduck, Moltres, Dewgong, Arcanine, Zapdos, Wigglytuff, Graveler, Lapras, Kabuto, Nidorino, Staryu, Kabutops, Ninetales, Flareon, Kingler, Pinsir, Beedrill, Tauros, Parasect, Kangaskhan, Weezing, Wartortle, Magmar, Metapod, Kakuna, Machoke, Vaporeon, Butterfree, Pidgeotto, Articuno, Charmander, Meowth, Mr. Mime, Nidoqueen, Exeggutor, Poliwag, Weepinbell, Raichu, Nidorina, Gyarados, Venomoth
+r_a_s_p_b_e_r_r_y ... Pokemon: Oddish, Wigglytuff, Seel, Starmie, Kabutops, Paras, Weepinbell, Jigglypuff
+GloveClanOG ... Pokemon: Vileplume, Metapod, Dodrio, Shellder, Venusaur, Articuno, Jigglypuff, Weepinbell, Doduo, Electrode, Raichu, Meowth, Dewgong, Paras, Blastoise, Krabby, Dugtrio, Butterfree, Diglett, Abra, Magneton, Drowzee, Cubone, Bellsprout, Graveler, Ursaring, Flareon, Cleffa, Shiny Cloyster, Bulbasaur, Alakazam, Cyndaquil, Raticate, Skiploom, Shiny Gengar, Pikachu, Shiny Machamp, Machop, Granbull, Nidorina, Raikou, Hypno, Voltorb, Shuckle, Yanma, Shiny Pidgeot, Caterpie, Weedle
+XadenVera ... Pokemon: Drowzee, Staryu, Beedrill, Nidoran-f, Charmeleon, Hitmonchan, Hitmonlee, Eevee, Muk, Jigglypuff, Metapod
+Vensha ... Pokemon: Muk, Dugtrio, Weedle, Golbat, Tentacool, Sandshrew, Seel, Kakuna, Bulbasaur, Gastly
+fatjokesarelame ... Pokemon: Seadra, Pidgeotto, Pidgeot, Exeggcute, Vileplume, Hitmonlee, Poliwag, Nidoqueen, Raichu, Charmander
+dudesmiley ... Pokemon: Nidoran-f, Cloyster, Magikarp, Bellsprout, Mew, Meowth
+TheRegalMachine ... Pokemon: Zubat, Lickitung, Slowbro, Staryu, Grimer, Sandshrew, Paras, Growlithe, Pikachu, Poliwrath, Nidoqueen, Venomoth, Magmar, Poliwag, Sandslash, Exeggutor, Eevee, Ponyta, Venonat, Butterfree, Vulpix, Hitmonchan, Weedle, Onix, Charmeleon, Primeape, Machop, Clefairy, Farfetch'd, Haunter, Ditto, Rhyhorn, Gloom, Jynx, Porygon, Psyduck, Nidoking, Magneton, Gastly, Zapdos, Caterpie, Graveler, Bulbasaur, Arcanine, Gengar, Ekans, Bellsprout
+Braska_21 ... Pokemon: Magnemite, Nidorina, Pidgey, Ekans, Psyduck, Nidoqueen, Pikachu, Doduo, Lickitung, Grimer, Machoke, Poliwag, Venomoth, Poliwhirl, Scyther, Vaporeon, Gengar, Dodrio, Oddish, Magneton, Kabutops, Mewtwo, Haunter, Onix, Butterfree, Charmeleon, Golbat, Omastar, Pidgeot, Dragonair, Weedle, Chansey, Exeggcute, Magmar, Parasect, Kabuto, Staryu, Aerodactyl, Geodude, Sandslash, Koffing
+lilmiss_numemon ... Pokemon: Nidorina, Gengar, Exeggutor, Pinsir, Diglett, Arcanine, Mr. Mime, Raichu, Kabuto, Venusaur, Ditto, Haunter, Slowpoke
+darkmex25 ... Pokemon: Gloom, Onix
+Virtuous_Hobbes ... Pokemon: Gyarados, Golbat, Raticate, Charmeleon, Magikarp, Raichu, Mew, Ekans, Spearow, Natu, Weezing
+Quppe68 ... Pokemon: Weepinbell, Nidoran-f
+BlazingDracos ... Pokemon: Spearow, Horsea, Golduck, Slowbro, Weepinbell, Koffing, Staryu, Seaking, Seel, Magneton, Slowpoke, Tangela, Onix, Venonat, Articuno, Muk, Kabutops, Oddish, Magnemite, Drowzee, Porygon, Growlithe, Machop, Persian, Nidorina, Nidoran-f, Exeggutor, Alakazam, Rapidash, Diglett, Abra, Gastly, Charmeleon, Lickitung, Raichu, Raticate, Geodude, Farfetch'd, Golbat, Zapdos, Shiny Weedle
+Wraife ... Pokemon: Rhydon, Porygon, Marowak, Raichu, Lapras, Pikachu, Dragonair, Psyduck, Bellsprout, Pidgeotto, Dugtrio, Muk, Poliwag, Metapod, Golbat, Exeggcute, Ditto, Bulbasaur, Growlithe, Shellder, Machop, Zubat, Machoke, Weedle, Kangaskhan, Nidoran-f, Fearow, Tangela, Eevee, Paras, Charmeleon, Goldeen, Vileplume, Gloom, Clefable, Starmie, Drowzee, Venomoth, Caterpie, Omastar, Mankey, Seaking, Abra, Koffing, Mewtwo, Wartortle, Gengar, Rattata, Poliwrath, Squirtle, Tentacool, Kingler, Horsea, Slowpoke, Seel, Rapidash, Nidoqueen, Gastly, Mr. Mime, Ekans, Arbok, Exeggutor, Grimer, Hitmonlee, Aerodactyl, Cubone, Sandshrew, Graveler, Dodrio, Cloyster, Ivysaur, Pidgey, Charmander, Hypno, Magnemite, Staryu, Blastoise, Persian, Meowth, Omanyte, Dratini, Venonat, Articuno, Krabby, Ponyta, Nidorina, Magikarp, Clefairy, Farfetch'd, Doduo, Spearow, Ninetales, Magneton, Jigglypuff, Vaporeon, Alakazam, Gyarados, Victreebel, Voltorb, Nidorino, Golem, Butterfree
+secret___tunnel ... Pokemon: Charmander, Clefairy, Diglett, Kingler, Zubat, Magnemite, Drowzee, Starmie, Vileplume, Paras, Ninetales, Cubone, Charizard, Haunter, Tentacruel
+DemonTrigun ... Pokemon: Dugtrio, Growlithe, Vulpix
+decepticon_soundwave232 ... Pokemon: Jigglypuff, Gengar, Rhyhorn, Pidgeotto, Nidorino, Abra, Magneton, Ponyta
+CozyBooks ... Pokemon: Venusaur, Dewgong, Dragonite
+DragonRider393 ... Pokemon: MissingNo., Venomoth, Nidoking, Gyarados, Wartortle, Goldeen, Voltorb, Aerodactyl, Raichu, Dragonite, Golem, Arbok, Machamp, Mewtwo, Charmeleon, Seadra, Moltres, Haunter, Flareon, Lapras, Venusaur, Mankey, Poliwag, Marowak, Graveler, Abra, Seel, Nidoran-f, Jigglypuff, Onix, Arcanine, Rattata, Clefairy, Electabuzz, Ninetales, Pikachu, Magikarp, Pidgey, Metapod, Nidorino, Squirtle, Omastar, Gengar, Kangaskhan, Vaporeon, Charizard, Electrode, Fearow, Horsea, Bulbasaur, Alakazam, Hypno, Machop, Sandshrew, Pinsir, Rhydon, Zapdos, Nidoqueen, Scyther, Articuno, Golbat, Ekans, Tangela, Seaking, Grimer, Chansey, Psyduck, Doduo, Poliwhirl, Nidorina, Bellsprout, Starmie, Raticate, Machoke, Tentacool, Dratini, Weezing, Tentacruel, Beedrill, Shellder, Slowbro, Kabutops, Muk, Scizor, Tyranitar
+pizzafarts2022 ... Pokemon: Dratini, Gastly, Magikarp, Sandslash, Paras, Rhydon
+lorainya ... Pokemon: Tentacool, Exeggcute, Snorlax, Horsea, Gengar, Nidorino, Doduo, Clefable, Poliwrath, Poliwag, Pinsir, Squirtle, Tauros, Ditto, Caterpie, Golem, Weezing, Pidgey, Ponyta, Persian, Fearow, Ivysaur, Goldeen, Krabby, Nidoqueen, Shellder, Kangaskhan, Koffing, Jigglypuff, Growlithe
+xse125 ... Pokemon: Hitmonlee, Gloom, Voltorb, Poliwrath, Koffing, Cubone, Dratini, Bellsprout, Articuno, Magmar, Pidgeotto, Ho-oh
+NobodyEverSaysItaly ... Pokemon: Clefable, Raichu, Magneton, Magmar, Ninetales, Goldeen, Venusaur, Geodude, Pidgeot, Sandshrew
+shinge666 ... Pokemon: Haunter, Psyduck, Spearow, Vulpix, Weezing, Machamp, Slowbro, Mew, Goldeen, Jigglypuff, Tangela, Rapidash, Blastoise, Muk, Starmie, Rhyhorn, Oddish, Pikachu, Nidorina, Geodude, Metapod, Drowzee, Snorlax, Scyther, Venusaur, Sandslash, Persian, Wartortle, Porygon, Grimer, Moltres, Caterpie, Venonat, Nidorino, Jolteon, Electabuzz, Seadra, Fearow, Cloyster, Charizard, Dragonair, Horsea, Zapdos, Sandshrew, Cubone, Ekans, Aerodactyl
+the_pryax ... Pokemon: MissingNo.
+CalvinGBC ... Pokemon: Squirtle, Dragonite, Grimer, Staryu, Doduo, Snorlax, Koffing, Goldeen, Onix, Mankey, Nidoking, Clefairy, Tentacruel, Electabuzz, Omanyte, Kadabra, Krabby, Weezing, Raticate, Spearow, Weedle, Exeggcute, Kakuna, Ponyta, Slowbro, Bellsprout, Dodrio, Sandshrew, Geodude, Lapras, Vulpix, Electrode, Magnemite, Paras, Cubone, Rhyhorn, Rattata, Blastoise, Bulbasaur, Jigglypuff, Poliwag, Psyduck, Dratini, Pikachu, Primeape, Porygon, Nidoqueen, Hypno, Ekans, Abra, Pidgeot, Arcanine, Parasect, Caterpie, Seaking, Meowth, Farfetch'd, Poliwhirl, Voltorb, Kingler, Gastly, Arbok, Hitmonchan, Cloyster, Lickitung, Magmar, Sandslash, Eevee, Charmeleon, Nidoran-m, Horsea, Shellder, Venonat, Ninetales, Charizard, Diglett, Poliwrath, Kabuto, Gyarados
+Jrodimus ... Pokemon: Exeggcute, Ninetales, Mankey, Gloom, Vileplume, Seadra, Victreebel, Seel, Gyarados, Abra, Pidgey, Cubone, Jigglypuff, Charmander, Kakuna, Golbat, Rapidash, Magnemite, Mew, Pinsir, Gengar, Pikachu, Zapdos, Hitmonchan, Rattata, Arcanine, Poliwrath, Drowzee, Nidorina, Beedrill, Chansey, Dewgong, Kingler, Pidgeotto, Magikarp, Mewtwo, Haunter, Kadabra, Farfetch'd, Aerodactyl, Golduck, Flareon, Raichu, Weedle, Rhyhorn, Charizard
+i_eat_windex ... Pokemon: Dodrio, Seaking, Pikachu
+wisco608 ... Pokemon: MissingNo., Golem, Moltres, Primeape, Rattata, Weezing, Psyduck, Pidgeotto, Wartortle, Nidorino, Nidoran-m, Kingler, Vileplume, Machamp, Ninetales, Persian, Horsea, Seel, Pidgey, Graveler, Slowbro, Nidoran-f, Koffing, Poliwhirl, Hitmonchan, Kadabra, Meowth, Grimer, Magnemite, Caterpie, Bulbasaur, Jigglypuff, Magneton, Blastoise, Lickitung, Articuno, Tentacruel, Exeggutor, Clefairy, Beedrill, Tentacool, Slowpoke, Charmeleon, Growlithe, Nidorina, Electrode, Dugtrio, Ivysaur, Jolteon, Gloom, Raticate, Raichu, Haunter, Kabutops, Gengar, Machop, Gastly, Staryu, Scyther, Golduck, Abra, Kabuto, Victreebel, Kakuna, Krabby, Parasect, Dragonair, Magikarp, Wigglytuff, Exeggcute, Flareon, Eevee, Pikachu, Venonat, Jynx, Rapidash, Starmie, Machoke, Doduo, Arbok, Zapdos, Rhyhorn, Venomoth, Lapras, Porygon, Diglett, Voltorb, Spearow, Mankey, Mew, Aerodactyl, Goldeen, Kangaskhan, Dewgong, Rhydon, Mewtwo, Alakazam, Shiny Sandslash, Seaking, Cloyster, Metapod, Dodrio, Shiny Drowzee, Onix, Weedle, Geodude, Arcanine, Farfetch'd, Chansey, Nidoqueen, Sandshrew, Fearow, Bellsprout, Zubat, Oddish, Mr. Mime, Seadra, Dratini, Pinsir, Charmander, Magmar, Squirtle, Ekans, Noctowl, Swinub, Sneasel, Unown, Hoppip, Weepinbell, Mareep, Girafarig, Slowking, Shuckle, Tyrogue, Cubone, Pineco, Miltank, Elekid, Dunsparce, Heracross, Natu, Slugma, Stantler, Houndour, Granbull, Smoochum, Hitmontop, Flaaffy, Misdreavus, Piloswine
+PlanetLulu ... Pokemon: Geodude, Zubat, Nidorino, Hitmonchan, Sandslash, Slowpoke, Bellsprout, Graveler, Horsea, Ekans
+blueocean2121 ... Pokemon: Tauros, Seaking, Machoke
+darkrebellion34 ... Pokemon: MissingNo., Kangaskhan, Parasect, Magneton, Electabuzz, Diglett, Venonat, Rhydon, Mewtwo, Tentacruel, Victreebel, Hitmonchan, Mew, Pidgeot, Beedrill, Gyarados, Arcanine, Blastoise, Ninetales, Flareon, Vileplume, Poliwrath, Primeape
+Ghostosaurus ... Pokemon: Pikachu, Scyther, Kangaskhan, Gengar, Snorlax, Haunter, Squirtle, Marowak, Flareon, Alakazam, Machamp, Onix, Blastoise, Shuckle, Aerodactyl, Magcargo, Tyrogue, Shiny Nidorina
+OptimusPrimary ... Pokemon: Rhydon
+FuraRoss ... Pokemon: Zapdos
+Zoopador ... Pokemon: MissingNo., Kabutops, Gengar, Blastoise, Venusaur, Lapras, Zapdos, Haunter, Mewtwo, Bulbasaur, Scyther
+J_NastysNook ... Pokemon: Venomoth, Clefairy, Magnemite, Venusaur, Kakuna, Kabuto, Ivysaur, Poliwrath, Charmander
+KennyFawkes ... Pokemon: Venonat, Meowth, Metapod, Golbat, Raticate, Mew, Growlithe, Pidgeot, Poliwhirl, Nidorino, Nidoqueen, Machoke, Golduck, Rhydon, Cubone, Staryu, Nidoran-f, Muk, Seaking, Machamp, Seel, Flareon, Lickitung, Kabuto, Abra, Spearow, Charmeleon, Magmar, Oddish, Persian, Gengar, Venomoth, Tentacool, Ekans, Vulpix, Graveler, Paras, Rattata, Tauros, Butterfree, Kabutops, Pidgeotto, Hitmonlee, Jigglypuff, Geodude, Nidoran-m, Rhyhorn, Ponyta, Clefable, Doduo, Magikarp, Cloyster, Raichu, Eevee, Machop, Squirtle, Arbok, Magnemite, Pikachu, Vaporeon, Poliwrath, Fearow, Horsea, Primeape, Aerodactyl, Krabby, Pinsir, Slowpoke, Exeggcute, Psyduck, Mankey, Dodrio, Dugtrio, Venusaur
+hvndfvst ... Pokemon: Exeggutor, Hypno
+JOJO_IN_FLAMES ... Pokemon: Sandshrew, Pikachu
+metalmarrow91 ... Pokemon: Gastly, Cloyster, Goldeen, Poliwhirl, Zapdos
+Pokemaniaco112 ... Pokemon: Seaking, Parasect, Clefairy, Nidoking, Pikachu
+Aherial ... Pokemon: MissingNo., Magmar, Meowth, Muk, Pikachu, Poliwag, Ivysaur, Dodrio, Kabuto, Electrode, Nidorina, Mr. Mime, Exeggcute, Golbat, Ponyta, Horsea, Onix, Slowbro, Magnemite, Rhydon, Tauros, Arbok, Marowak, Shellder, Geodude, Metapod, Grimer, Hitmonchan, Rapidash, Graveler, Starmie, Spearow, Paras, Seadra, Diglett, Sandshrew, Kadabra, Doduo, Mew, Venonat, Dewgong, Mewtwo, Rattata, Rhyhorn, Wartortle, Exeggutor, Hitmonlee, Lickitung, Aerodactyl, Haunter, Drowzee, Lapras, Clefairy, Nidoran-m, Vulpix, Omastar, Staryu, Dugtrio, Raichu, Hypno, Zubat, Beedrill, Pidgeotto, Pidgey, Mankey, Pidgeot, Victreebel, Gastly, Voltorb, Growlithe, Nidoqueen, Dragonair, Nidorino, Venomoth, Articuno, Venusaur, Oddish, Seel, Machop, Bellsprout, Raticate, Magneton, Scyther, Tentacool, Chansey, Machoke, Abra, Goldeen, Parasect, Zapdos, Dragonite, Kangaskhan, Slowpoke, Pinsir, Cloyster, Alakazam, Tentacruel, Charmander, Golduck, Poliwrath, Machamp, Magikarp, Persian, Electabuzz, Bulbasaur, Sandslash, Snorlax, Farfetch'd, Cubone, Ekans, Omanyte, Weepinbell, Blastoise, Vaporeon, Krabby, Weezing, Arcanine, Weedle, Fearow, Psyduck, Dratini, Nidoran-f, Jigglypuff, Flareon, Gyarados, Golem, Wigglytuff, Primeape, Kabutops, Poliwhirl, Eevee, Jynx, Gloom, Jolteon, Kingler, Koffing, Charizard, Moltres, Gengar, Seaking, Caterpie
+PeacePassum ... Pokemon: MissingNo., Abra, Zapdos, Pikachu, Nidoking, Parasect, Voltorb, Kadabra, Ponyta, Porygon, Goldeen, Cubone, Gloom, Pidgeot, Charizard, Haunter, Clefable, Blastoise, Chansey, Marowak, Snorlax, Growlithe, Arbok, Tangela, Magnemite, Golbat, Alakazam, Pidgey, Psyduck, Articuno, Drowzee, Jigglypuff, Kabutops, Paras, Dewgong, Eevee, Mew, Tentacool, Pinsir, Shellder, Ekans, Charmander, Pidgeotto, Meowth, Machamp
+POLTERGE15T ... Pokemon: Oddish, Charmander, Cloyster, Clefairy, Starmie, Lapras, Aerodactyl, Ditto, Haunter, Articuno
+NewEra_Panda ... Pokemon: Gastly
+Vezyric ... Pokemon: Drowzee, Porygon, Moltres, Venonat, Machamp
+SnarkMark ... Pokemon: MissingNo., Psyduck, Machop, Meowth, Rhydon, Arcanine, Raticate, Zubat, Diglett, Electrode, Dragonite, Cubone, Cloyster, Mankey, Grimer, Magnemite, Alakazam, Hitmonchan, Drowzee, Flareon, Farfetch'd, Seaking, Vaporeon, Nidoran-m, Gastly, Ivysaur, Bellsprout, Staryu, Goldeen, Kingler, Tentacool, Spearow, Nidorina, Dewgong, Hitmonlee, Muk, Slowbro, Caterpie, Primeape, Vulpix, Rhyhorn, Exeggcute, Venonat, Vileplume, Poliwag, Kakuna, Clefairy, Seadra, Voltorb, Raichu, Pidgey, Abra, Poliwhirl, Shellder, Fearow, Nidorino, Kadabra, Hypno, Koffing, Charmander, Butterfree, Pikachu, Doduo, Magikarp, Rattata, Gengar, Scyther, Graveler, Golbat, Machoke, Kabuto, Gloom, Nidoqueen, Kabutops, Ditto, Golduck, Golem, Haunter, Lickitung, Mew, Clefable, Growlithe, Gyarados, Aerodactyl, Ekans, Horsea, Geodude, Electabuzz, Metapod, Arbok, Pinsir, Jolteon, Nidoking, Magneton, Articuno, Exeggutor, Ninetales, Wartortle, Bulbasaur, Jynx, Weedle, Sandshrew, Wigglytuff, Krabby, Snorlax, Oddish, Jigglypuff, Venusaur, Magmar, Tentacruel, Marowak, Paras, Parasect, Sandslash, Charizard, Tangela, Starmie, Lapras, Tauros, Weepinbell, Mr. Mime, Omastar, Eevee, Seel, Pidgeotto, Ponyta, Rapidash, Squirtle, Poliwrath, Dugtrio, Persian, Dodrio, Omanyte, Moltres, Beedrill, Charmeleon, Pidgeot, Slowpoke, Kangaskhan, Nidoran-f, Zapdos, Venomoth, Victreebel, Chansey, Dragonair, Dratini
+Sapphoravtuber ... Pokemon: Raticate
+Partydress ... Pokemon: MissingNo., Bellsprout, Goldeen, Poliwrath, Abra, Primeape, Exeggutor, Machoke, Sandslash, Pidgey, Rapidash, Poliwag, Vulpix, Cloyster, Mankey, Squirtle, Geodude, Krabby, Magneton, Rhydon, Pikachu, Growlithe, Pidgeotto, Vaporeon, Weedle, Wobbuffet, Aipom, Wooper, Remoraid, Clefairy, Jigglypuff, Smoochum, Haunter, Doduo, Psyduck, Sunkern, Venonat, Hitmonlee, Hoppip, Paras, Marill, Machamp, Spinarak, Snubbull, Charmeleon, Ponyta, Kingler, Elekid, Seaking, Magikarp, Articuno, Gengar, Persian, Ariados, Shellder, Magnemite, Nidoking, Swinub, Lugia, Xatu, Phanpy, Feraligatr, Entei, Shiny Raticate, Nidoran-m, Raichu, Ledyba, Sudowoodo
+DEADZER0_ ... Pokemon: Oddish, Growlithe, Jolteon
+FlargBlarg ... Pokemon: Tentacool
+FEARSAUCE ... Pokemon: Staryu
+FluxSynth ... Pokemon: Wartortle, Vulpix, Zubat, Squirtle, Mew, Farfetch'd, Eevee, Pinsir, Raticate, Cubone
+shanghaiahaugh ... Pokemon: Golem
+wreckinroller ... Pokemon: Seaking
+trashtontheloser ... Pokemon: Growlithe, Flareon, Psyduck, Articuno, Charizard
+Qwertymann ... Pokemon: MissingNo., Poliwhirl, Pikachu, Gloom, Kadabra, Meowth, Ponyta, Hitmonchan, Electabuzz, Bulbasaur, Dewgong, Abra, Paras, Pinsir, Aerodactyl, Machamp, Electrode, Arbok, Mew, Weezing, Doduo, Raticate, Vileplume, Seaking, Sandslash, Starmie, Rattata, Venusaur, Machop, Dratini, Tauros, Pidgeot, Golem, Jolteon, Eevee, Psyduck, Mewtwo, Krabby, Drowzee, Pidgey, Spearow, Cubone, Nidoqueen, Sandshrew, Slowbro, Mankey, Arcanine, Ekans, Magnemite, Tentacool, Bellsprout, Weedle, Raichu, Nidorina, Goldeen, Venomoth, Machoke, Alakazam, Golduck, Zubat, Snorlax, Kingler, Cloyster, Magneton, Slowpoke, Zapdos, Nidoran-m, Pidgeotto, Magikarp, Koffing, Growlithe, Scyther, Nidoran-f, Primeape, Jynx, Charizard, Blastoise, Chansey, Muk, Porygon, Oddish, Metapod, Kangaskhan, Dragonite, Hypno, Butterfree, Flareon, Weepinbell, Vulpix, Victreebel, Farfetch'd, Venonat, Articuno, Marowak, Shellder, Poliwrath, Voltorb, Mr. Mime, Diglett, Rhyhorn, Dugtrio, Haunter, Nidoking, Geodude, Horsea, Dragonair, Magmar, Gastly, Clefable, Wartortle, Ditto, Ivysaur, Rapidash, Seel, Staryu, Exeggcute, Clefairy, Graveler, Gyarados, Wigglytuff, Onix, Seadra, Persian, Exeggutor, Vaporeon, Grimer, Ninetales, Kabutops, Caterpie, Lapras, Tangela, Rhydon, Parasect, Omanyte, Hitmonlee, Fearow, Omastar, Golbat, Nidorino, Poliwag, Charmander, Tentacruel, Gengar, Charmeleon, Kakuna, Jigglypuff
+eric_the_impostor ... Pokemon: Tangela, Fearow, Seaking, Machoke
+PVMovies ... Pokemon: Snorlax, Venonat, Tentacool, Beedrill, Weepinbell, Electrode, Oddish, Goldeen, Weedle, Mankey, Magikarp, Grimer, Scyther, Arcanine, Pidgeotto, Gengar, Ninetales, Nidorina, Blastoise, Machoke, Nidorino, Omastar, Jynx, Seel, Primeape, Kadabra, Spearow, Geodude, Machop, Abra, Graveler, Golduck, Magnemite, Aerodactyl, Dugtrio, Weezing, Eevee, Cloyster, Lapras, Poliwag, Charmeleon, Persian, Butterfree, Wartortle, Dodrio, Exeggutor, Rattata, Hypno, Parasect, Koffing, Dragonite, Metapod, Krabby, Meowth, Gyarados, Drowzee, Natu, Entei, Skiploom
+Hyuna_Ferrin ... Pokemon: Exeggutor
+krollllll1 ... Pokemon: Primeape
+ImaginationArtist ... Pokemon: Gloom, Zubat, Electabuzz, Ekans, Oddish, Beedrill, Ditto, Machoke, Psyduck
+megamaxmax ... Pokemon: MissingNo., Muk, Machop, Paras, Parasect, Cubone, Exeggutor, Starmie, Oddish, Venonat, Ditto, Dragonair, Shellder, Tentacool, Vileplume, Bellsprout, Kabuto, Pidgey, Scyther, Jigglypuff, Clefable, Spearow, Cloyster, Voltorb, Beedrill, Wartortle, Doduo, Nidorina, Koffing, Mr. Mime, Vaporeon, Caterpie, Venusaur, Mewtwo, Mankey, Magnemite, Dragonite, Golbat, Golduck, Psyduck, Growlithe, Squirtle, Grimer, Golem, Weezing, Nidorino, Haunter, Charmander, Meowth, Gloom, Weepinbell, Clefairy, Geodude, Pinsir, Hypno, Jynx, Krabby, Graveler, Rhydon, Onix, Magikarp, Seadra, Nidoran-m, Tentacruel, Vulpix, Kingler, Staryu, Poliwhirl, Omanyte, Butterfree, Nidoran-f, Dugtrio, Kangaskhan, Rhyhorn, Charmeleon, Dodrio, Seel, Ponyta, Persian, Hitmonchan, Sandslash, Articuno, Diglett, Raticate, Dewgong, Weedle, Slowpoke, Raichu, Farfetch'd, Kakuna, Slowbro, Rattata, Kadabra, Gastly, Porygon, Arcanine, Dratini, Ninetales, Poliwrath, Moltres, Machamp, Pikachu, Fearow, Rapidash, Horsea, Poliwag, Jolteon, Lapras, Mew, Venomoth, Kabutops, Exeggcute, Snorlax, Shiny Magcargo
+eupharia_ ... Pokemon: Hitmonchan, Mr. Mime, Seel, Psyduck, Golbat, Arcanine, Kabuto, Cubone, Onix, Seadra, Koffing, Staryu, Slowpoke, Primeape, Kakuna, Oddish
+kailoto ... Pokemon: MissingNo., Rattata, Machamp, Oddish, Scyther, Tauros, Rapidash, Doduo, Krabby, Kabuto, Sandshrew, Mankey, Ekans, Magikarp, Slowpoke, Lickitung, Nidorina, Pidgeotto, Arcanine, Lapras, Eevee, Geodude, Slowbro, Porygon, Spearow, Venonat, Horsea, Meowth, Muk, Cloyster, Vaporeon, Primeape, Venomoth, Starmie, Nidoking, Raticate, Zapdos, Mew, Omastar, Machop, Rhydon, Zubat, Jigglypuff, Kakuna, Moltres, Sandslash, Poliwag, Gloom, Onix, Ponyta, Dratini, Dewgong, Golem, Nidoran-f, Nidoqueen, Ninetales, Weepinbell, Graveler, Kangaskhan, Electrode, Magneton, Caterpie, Bulbasaur, Machoke, Growlithe, Seaking, Golduck, Pinsir, Gastly, Pikachu, Koffing, Alakazam, Mewtwo, Abra, Articuno, Seadra, Vulpix, Ivysaur, Dunsparce, Ursaring, Clefairy, Charmander, Shiny Paras, Haunter, Jolteon, Dodrio, Furret, Aerodactyl, Murkrow
+ForestFalcon ... Pokemon: Victreebel, Muk, Arcanine, Ditto, Krabby, Mewtwo, Farfetch'd, Weezing, Nidorina, Exeggcute
+ItsAnEd ... Pokemon: Growlithe
+Zokaryaplays ... Pokemon: Gengar
+dweebchan ... Pokemon: Poliwag, Nidorino, Magnemite, Goldeen, Raticate, Koffing
+FiresBZ ... Pokemon: Jigglypuff
+memedreams37 ... Pokemon: Spearow, Raichu
+beizmos ... Pokemon: Exeggcute, Staryu, Voltorb
+kaseynerdface ... Pokemon: Gloom, Raticate
+Funkytron ... Pokemon: Seaking, Kabuto, Psyduck, Persian
+jessartiste ... Pokemon: Tentacool
+sailorsaturn29 ... Pokemon: Snorlax, Exeggcute, Nidorina, Drowzee, Pidgey, Dewgong, Kakuna, Weepinbell, Kangaskhan, Moltres, Parasect, Dodrio, Kadabra, Hypno, Geodude, Victreebel, Gloom, Dratini, Kabuto, Staryu, Persian, Poliwag, Bulbasaur, Oddish, Magneton, Cubone, Psyduck, Vulpix, Scyther, Machoke, Rhyhorn, Jigglypuff, Pinsir, Pidgeotto, Diglett, Venonat, Paras, Ekans, Haunter, Seel, Krabby, Sandslash, Ninetales, Nidoran-m, Meowth, Magikarp, Rattata, Gengar, Raticate, Bellsprout, Magnemite, Poliwhirl, Raichu, Pidgeot, Horsea, Arcanine, Omanyte, Doduo, Golduck, Pikachu, Shellder, Golbat, Voltorb, Nidorino, Seaking, Squirtle, Farfetch'd, Ponyta, Weedle, Nidoqueen, Kabutops, Electrode, Venusaur, Zubat, Rapidash, Dugtrio, Koffing, Omastar, Rhydon, Wigglytuff, Articuno, Jolteon, Clefable, Sandshrew, Tentacool, Electabuzz, Mr. Mime, Aerodactyl, Machop, Tauros, Charmeleon, Arbok, Golem, Mewtwo, Spearow, Lickitung, Charmander, Jynx, Muk, Primeape, Porygon, Eevee
+hankhillsbutt ... Pokemon: MissingNo., Kakuna, Kadabra, Koffing, Venonat, Ponyta, Doduo, Magnemite, Rattata, Tangela, Mankey, Cubone, Golbat, Diglett, Fearow, Pidgeotto, Haunter, Dodrio, Gyarados, Spearow, Bellsprout, Pinsir, Charmander, Venusaur, Magmar, Dewgong, Ivysaur, Clefable, Eevee, Zapdos, Hypno, Seel, Nidorina, Jigglypuff, Lickitung, Tauros, Shellder, Graveler, Grimer, Exeggcute, Zubat, Kangaskhan, Charizard, Raticate, Gloom, Marowak, Blastoise, Meowth, Dratini, Vaporeon, Snorlax, Pidgey, Squirtle, Cloyster, Seaking, Omastar, Paras, Horsea, Caterpie, Exeggutor, Nidoking, Golem, Clefairy, Mewtwo, Alakazam, Flareon, Wigglytuff, Lapras, Machoke, Electrode, Oddish, Aerodactyl, Dugtrio, Rhyhorn, Nidorino, Ekans, Voltorb, Rapidash, Gastly, Nidoqueen, Poliwrath, Psyduck, Ninetales, Ditto, Porygon, Jolteon, Slowpoke, Drowzee, Staryu, Moltres, Growlithe, Persian, Sandshrew, Poliwhirl, Nidoran-m, Raichu, Krabby, Tentacool, Hitmonchan, Vulpix, Abra, Goldeen, Vileplume, Machamp, Hitmonlee, Beedrill, Magneton, Sandslash, Kabutops, Bulbasaur, Mew, Kingler, Slowbro, Machop, Arbok, Geodude, Muk, Electabuzz, Kabuto, Nidoran-f, Chansey, Metapod, Weedle, Magikarp, Jynx, Farfetch'd, Arcanine, Omanyte, Scyther, Weepinbell, Poliwag, Golduck, Seadra, Parasect, Articuno, Pikachu, Venomoth, Wartortle, Gengar, Dragonair, Pidgeot, Butterfree, Charmeleon, Starmie, Mr. Mime, Onix, Rhydon, Primeape, Weezing, Dragonite, Tentacruel, Victreebel
+stinkyspacenutz ... Pokemon: MissingNo., Onix, Voltorb, Marowak, Krabby, Nidoran-f, Ivysaur, Ekans, Mew
+retro8200 ... Pokemon: Paras, Dewgong, Nidoqueen, Gastly, Magikarp, Bellsprout, Goldeen, Cloyster, Dodrio, Kadabra, Sandshrew, Geodude, Charmeleon, Mankey, Marowak, Scyther, Raichu, Wartortle, Ponyta, Grimer, Sandslash, Pikachu, Electrode, Machop, Jolteon, Raticate, Poliwhirl, Gengar, Venomoth, Tentacool, Weepinbell, Rhyhorn, Fearow, Pidgey, Dratini, Rapidash
+RedOniVA ... Pokemon: Seel
+mbowser724 ... Pokemon: Kadabra, Lapras, Ditto, Electabuzz, Golem, Muk, Omanyte, Magneton, Krabby, Meowth, Mewtwo, Nidorino, Doduo, Marowak, Poliwag, Vaporeon, Horsea, Mankey, Ekans, Kabuto, Sandslash, Dewgong, Weezing, Golduck, Machamp, Dragonite, Raticate, Koffing, Squirtle, Magnemite, Weepinbell, Caterpie, Shiny Croconaw, Shiny Abra
+Immortal_Knight ... Pokemon: Pinsir, Dewgong, Abra, Haunter, Exeggutor, Nidorina, Bellsprout, Caterpie, Graveler, Venomoth, Hypno, Mr. Mime, Jolteon, Ditto, Wartortle, Growlithe, Ivysaur, Electabuzz, Meowth, Seaking, Jigglypuff, Ponyta, Persian, Fearow, Flareon, Kingler, Pidgeot, Zapdos, Ekans, Goldeen, Magnemite, Koffing, Slowbro, Snorlax, Weedle, Rhyhorn, Grimer, Dragonite, Scyther, Unown
+bonus_of_ducks ... Pokemon: Grimer, Mankey, Parasect, Spearow, Porygon, Rattata, Machop, Ivysaur
+BigEdith ... Pokemon: MissingNo., Primeape, Hypno, Dragonite, Vileplume, Paras, Mankey, Koffing, Golem, Growlithe, Machoke, Ekans, Shiny Geodude, Shiny Bulbasaur, Magikarp, Kakuna, Muk, Kangaskhan, Caterpie, Tauros, Starmie, Shiny Jigglypuff, Shiny Drowzee, Jolteon, Dewgong, Shiny Meowth, Pinsir, Squirtle, Grimer, Raticate, Goldeen, Kabuto, Seadra, Ninetales, Poliwag, Spearow, Cubone, Rhydon, Shiny Gastly, Wigglytuff, Psyduck, Staryu, Abra, Farfetch'd, Dodrio, Alakazam, Arcanine, Ponyta, Shellder, Horsea, Diglett, Shiny Nidorino, Metapod, Vulpix, Pikachu, Golbat, Voltorb, Scyther, Chansey, Magnemite, Shiny Mr. Mime, Shiny Seel, Kadabra, Shiny Pidgey, Nidoran-m, Exeggutor, Clefable, Hitmonlee, Zubat, Shiny Oddish, Charmander, Slowpoke, Rhyhorn, Doduo, Krabby, Mew, Lapras, Clefairy, Tentacruel, Omanyte, Sandslash, Eevee, Gloom, Rattata, Parasect, Nidoqueen, Venomoth, Marowak, Shiny Weedle, Venonat, Victreebel, Weepinbell, Shiny Bellsprout, Ivysaur, Poliwhirl, Machamp, Golduck, Blastoise, Sandshrew, Shiny Electabuzz, Moltres, Graveler, Magmar, Omastar, Shiny Venusaur, Raichu, Dragonair, Kingler, Slowbro, Charmeleon, Haunter, Arbok, Mewtwo, Snorlax, Rapidash, Shiny Kabutops, Shiny Fearow, Shiny Nidoran-f, Pidgeotto, Elekid, Machop, Jumpluff, Sentret, Piloswine, Mantine, Skiploom, Pupitar, Shuckle, Marill, Quilava, Shiny Ursaring, Hoothoot, Slugma, Gligar, Shiny Hoppip, Croconaw, Remoraid, Mareep, Houndour, Snubbull, Spinarak, Suicune, Corsola, Ledyba, Natu, Wooper, Octillery, Dugtrio, Xatu, Butterfree, Shiny Crobat, Flaaffy, Lanturn, Granbull, Aipom, Typhlosion, Feraligatr, Quagsire, Beedrill, Larvitar, Totodile, Meganium, Forretress, Shiny Phanpy, Hitmontop, Dunsparce, Tyranitar, Wartortle, Sunkern, Unown, Igglybuff, Chinchou, Ariados, Tyrogue, Scizor, Misdreavus, Kingdra, Ampharos, Sneasel, Stantler, Sunflora, Skarmory, Zapdos, Lickitung, Yanma, Politoed, Cleffa, Shiny Weezing, Swinub, Persian, Shiny Slowking, Girafarig, Pineco, Dratini, Porygon, Delibird, Seaking, Shiny Poliwrath, Nidoking, Wobbuffet, Pichu, Shiny Onix, Bayleef, Umbreon, Murkrow, Electrode, Teddiursa, Gengar, Espeon, Sudowoodo, Gyarados, Ledian, Hitmonchan, Donphan, Shiny Bellossom, Blissey, Tentacool
+SeeYouSpaceCowboi ... Pokemon: Geodude, Chansey, Pidgey, Drowzee, Dugtrio
+Shortyginger ... Pokemon: Voltorb, Vulpix, Psyduck, Flareon, Marowak, Clefairy, Charmander, Hitmonlee, Machoke, Exeggutor, Jigglypuff, Persian, Moltres, Kadabra, Machop, Rattata, Shellder, Poliwhirl, Oddish
+Arthice ... Pokemon: Sandslash
+delrue ... Pokemon: Raticate, Jigglypuff, Articuno, Doduo, Machoke, Mankey, Wartortle, Snorlax, Magneton
+Dalswip ... Pokemon: Kabutops, Omastar
+MotionSensorSoapDispenser ... Pokemon: Mr. Mime
+TimidVictini ... Pokemon: Rapidash, Nidoran-m, Chansey
+drakeandmosh ... Pokemon: Nidoking, Rhyhorn, Alakazam
+Twinborne ... Pokemon: Vulpix, Koffing, Doduo
+DJHopkins ... Pokemon: Machop
+TanuKaido ... Pokemon: Poliwrath, Magmar, Pikachu
+Metalgearbrony ... Pokemon: Abra
+LunaSeer ... Pokemon: Exeggutor, Nidorino, Nidorina
+davey_squires ... Pokemon: Mew, Wigglytuff, Venonat, Cubone
+theporktree ... Pokemon: Fearow, Dragonite, Zapdos, Hitmonlee, Starmie, Mew, Alakazam, Pichu, Cubone
+Registered_Object ... Pokemon: Slowbro, Fearow
+Mr_Knotai ... Pokemon: Golbat, Drowzee, Mankey, Nidoran-f, Weepinbell, Charmander, Marowak, Grimer, Machoke, Aerodactyl, Pidgeotto, Slowbro, Meowth, Seel, Dragonair, Pinsir, Voltorb, Lickitung, Diglett, Abra, Venonat, Poliwag, Farfetch'd, Staryu, Cubone, Chansey
+migu_froggie ... Pokemon: MissingNo.
+OniRokaku ... Pokemon: MissingNo., Cloyster, Poliwag, Flareon, Hitmonchan, Tentacool, Magnemite, Magneton, Pikachu, Marowak, Vulpix, Cubone, Wartortle, Drowzee, Gloom, Starmie, Voltorb, Machamp, Blastoise, Gastly, Weezing, Nidoran-f, Meowth, Beedrill, Paras, Jigglypuff, Slowpoke, Snorlax, Machoke, Fearow, Psyduck, Kadabra, Kingler, Aerodactyl, Slowbro, Shellder, Magikarp, Nidoran-m, Diglett, Jolteon, Persian, Seadra, Caterpie, Spearow, Rhyhorn, Porygon, Oddish, Grimer, Farfetch'd, Poliwrath, Kangaskhan, Pidgeotto, Metapod, Nidorina, Nidoking, Nidorino, Exeggcute, Kabutops, Horsea, Staryu, Kabuto, Scyther, Vileplume, Seel, Zubat, Dragonite, Kakuna, Golduck, Butterfree, Geodude, Pidgeot, Moltres, Weepinbell, Ekans, Ditto, Jynx, Pinsir, Raticate, Hypno, Arcanine, Wigglytuff, Omanyte, Pidgey, Sandslash, Rattata, Doduo, Golem, Arbok, Lapras, Electabuzz, Squirtle, Venusaur, Growlithe, Seaking, Mankey, Clefable, Ponyta, Machop, Sandshrew, Primeape, Gyarados, Poliwhirl, Electrode, Dewgong, Ivysaur, Graveler, Raichu, Goldeen, Bulbasaur, Rhydon, Weedle, Abra, Clefairy, Koffing, Alakazam, Charizard, Haunter, Onix, Rapidash, Magmar, Mewtwo, Tangela, Krabby, Hitmonlee, Bellsprout, Ninetales, Dugtrio, Dratini, Exeggutor, Muk, Parasect, Tentacruel, Venomoth, Omastar, Golbat, Zapdos, Venonat, Dragonair, Tauros, Gengar, Shiny Eevee, Charmeleon, Vaporeon, Mr. Mime, Lickitung, Chansey, Nidoqueen, Charmander, Articuno, Dodrio, Victreebel, Mew, Cleffa, Jumpluff, Sunflora, Tyranitar, Teddiursa, Shiny Tyrogue, Phanpy, Furret, Shuckle, Raikou
+ganon_t99 ... Pokemon: Dragonair
+codeman73h1337 ... Pokemon: Charmeleon, Psyduck, Machoke, Golduck, Diglett, Gyarados, Bellsprout, Vaporeon, Caterpie, Poliwrath, Nidoran-m, Venusaur, Spearow, Clefairy, Graveler, Staryu, Paras, Kingler, Dragonair, Machop, Doduo, Koffing, Marowak, Primeape, Ekans, Vulpix, Rhyhorn, Seel, Zubat, Charizard, Weedle, Jigglypuff, Shiny Wartortle, Noctowl
+wu_tang_dan ... Pokemon: Poliwrath, Kangaskhan, Lapras, Kabuto, Butterfree, Bulbasaur, Shiny Parasect, Shiny Meganium, Graveler, Feraligatr
+The_Gib ... Pokemon: Flareon
+Th4tGamerChick ... Pokemon: Chansey, Zubat, Squirtle, Clefairy, Nidorino, Nidoqueen, Bellsprout, Ekans, Abra, Electrode, Seadra, Sandslash, Magnemite, Charizard, Cubone, Blastoise, Dunsparce
+SMBslayer ... Pokemon: Wartortle, Electrode, Poliwhirl, Elekid
+evilanonguy ... Pokemon: Sandshrew, Growlithe, Machamp
+KatevonDick ... Pokemon: Voltorb, Seaking, Krabby, Dragonair, Venonat
+Kezmond1988 ... Pokemon: Gloom, Arcanine, Haunter, Jynx, Dodrio, Kadabra, Nidorino, Poliwag, Mewtwo, Goldeen, Onix, Magnemite, Lapras, Gastly, Cubone, Weepinbell, Pidgeotto, Venonat, Poliwrath, Ponyta, Machoke, Caterpie, Horsea
+Jacabus ... Pokemon: Growlithe, Magnemite
+Deuter_23_1 ... Pokemon: Haunter
+TheObituaryGrub ... Pokemon: Mewtwo
+noblewonton ... Pokemon: Clefable, Starmie, Dratini, Shellder, Mankey, Rattata, Poliwag, Slowbro, Cubone, Psyduck, Wartortle, Kakuna, Venonat, Slowpoke, Vaporeon, Charmeleon, Alakazam, Drowzee
+7thSaga ... Pokemon: Ponyta, Fearow, Arcanine, Rapidash, Lapras, Vaporeon, Pidgey, Weedle, Arbok, Jigglypuff, Marowak, Charmeleon, Beedrill, Nidorino, Meowth, Gyarados, Starmie, Haunter, Doduo, Wigglytuff, Charizard, Rhyhorn, Tentacruel, Ekans, Graveler, Dewgong, Raichu, Gloom, Zubat, Poliwrath, Pidgeot, Tentacool, Machop, Geodude, Gastly, Horsea, Primeape, Nidorina, Nidoking, Squirtle, Hitmonchan, Butterfree, Magikarp, Cloyster, Vulpix, Exeggcute, Pinsir, Voltorb, Raticate, Kakuna, Cubone, Venomoth, Seadra, Mankey, Omanyte, Abra, Ivysaur, Golem, Ditto, Diglett, Sandshrew, Dragonair, Growlithe, Sandslash, Slowpoke, Tangela, Psyduck, Paras, Alakazam, Bellsprout, Hitmonlee, Poliwag, Scyther, Metapod, Kadabra, Clefable, Slowbro, Pidgeotto, Goldeen, Shiny Mew, Nidoqueen, Seel, Nidoran-m, Dodrio, Dragonite, Golbat, Shellder, Magnemite, Staryu, Muk, Poliwhirl, Dugtrio, Magmar, Articuno, Exeggutor, Moltres, Krabby, Persian, Drowzee, Grimer, Zapdos, Clefairy, Koffing, Eevee, Kabuto, Mr. Mime, Dratini, Kabutops, Spearow, Machoke, Aerodactyl, Weezing, Rhydon, Kingler, Venonat, Jolteon, Caterpie, Farfetch'd, Venusaur, Victreebel, Magneton, Jynx, Blastoise, Lickitung, Flareon, Charmander, Entei, Porygon, Misdreavus, Sunflora, Quilava, Ledian, Hoppip, Pineco, Houndour, Bulbasaur, Shiny Igglybuff, Croconaw, Crobat, Natu, Phanpy, Hoothoot, Kingdra
+artist_lisa_m ... Pokemon: Gastly, Raticate, Kabutops, Staryu, Gloom, Drowzee, Hitmonchan, Psyduck, Rattata, Caterpie, Butterfree, Grimer, Magmar, Ekans
+poggerdinosaur ... Pokemon: Koffing, Aerodactyl, Eevee, Kingler, Houndour
+xinghuirenovation ... Pokemon: Bellsprout
+ranchaeldraws ... Pokemon: Hitmonchan, Voltorb, Diglett, Ponyta, Geodude, Sandslash, Hypno, Ekans, Kangaskhan, Wartortle, Persian, Weedle, Nidorino, Staryu, Slowbro, Paras, Poliwhirl
+pinkrobotz ... Pokemon: Horsea, Shellder, Cubone, Krabby
+LouieNJ ... Pokemon: Caterpie
+VecTron7 ... Pokemon: Omanyte, Arbok, Exeggcute, Jigglypuff, Zubat, Snorlax, Gastly, Goldeen, Venonat, Dugtrio, Poliwrath, Raticate, Rattata, Oddish, Hypno, Shellder, Pikachu, Magnemite, Geodude, Rhyhorn, Vulpix, Pinsir, Nidorina, Lapras, Weedle, Paras, Magneton, Bulbasaur, Golduck, Hitmonlee, Ponyta, Seel, Jolteon, Muk, Raichu, Charmander, Bellsprout, Marowak, Voltorb, Nidoran-f, Abra, Sandshrew, Staryu, Psyduck, Exeggutor, Fearow, Kakuna, Wartortle, Kadabra, Grimer, Krabby, Charizard, Ekans, Jynx, Piloswine, Horsea, Nidoqueen
+joVox ... Pokemon: Abra
+black_knight ... Pokemon: Marowak, Snorlax, Growlithe, Doduo, Meowth, Bulbasaur, Poliwag, Charmeleon, Jynx, Voltorb, Magikarp, Shellder, Machop, Slowpoke, Raticate, Kadabra, Pidgeotto, Pidgey, Dewgong, Bellsprout, Poliwhirl, Vulpix, Clefairy, Kabuto, Squirtle, Mewtwo, Dragonair, Abra, Charizard, Fearow, Krabby, Kabutops, Mr. Mime, Omastar, Ninetales, Alakazam, Paras, Starmie, Pikachu, Diglett, Sandslash, Wigglytuff, Weedle, Gloom, Goldeen, Magneton, Gyarados, Aerodactyl, Seel, Nidoran-f, Spearow, Venomoth, Nidorina, Gastly, Electabuzz, Vaporeon, Jigglypuff, Flareon, Metapod, Kingler, Blastoise, Arcanine, Persian, Oddish, Geodude, Koffing, Arbok, Onix, Golbat, Ekans, Rhydon, Articuno, Parasect, Muk, Slowbro, Vileplume, Pidgeot, Ponyta, Mew, Nidoqueen, Lapras, Venusaur, Nidorino, Tangela, Cubone, Seaking
+Kyublitzz ... Pokemon: Magneton, Clefable
+NoelleDay ... Pokemon: Sandshrew, Dodrio, Nidorina
+Opi_OpalBeans ... Pokemon: Ponyta
+linkybinkey ... Pokemon: Butterfree
+CrazyFroese ... Pokemon: Zapdos
+alien_angel_damaris ... Pokemon: Clefairy
+DJ_robotnik ... Pokemon: Golbat, Fearow, Doduo, Koffing, Poliwag, Ponyta, Mewtwo, Pikachu, Oddish, Wigglytuff, Jigglypuff, Voltorb, Primeape, Geodude, Kingler, Hypno, Nidoran-f, Ninetales, Slowpoke, Machamp
+Buttrush_Omega ... Pokemon: Slowbro, Rapidash, Seaking, Venomoth, Moltres, Alakazam, Sandslash, Blastoise, Rhydon
+topboxicle ... Pokemon: Drowzee, Parasect, Horsea, Ninetales
+Klogmonster ... Pokemon: MissingNo., Grimer, Nidorino, Metapod, Machop, Meowth, Electabuzz, Poliwrath, Bulbasaur, Nidoran-f, Abra, Magnemite, Jigglypuff, Caterpie, Drowzee, Zubat, Slowpoke, Golem, Kadabra, Persian, Venonat, Charmeleon, Nidoran-m, Raichu, Spearow, Haunter, Poliwag, Dewgong, Gastly, Graveler, Sandslash, Golduck, Magikarp, Victreebel, Primeape, Omastar, Alakazam, Nidorina, Ponyta, Dugtrio, Magneton, Ninetales, Clefairy, Weedle, Gloom, Pidgeotto, Kabuto, Hypno, Moltres, Arbok, Charizard, Arcanine, Voltorb, Shellder, Farfetch'd, Pikachu, Seel, Rhyhorn, Slowbro, Bellsprout, Omanyte, Snorlax, Horsea, Butterfree, Rattata, Lickitung, Weepinbell, Ekans, Poliwhirl, Raticate, Geodude, Exeggcute, Diglett, Tentacruel, Hitmonchan, Kakuna, Psyduck, Golbat, Venomoth, Dratini, Goldeen, Flareon, Pineco, Growlithe
+chilicheesedog44 ... Pokemon: Zapdos, Eevee, Mew, Blastoise, Caterpie, Tentacruel, Drowzee, Koffing, Gastly, Clefairy, Ponyta, Golduck, Charmeleon, Psyduck, Pikachu, Meowth, Geodude, Dugtrio, Jigglypuff, Seaking, Alakazam, Ekans, Parasect, Dodrio
+TheWingedRose ... Pokemon: Tentacool, Dodrio, Lapras, Scyther
+xGRABNARx ... Pokemon: Nidoqueen, Mew, Sandshrew, Nidoran-f, Hitmonlee, Nidorina, Charizard, Haunter, Vaporeon, Koffing, Machamp, Pikachu, Diglett, Spearow
+KingJellyBelly ... Pokemon: Paras, Jigglypuff, Rapidash, Dragonite, Mr. Mime, Beedrill, Vulpix
+SlashRevolver ... Pokemon: MissingNo., Nidoran-f, Beedrill, Psyduck, Primeape, Dewgong, Weedle, Clefairy, Pikachu, Shiny Kakuna, Farfetch'd, Ditto, Ponyta, Meowth, Kingler, Paras, Ekans, Shiny Staryu, Weepinbell, Nidoking, Pidgey, Scyther, Jolteon, Sandshrew, Growlithe, Hypno, Gastly, Butterfree, Machop, Cubone, Bellsprout, Venusaur, Marowak, Tentacool, Kangaskhan, Mr. Mime, Vulpix, Wigglytuff, Ninetales, Poliwag, Poliwhirl, Grimer, Seel, Geodude, Magnemite, Venonat, Rattata, Omanyte, Cloyster, Dodrio, Rhydon, Weezing, Goldeen, Starmie, Raichu, Persian, Spearow, Omastar, Kadabra, Charmeleon, Shellder, Doduo, Jigglypuff, Oddish, Slowbro, Seaking, Horsea, Exeggutor, Drowzee, Machamp, Diglett, Exeggcute, Tyrogue, Teddiursa, Hoothoot, Slugma, Haunter, Marill, Graveler, Shiny Nidorino, Unown, Elekid, Sunflora, Sudowoodo, Zubat, Gligar, Magikarp, Cyndaquil, Qwilfish, Magmar, Flaaffy, Noctowl, Ledyba, Wobbuffet, Magneton, Arcanine, Sentret, Shiny Steelix, Gloom, Golbat, Swinub, Hoppip, Ivysaur, Togepi, Wooper, Mareep, Pineco, Shiny Sunkern, Skiploom, Totodile, Raticate, Xatu, Krabby, Nidoran-m, Electabuzz, Remoraid, Shiny Octillery, Igglybuff, Spinarak, Tyranitar, Koffing, Furret, Mankey, Jynx, Typhlosion, Dratini, Phanpy, Tentacruel, Vaporeon, Kingdra, Crobat, Dugtrio, Moltres, Slowpoke, Golem, Donphan, Slowking, Dragonite, Ariados, Bayleef, Scizor, Electrode, Caterpie, Snubbull, Girafarig, Pichu, Dunsparce, Hitmonchan, Croconaw, Lapras, Jumpluff, Victreebel, Squirtle, Snorlax, Espeon, Shuckle, Voltorb, Shiny Corsola, Ho-oh, Charmander, Smeargle, Gengar, Kabutops, Rhyhorn, Alakazam
+Fyrewal ... Pokemon: Tentacool, Psyduck, Doduo, Golduck
+Dace09 ... Pokemon: Beedrill
+SquishedMonkey ... Pokemon: Weedle, Pinsir, Exeggutor, Grimer
+rowdy238 ... Pokemon: Nidoqueen
+punkygal90 ... Pokemon: Primeape, Spearow, Staryu, Pikachu, Ditto, Mew, Omanyte, Pinsir, Shiny Haunter
+TheWorstAmy ... Pokemon: Arbok, Ninetales, Nidoran-f, Drowzee, Psyduck, Geodude, Diglett, Graveler
+krashkarr83 ... Pokemon: Golbat, Rhyhorn, Zubat, Dodrio, Marowak, Haunter, Rattata, Doduo, Grimer, Weedle, Clefairy, Cloyster, Geodude
+disflipmat ... Pokemon: Voltorb, Arcanine, Dodrio, Mew
+sydelisabeth ... Pokemon: Grimer, Abra, Pidgeot
+MKTBlaze ... Pokemon: Venusaur
+DrEyepxtch ... Pokemon: MissingNo.
+I_Pity_The_Phule ... Pokemon: Chansey
+MissusArgent ... Pokemon: Haunter
+CesarDaSalad ... Pokemon: Rattata
+J_Nastys_Nook ... Pokemon: Magikarp, Wigglytuff, Shiny Haunter, Krabby, Charmander, Squirtle, Gyarados, Articuno, Magnemite, Exeggcute, Dewgong, Cloyster, Gloom, Machop, Caterpie, Koffing, Gastly, Kangaskhan, Tentacool, Kadabra, Blastoise, Ekans, Bellsprout, Jigglypuff, Ninetales, Doduo, Poliwag, Pikachu, Seel, Nidoqueen, Graveler, Sandslash, Muk, Pidgeotto, Poliwhirl, Gengar, Growlithe, Mr. Mime, Raichu, Dugtrio, Pidgey, Vaporeon, Golduck, Charizard, Hitmonchan, Electabuzz, Dragonite
+WeirdoSheep ... Pokemon: Tangela, Snorlax
+CresFresh ... Pokemon: Drowzee, Kakuna, Nidorino, Voltorb, Koffing, Dewgong, Magikarp, Butterfree, Horsea, Rattata, Tentacool
+TentacleSensei ... Pokemon: Vulpix
+zylemos ... Pokemon: MissingNo., Cloyster, Golduck, Doduo, Nidoran-f, Raichu, Raticate, Arbok, Abra, Voltorb, Venomoth, Tangela, Beedrill, Victreebel, Slowbro, Moltres, Vaporeon, Ponyta, Rhydon, Caterpie, Vulpix, Sandshrew, Jigglypuff, Golem, Sandslash, Shellder, Machoke, Chansey, Seadra, Nidorino, Tentacool, Magneton, Persian, Machamp, Kadabra, Shiny Exeggcute, Gloom, Koffing, Magikarp, Nidoran-m, Pikachu, Haunter, Goldeen, Eevee, Diglett, Lapras, Psyduck, Graveler, Hypno, Drowzee, Porygon, Growlithe, Poliwag, Ditto, Dragonite, Kingler, Geodude, Charmeleon, Seel, Kakuna, Oddish, Dratini, Pidgey, Jynx, Muk, Pinsir, Snorlax, Grimer, Tauros, Metapod, Fearow, Parasect, Arcanine, Bellsprout, Seaking, Cubone, Machop, Rattata, Charmander, Clefairy, Gastly, Meowth, Hitmonchan, Slowpoke, Gengar, Starmie, Poliwhirl, Zapdos, Mankey, Dragonair, Paras, Weedle, Zubat, Rhyhorn, Venonat, Exeggutor, Dewgong, Kabuto, Spearow, Marowak, Flareon, Lickitung, Shiny Hitmonlee, Squirtle, Ivysaur, Nidoqueen, Electrode, Scyther, Pidgeotto, Poliwrath, Pidgeot, Nidorina, Articuno, Dugtrio, Magmar, Weepinbell, Alakazam, Golbat, Weezing, Omastar, Onix, Kabutops, Blastoise, Staryu, Rapidash, Mewtwo, Sunkern, Typhlosion, Magnemite, Shiny Lugia, Entei, Furret, Tyrogue, Charizard, Houndoom, Houndour, Totodile, Feraligatr, Snubbull, Ekans, Aerodactyl, Clefable, Dunsparce, Shiny Piloswine, Steelix
+dht99 ... Pokemon: Exeggcute, Bulbasaur, Electrode, Ponyta, Doduo, Krabby, Seel, Nidoran-m, Metapod, Horsea, Rhyhorn, Geodude, Diglett, Paras, Poliwhirl, Slowpoke, Mew, Oddish, Persian, Dragonair, Magikarp, Sandslash, Jigglypuff, Pidgeotto, Victreebel, Ditto, Dratini, Pidgey, Spearow, Machop, Graveler, Ekans, Rhydon, Koffing, Tauros, Vulpix
+mandy_r40 ... Pokemon: Seadra
+jojo_snoop_lion ... Pokemon: Doduo, Growlithe, Geodude, Parasect, Lapras, Zubat, Bulbasaur, Gastly, Flareon, Voltorb, Shiny Kabutops, Krabby, Articuno, Venomoth, Slowpoke, Raticate, Magikarp, Golem, Snorlax, Magnemite, Marowak, Dragonite, Grimer, Farfetch'd, Poliwag, Gloom, Chansey, Weepinbell, Koffing, Spearow, Meowth, Drowzee, Blastoise, Pidgeot, Venonat, Rhyhorn, Kakuna, Tentacool, Sandshrew, Machamp, Dratini, Dugtrio, Magneton, Ponyta, Weedle, Machop, Rattata, Nidoking, Rhydon, Ditto, Poliwrath, Sandslash, Shiny Omanyte, Mankey, Rapidash, Gengar, Graveler, Pikachu, Kingler, Jynx, Shiny Bellsprout, Muk, Ekans, Arcanine, Mew, Nidorino, Charizard, Nidoran-f, Vulpix, Lickitung, Poliwhirl, Clefable, Staryu, Caterpie, Psyduck, Arbok, Gyarados, Exeggutor, Natu, Shiny Noctowl, Metapod, Spinarak, Primeape, Golbat, Horsea, Mr. Mime, Seel, Shiny Ariados, Quagsire, Haunter, Charmander, Unown, Oddish, Persian, Victreebel, Crobat, Paras, Shiny Meganium, Sudowoodo, Shuckle, Swinub, Pupitar, Azumarill, Espeon, Typhlosion, Scyther, Magby, Blissey, Granbull, Nidorina, Shiny Politoed, Remoraid, Jigglypuff, Sunkern, Butterfree, Ledyba, Shiny Electabuzz, Beedrill, Wigglytuff, Sunflora, Mantine, Wooper, Scizor, Eevee, Togetic, Steelix, Tentacruel, Shiny Mareep, Suicune, Teddiursa, Piloswine, Exeggcute, Quilava, Dodrio, Heracross, Raichu, Igglybuff, Bellossom, Abra, Pidgeotto, Raikou, MissingNo., Hitmontop, Moltres, Magcargo, Wobbuffet, Slugma, Slowking, Chinchou, Starmie, Electrode, Alakazam, Flaaffy, Shiny Lugia, Skiploom, Zapdos, Forretress, Tangela, Venusaur, Charmeleon, Nidoqueen, Cubone, Snubbull, Dewgong, Croconaw, Kangaskhan, Phanpy, Sentret, Larvitar, Sneasel, Houndoom, Yanma, Qwilfish, Houndour, Slowbro, Weezing, Ninetales, Lanturn
+gunjak63 ... Pokemon: Paras
+LimpBizkitWaifu ... Pokemon: Oddish
+misterfahrenheit ... Pokemon: Squirtle, Arcanine, Alakazam, Raticate
+DiabolikalDreams ... Pokemon: Jolteon, Hypno, Mewtwo, Articuno
+theemotecollecter ... Pokemon: Metapod, Venusaur, Rapidash, Victreebel, Pidgey, Electrode, Kabutops, Kadabra, Cloyster, Tentacool, Tauros, Golduck
+fealiksg ... Pokemon: Diglett, Pidgey, Geodude
+jjtizzle ... Pokemon: Wigglytuff
+doza1 ... Pokemon: MissingNo., Golbat, Onix, Staryu, Primeape, Zubat, Horsea, Metapod, Abra, Krabby, Haunter, Persian, Flareon, Vulpix, Kingler, Paras, Voltorb, Jolteon, Nidorina, Shellder, Ponyta, Articuno, Venonat, Aerodactyl, Mankey, Jigglypuff, Clefable, Koffing, Parasect, Ekans, Mr. Mime, Oddish, Raichu, Mewtwo, Magnemite, Tangela, Slowbro, Rattata, Golduck, Clefairy, Goldeen, Nidoran-f, Psyduck, Machoke, Raticate, Sandshrew, Magikarp, Diglett, Gloom, Tentacool, Sandslash, Exeggutor, Graveler, Poliwhirl, Cubone, Dragonair, Pidgeotto, Pidgeot, Grimer, Golem, Starmie, Meowth, Lickitung, Weedle, Weepinbell, Drowzee, Pidgey, Bellsprout, Nidoran-m, Spearow, Vileplume, Farfetch'd, Gyarados, Blastoise, Lapras, Hitmonchan, Marowak, Dewgong, Bulbasaur, Tentacruel, Poliwag, Doduo, Tauros, Dragonite, Muk, Jynx, Kabuto, Slowpoke, Pinsir, Geodude, Rhydon, Alakazam, Ivysaur, Kadabra, Ditto, Seel, Poliwrath, Moltres, Porygon, Charmander, Gengar, Machop, Magmar, Dugtrio, Arcanine, Kabutops, Zapdos, Hitmonlee, Nidoqueen, Vaporeon, Nidorino, Growlithe, Wartortle, Cloyster, Magneton, Hypno, Beedrill, Seadra, Ninetales, Venomoth, Dratini, Rapidash, Weezing, Electrode, Kakuna, Rhyhorn, Exeggcute, Pikachu, Machamp, Venusaur, Fearow, Omastar, Nidoking, Snorlax, Gastly, Arbok, Caterpie, Charmeleon, Omanyte, Electabuzz, Victreebel, Dodrio, Kangaskhan, Chansey, Wigglytuff, Eevee, Charizard, Scyther
+xJunon ... Pokemon: Onix
+satiresatyr ... Pokemon: Kakuna, Zapdos, Gloom, Seel, Caterpie, Magnemite, Persian
+shugonii ... Pokemon: Weepinbell, Goldeen, Diglett, Arcanine
+TylerTheAlienLifeform ... Pokemon: Electabuzz, Rapidash, Exeggcute
+bolognafactory ... Pokemon: MissingNo., Dewgong, Jigglypuff, Kangaskhan, Pidgeotto, Machoke, Squirtle, Kabuto, Tangela, Krabby, Grimer, Caterpie, Nidoran-f, Nidorina, Arcanine, Growlithe, Chansey, Poliwhirl, Tentacruel, Electrode, Weepinbell, Fearow, Kakuna, Slowpoke, Vulpix, Meowth, Beedrill, Magnemite, Pidgey, Lickitung, Arbok, Golduck, Bulbasaur, Nidorino, Ekans, Wartortle, Goldeen, Kadabra, Diglett, Mankey, Golem, Venonat, Ponyta, Voltorb, Scyther, Bellsprout, Omastar, Mew, Omanyte, Clefairy, Marowak, Starmie, Nidoran-m, Farfetch'd, Jolteon, Machop, Metapod, Psyduck, Shellder, Ditto, Primeape, Geodude, Drowzee, Mr. Mime, Rhyhorn, Weezing, Kingler, Gloom, Gastly, Onix, Slowbro, Parasect, Horsea, Exeggutor, Doduo, Raticate, Pinsir, Nidoking, Electabuzz, Snorlax, Poliwag, Gengar, Magikarp, Rapidash, Seadra, Jynx, Dratini, Muk, Charmander, Golbat, Cubone, Spearow, Kabutops, Hitmonlee, Paras, Zubat, Cloyster, Haunter, Seel, Koffing, Hitmonchan, Sandshrew, Oddish, Blastoise, Rattata, Poliwrath, Graveler, Weedle, Porygon, Articuno, Butterfree, Pikachu, Dugtrio, Persian, Dragonite, Abra, Exeggcute, Mewtwo, Charizard, Eevee, Tentacool, Dodrio, Victreebel, Vileplume, Dragonair, Ninetales, Sandslash, Lapras, Nidoqueen, Venomoth, Venusaur, Alakazam, Zapdos
+CloudStrife199781 ... Pokemon: Staryu, Electabuzz, Weedle, Charizard, Shellder, Zapdos, Voltorb
+zazakoolaid ... Pokemon: Meowth, Shellder, Kadabra, Geodude, Koffing, Raichu, Oddish, Chansey, Sandslash, Pidgeot, Rattata, Mankey
+Zoobird ... Pokemon: Charmeleon
+koalagenocide ... Pokemon: Horsea, Nidorino, Weedle, Wigglytuff, Bulbasaur, Ponyta, Ekans, Kangaskhan, Jolteon, Shellder, Nidoran-f, Magikarp, Tauros, Abra, Drowzee
+Gamer_152 ... Pokemon: Rhyhorn, Slowpoke, Poliwrath, Zapdos, Nidoran-m, Parasect, Mew, Caterpie, Ekans
+capn_brainless ... Pokemon: Onix, Doduo, Exeggcute, Zubat, Vulpix, Weepinbell, Psyduck, Dratini, Tentacruel, Slowpoke, Rhyhorn, Arcanine, Kabutops, Bellsprout, Haunter, Ditto, Charizard, Nidorina, Kadabra, Eevee, Sandshrew, Seel
+semorehair ... Pokemon: Ponyta
+Humphrey_Redwolf ... Pokemon: Nidoking
+Gravity_Why ... Pokemon: Meowth, Geodude, Abra, Alakazam, Sandshrew, Kadabra, Kangaskhan, Vaporeon, Farfetch'd, Caterpie, Slowpoke, Dratini, Eevee, Growlithe, Psyduck
+L2B1 ... Pokemon: Meowth
+jaylenjean ... Pokemon: Muk
+epicscout700 ... Pokemon: Fearow, Lickitung
+PleaseMrL ... Pokemon: Vulpix, Poliwag, Poliwhirl, Gloom, Koffing
+GH0stwight ... Pokemon: Hitmonlee, Geodude, Primeape, Machop, Ponyta, Clefairy, Zubat, Ninetales, Flareon, Gyarados, Nidoran-m, Bulbasaur, Hypno, Arbok, Nidoran-f, Abra, Mr. Mime, Moltres, Bellsprout, Dewgong, Zapdos, Arcanine, Mew, Tentacool, Gengar, Pikachu, Misdreavus, Magikarp, Cubone, Venusaur, Marowak, Alakazam, Shiny Kingler, Gloom, Ariados, Teddiursa, Jynx, Hoppip, Porygon2, Vulpix, Dragonite
+Slycoop02 ... Pokemon: Dragonair, Kadabra, Rapidash, Exeggcute
+DainBread ... Pokemon: Electabuzz, Rattata
+DiabolicJoker76 ... Pokemon: Parasect, Jigglypuff, Slowpoke, Spearow, Wigglytuff, Psyduck, Haunter, Vulpix, Sandshrew, Geodude, Horsea, Dugtrio, Cubone, Kadabra, Golduck, Ponyta, Wartortle, Starmie, Nidoking, Growlithe, Onix, Staryu, Bellsprout, Seel, Nidoran-m, Gloom, Shellder, Seaking, Weezing, Snorlax, Scyther, Pidgey, Oddish, Machop, Raticate, Hitmonchan, Seadra, Graveler, Butterfree, Dodrio, Goldeen, Voltorb, Tentacruel, Electrode, Alakazam, Grimer, Slowbro, Metapod, Dratini, Venusaur, Bulbasaur, Omanyte, Sandslash, Zubat, Persian, Clefable, Kangaskhan, Gastly, Kabutops, Meowth, Jolteon, Mr. Mime, Tauros, Dragonair, Nidorina, Farfetch'd, Rattata, Ivysaur, Lickitung, Primeape, Machamp, Clefairy, Exeggutor, Golem, Marowak, Poliwhirl, Gengar, Weedle, Dragonite, Victreebel, Charmeleon, Kingler, Raichu, Nidoran-f, Krabby, Jynx, Poliwrath, Pikachu, Magmar, Articuno, Lapras, Pineco, Weepinbell, Houndoom, Azumarill, Corsola, Spinarak, Lanturn, Sentret, Forretress, Mewtwo, Shiny Arcanine, Shiny Marill, Pidgeot, Shiny Chansey, Blissey, Misdreavus, Raikou
+Zerocool0228 ... Pokemon: Magnemite, Magikarp, Butterfree, Blastoise, Vileplume, Seadra, Porygon, Tentacool, Marowak, Bellsprout, Koffing, Geodude, Rattata, Snorlax, Golduck, Arbok, Electabuzz, Drowzee, Shellder, Krabby, Flareon, Jigglypuff, Cubone, Aerodactyl, Nidoking, Psyduck, Machop, Vaporeon
+andGalactus1 ... Pokemon: Staryu
+therealtaigo ... Pokemon: Arbok, Nidorina, Oddish, Weedle, Mankey, Kadabra, Magikarp, Psyduck, Kakuna, Venonat, Nidorino, Bellsprout, Gloom, Abra, Koffing, Ponyta, Primeape, Machoke, Slowpoke, Jigglypuff, Kabutops, Electrode, Clefairy, Golduck, Horsea
+Entot1 ... Pokemon: Flareon
+salemthecat_ ... Pokemon: Rhydon
+krakensoup03 ... Pokemon: Horsea
+MajinKrucifixus ... Pokemon: Kadabra, Kingler
+soulcoll3ctor ... Pokemon: Farfetch'd, Golbat, Fearow, Venonat, Diglett, Dragonite, Mankey, Lapras
+ThatPunk_ ... Pokemon: Exeggcute
+hikapika_lol ... Pokemon: Horsea
+stealthintel ... Pokemon: Rhyhorn, Goldeen
+DJ_Dylan27 ... Pokemon: Pidgeotto, Rhydon, Magneton, Clefairy, Kabuto, Rhyhorn, Grimer, Vaporeon, Doduo, Weezing, Bulbasaur, Growlithe, Poliwhirl, Scyther, Sandshrew, Alakazam, Abra, Geodude, Nidoking
+OliGamerBoi ... Pokemon: Eevee, Machop
+FrostlyKnight ... Pokemon: MissingNo., Zubat, Wartortle, Nidoqueen, Drowzee, Venonat, Koffing, Staryu, Kadabra, Mew, Sandshrew, Nidorino, Nidoking, Poliwag, Ponyta, Clefairy, Caterpie, Jynx, Ivysaur, Tangela, Squirtle, Growlithe, Clefable, Rattata, Charmander, Nidorina, Grimer, Poliwhirl, Krabby, Lapras, Tauros, Shellder, Cloyster, Magikarp, Blastoise, Weezing, Jigglypuff, Nidoran-m, Articuno, Pidgeotto, Flareon, Rapidash, Vileplume, Metapod, Machamp, Venomoth, Golduck, Machop, Dugtrio, Wigglytuff, Jolteon, Vaporeon, Mewtwo, Gastly, Seaking, Golbat, Doduo, Meowth, Seel, Mr. Mime, Nidoran-f, Dewgong, Golem, Graveler, Rhyhorn, Kabuto, Goldeen, Magnemite, Ditto, Persian, Parasect, Arcanine, Pikachu, Tentacool, Muk, Charizard, Mankey, Rhydon, Porygon, Raichu, Noctowl, Shiny Dunsparce, Sandslash, Pichu, Smeargle, Natu, Stantler, Ledyba, Pidgeot, Unown, Pupitar, Swinub, Delibird
+MissKayz ... Pokemon: Lapras, Shellder
+AxelTheLotl ... Pokemon: Wigglytuff
+SmokeyJuan ... Pokemon: Beedrill, Nidoking, Doduo, Machamp, Snorlax, Poliwag, Nidoran-f, Pikachu, Jigglypuff, Graveler, Poliwhirl, Dewgong, Haunter, Hitmonlee, Pidgey, Ditto, Tangela, Ekans, Bellsprout, Lapras, Paras, Rhyhorn, Starmie, Electabuzz, Geodude, Raichu, Tauros, Vulpix
+AvonTheFoxboi ... Pokemon: Ekans
+Nigiri21Sushi ... Pokemon: Kangaskhan, Mankey, Pinsir, Persian, Poliwag
+MyreaRend ... Pokemon: Slowpoke, Doduo, Koffing, Paras, Ekans, Jigglypuff, Horsea, Alakazam
+tjones1567 ... Pokemon: Horsea, Tentacool, Ekans, Zubat, Golduck, Nidoran-m, Nidoran-f, Metapod, Drowzee, Growlithe, Spearow, Cloyster, Seadra, Squirtle, Dratini, Kingler, Jolteon, Kadabra, Slowpoke, Staryu, Nidorino, Caterpie, Pidgey, Muk, Doduo, Venomoth, Gloom, Dragonite, Ninetales, Machoke, Weedle, Nidorina, Machop, Kakuna, Mankey, Ponyta, Voltorb, Cubone, Pikachu, Jigglypuff, Onix, Meowth, Porygon, Farfetch'd, Magnemite, Magneton, Dodrio, Tauros, Krabby, Rhyhorn, Mr. Mime, Poliwrath, Grimer, Weepinbell, Charmeleon, Tentacruel, Persian, Hitmonchan, Raticate, Seaking, Koffing, Omanyte, Psyduck, Machamp, Venonat, Hitmonlee, Shellder, Starmie, Haunter
+KoreeluStromboli ... Pokemon: Moltres
+dirtbagbb ... Pokemon: Persian
+TheAnglerCh ... Pokemon: MissingNo.
+Dewey1984 ... Pokemon: Growlithe, Eevee, Nidoran-m, Spearow, Zubat, Fearow, Graveler
+jasonvf13th ... Pokemon: Voltorb, Gastly, Gloom, Kadabra
+KabaBoBaba ... Pokemon: Victreebel, Marowak, Mewtwo, Chansey, Eevee, Tentacruel, Bellsprout, Hitmonlee, Blastoise, Ninetales, Squirtle, Moltres
+DenimKnightDD ... Pokemon: Cubone, Tangela, Kadabra
+pyonza ... Pokemon: Hitmonlee
+jimmy_dad_esq ... Pokemon: Weepinbell, Starmie, Weezing, Marowak, Goldeen, Butterfree, Kabuto, Cubone, Zapdos, Vileplume, Ponyta, Golbat, Magikarp, Electrode, Growlithe, Pidgey, Abra, Wartortle, Kadabra, Nidorina, Nidoking, Persian, Porygon, Dewgong, Tentacruel, Snorlax, Caterpie, Vaporeon, Psyduck, Hitmonlee, Sandslash, Articuno, Kakuna, Paras, Pikachu, Vulpix, Rhydon, Kabutops, Farfetch'd, Grimer, Metapod, Mankey, Magneton, Pidgeot, Zubat, Charmeleon, Rhyhorn, Dugtrio, Geodude, Oddish, Clefairy, Lapras, Moltres, Kingler, Machop, Primeape, Seaking, Blastoise, Voltorb, Gengar, Nidorino, Cloyster, Bulbasaur, Weedle, Slowpoke, Koffing
+WHYT3RICE ... Pokemon: Mewtwo
+Siiboxic ... Pokemon: Spearow
+RowdyRetroMoose ... Pokemon: Abra, Drowzee, Nidoran-f, Poliwhirl
+deathdrive ... Pokemon: Clefairy, Charizard, Charmander, Unown, Venomoth, Quilava, Weezing, Abra, Moltres, Shiny KingdraThe_Funyun_Knight ... Pokemon: Bulbasaur, Tentacool, Bellsprout, Vulpix, Dratini, Abra, Hypno, Magnemite, Charizard, Weezing
+Rae_the_BigO ... Pokemon: Gastly
+sk8trmuffin ... Pokemon: Shellder
+RodeoRhodes ... Pokemon: Cloyster, Primeape, Poliwrath
+the1kronos ... Pokemon: Poliwag, Gloom, Abra
+salty_bagel_face ... Pokemon: Poliwhirl, Tangela, Nidorina
+Dissinger ... Pokemon: Jigglypuff, Primeape
+GeminiJeka ... Pokemon: Poliwag, Butterfree
+chuckman315 ... Pokemon: Venonat
+paintchip ... Pokemon: Zubat, Goldeen, Nidoran-m, Voltorb, Arbok, Dratini, Sandslash, Spearow, Squirtle, Pidgey, Charizard, Metapod, Dragonite
+froyboy828 ... Pokemon: Omastar
+NytePathos ... Pokemon: Goldeen
+sherifframb ... Pokemon: Weedle, Bellsprout, Magmar, Nidoran-m, Weepinbell
+BrickleBork ... Pokemon: Grimer
+SunAndShowers ... Pokemon: Gastly, Tentacruel, Bellsprout, Pidgey, Pidgeotto, Blastoise, Bulbasaur, Exeggcute, Abra, Zubat, Magneton, Chansey, Paras, Geodude
+AkiBread ... Pokemon: Ekans
+Mr_Self_DestrucTT ... Pokemon: Mankey
+HMSBoatFricker69 ... Pokemon: Eevee, Venomoth
+J_Balla_ ... Pokemon: MissingNo., Rapidash, Magneton, Voltorb, Geodude, Parasect, Zubat, Tauros, Slowpoke, Nidoran-f, Golbat, Psyduck, Metapod, Wigglytuff, Ninetales, Machoke, Growlithe, Kabutops, Nidorino, Zapdos, Lickitung, Machop, Shellder, Krabby, Caterpie, Staryu, Persian, Onix, Mankey, Gastly, Diglett, Vulpix, Pikachu, Drowzee, Rattata, Machamp, Paras, Slowbro
+canola_oil ... Pokemon: Persian, Haunter, Raichu, Alakazam, Moltres, Arcanine, Vulpix, Jigglypuff, Kangaskhan, Diglett, Growlithe, Horsea, Krabby, Wigglytuff, Grimer, Metapod, Kingler, Exeggcute, Shellder, Seadra, Poliwhirl, Electrode, Tentacruel, Ponyta, Gastly, Farfetch'd, Nidoran-m, Slowpoke, Hitmonchan, Pidgey, Venomoth, Golem, Eevee, Dugtrio, Ivysaur, Muk, Dratini, Magneton
+radiantlightss ... Pokemon: Magikarp, Psyduck
+hiawatha_johnson ... Pokemon: Ekans, Cloyster
+AzureRefrain ... Pokemon: Geodude, Nidoqueen, Spearow, Abra, Poliwhirl, Seadra, Horsea, Mr. Mime, Seaking, Scyther, Dratini, Dragonair, Hitmonchan, Arbok, Grimer, Pidgey, Seel, Poliwag, Nidoran-m, Cubone, Goldeen, Wigglytuff
+jawbreaker6987 ... Pokemon: Graveler, Charmeleon, Rhyhorn, Pidgey
+danbobdickson ... Pokemon: Raticate
+KyrashiDraconis ... Pokemon: Kingler
+RoxYaSox ... Pokemon: Persian, Kingler, Meowth, Nidoran-f, Vileplume
+TenderGrunds ... Pokemon: Starmie
+xghostsurferx ... Pokemon: Seadra, Diglett, Magikarp, Machoke, Mewtwo
+purplespyrofan ... Pokemon: Machamp, Charmander, Vulpix, Staryu, Gloom, Mew, Abra, Muk, Shellder, Nidoran-m, Raichu, Nidorina, Zubat
+confusedbiscuit5 ... Pokemon: Seadra, Magnemite
+LuckyduckyCreations ... Pokemon: Rhyhorn
+MsDvil ... Pokemon: Rapidash
+McWigan ... Pokemon: Caterpie, Magmar, Ponyta, Paras
+bennybegreat ... Pokemon: Parasect, Caterpie, Goldeen, Nidoqueen, Drowzee, Dratini, Poliwhirl
+AraAraAlice ... Pokemon: Magneton, Tentacool, Nidoran-m, Growlithe, Nidoking, Zubat, Haunter, Krabby, Doduo, Rattata
+elr05 ... Pokemon: Ditto
+JimEpcot ... Pokemon: Nidoran-m
+Anti_pez ... Pokemon: Venusaur, Voltorb
+KahunaTuna ... Pokemon: Diglett, Persian, Raticate, Sandslash, Charizard, Machop, Weezing, Hitmonchan, Corsola
+KylesVlog ... Pokemon: Paras, Magikarp, Fearow, Hitmonchan, Slowbro, Clefairy, Goldeen, Doduo, Persian, Ponyta, Spearow, Dewgong, Metapod, Graveler
+Noxamillion ... Pokemon: Fearow, Slowpoke, Tentacruel, Dewgong, Diglett, Vaporeon, Machamp, Seel, Mewtwo, Nidorina, Ninetales, Kadabra, Golduck, Staryu, Jolteon, Venusaur
+Sleepycapp ... Pokemon: Raichu
+bagels58 ... Pokemon: Geodude
+neoamos ... Pokemon: Drowzee, Oddish, Magnemite, Kadabra, Paras, Vulpix, Pikachu
+BoJack_99 ... Pokemon: Ponyta, Weezing, Sandslash, Caterpie, Venomoth
+kanria ... Pokemon: Ponyta, Nidorina
+anonymouskultist ... Pokemon: Gastly, Paras, Mankey, Nidorina, Slowpoke, Gengar, Diglett, Metapod, Beedrill, Nidoran-m, Golduck, Magnemite, Rattata, Spearow, Slowbro, Scyther, Abra, Jigglypuff, Doduo, Kadabra, Nidoqueen, Lickitung, Jynx, Poliwhirl, Nidorino, Magikarp, Lapras, Mew, Electabuzz, Gloom, Dewgong, Seel, Alakazam, Sandslash, Weedle, Machop, Seaking, Grimer, Ivysaur, Venomoth, Clefairy, Tauros
+NightEvening254 ... Pokemon: Poliwhirl, Oddish, Bulbasaur, Jigglypuff, Voltorb, Magikarp
+stonytark_mkii ... Pokemon: Kabutops, Seel, Tentacool, Mewtwo, Venusaur
+pizzabtw ... Pokemon: Meowth, Clefable, Growlithe, Staryu, Gastly, Voltorb, Mankey, Mr. Mime, Rhydon, Abra, Nidoran-m, Horsea, Kakuna, Nidoqueen, Vileplume, Eevee, Venonat, Magikarp, Koffing, Poliwag, Goldeen, Omanyte, Nidorina, Machamp, Magneton, Parasect, Farfetch'd, Tentacruel, Psyduck, Spearow, Magnemite, Graveler, Vulpix, Blastoise, Clefairy, Machoke, Raichu, Oddish, Ninetales, Dewgong, Sandshrew, Wartortle, Squirtle, Marowak, Diglett, Seaking, Grimer, Pidgey, Pidgeotto, Pikachu, Primeape, Seadra, Electrode, Slowbro, Mew, Dratini, Alakazam, Gengar, Ponyta, Ditto, Drowzee, Poliwhirl, Weepinbell, Flareon, Rhyhorn, Ivysaur, Tentacool, Raticate, Venusaur, Cubone, Nidorino, Zapdos, Wigglytuff, Beedrill, Articuno, Jolteon, Tangela, Butterfree, Gloom, Lapras, Vaporeon, Golbat, Magmar, Hitmonchan, Dugtrio, Shellder, Geodude, Arcanine, Rattata, Starmie, Jigglypuff, Pidgeot, Porygon, Kadabra, Caterpie, Seel, Ekans, Charmander, Charmeleon, Doduo, Kangaskhan, Charizard, Rapidash, Paras, Persian, Sandslash, Poliwrath, Tauros, Exeggutor, Golduck, Scyther, Krabby, Weezing, Kingler, Weedle, Fearow, Typhlosion
+Bumfights666 ... Pokemon: Kabuto, Gastly, Jigglypuff, Clefable, Venonat, Caterpie, Grimer
+DavidW ... Pokemon: Seaking
+siren_witch ... Pokemon: Goldeen, Metapod, Machop, Magikarp, Koffing, Spearow, Rhydon, Staryu, Horsea, Growlithe, Ekans, Voltorb, Shellder, Tangela, Seel, Zubat, Seadra, Ponyta, Raticate, Gastly, Weezing, Farfetch'd, Exeggcute, Bulbasaur, Psyduck, Machoke, Kadabra, Onix, Geodude, Nidoran-f, Hitmonlee
+bigchungusfan985 ... Pokemon: Fearow, Jynx, Haunter, Machoke
+Japan_of_Green_Gables ... Pokemon: Kabutops
+darwincy ... Pokemon: MissingNo., Staryu, Magnemite, Venonat, Electrode, Farfetch'd, Kabuto, Crobat, Exeggutor, Xatu, Oddish, Hoothoot, Aipom, Wooper, Suicune, Nidoqueen, Shiny Croconaw, Quagsire, Igglybuff, Teddiursa, Shiny Shellder, Psyduck, Machoke, Pineco, Remoraid, Slugma, Krabby, Shiny Ledian, Wigglytuff, Murkrow, Steelix, Voltorb, Shiny Mew, Ekans, Swinub, Shiny Vaporeon, Shiny Sunkern, Exeggcute, Weepinbell, Zubat, Ursaring, Shiny Sandslash, Octillery, Nidoran-m, Shiny Growlithe, Feraligatr, Caterpie, Shiny Seadra, Chansey, Magmar, Shiny Slowpoke, Dewgong, Blastoise, Nidorino, Pidgey, Drowzee, Geodude, Fearow, Girafarig, Dragonair, Magneton, Horsea, Cloyster, Chinchou, Doduo, Mankey, Rhydon, Rattata, Zapdos, Weezing, Muk, Venomoth, Shiny Forretress, Larvitar, Unown, Machamp, Dratini, Eevee, Shiny Gastly, Bayleef, Umbreon, Cyndaquil, Hitmontop, Shuckle, Spearow, Houndoom, Seaking, Mantine, Sentret, Misdreavus, Furret, Natu, Togetic, Mewtwo, Shiny Graveler, Pikachu, Scizor, Bellsprout, Poliwhirl, Arbok, Diglett, Machop, Golduck, Golbat, Ho-oh, Lanturn, Kadabra, Onix, Ariados, Dunsparce, Seel, Nidoran-f, Nidoking, Lugia, Porygon2, Nidorina, Metapod, Haunter, Shiny Corsola, Jolteon, Jumpluff, Sneasel, Chikorita, Ledyba, Spinarak, Electabuzz, Shiny Gligar, Sandshrew, Sunflora, Pidgeotto, Houndour, Wartortle, Marill, Shiny Koffing, Delibird, Persian, Jigglypuff, Shiny Smeargle, Cubone, Poliwrath, Grimer, Vulpix
+Torplox ... Pokemon: Charizard
+aweful_john ... Pokemon: Butterfree, Parasect, Eevee, Nidorino, Ivysaur, Hitmonchan, Cubone, Omastar, Growlithe, Pinsir, Hypno, Poliwrath, Horsea, Haunter, Jynx, Goldeen, Arcanine, Geodude, Shellder, Venomoth, Togetic, Paras, Marowak, Swinub, Drowzee, Quagsire
+omegamac10 ... Pokemon: Hypno
+yuutoyamazaki ... Pokemon: Golduck, Pidgey
+Baratus93 ... Pokemon: Staryu, Horsea
+cainaanite ... Pokemon: Machoke, Mewtwo, Arbok, Voltorb, Victreebel, Vulpix, Abra, Zubat, Tentacruel, Persian, Mr. Mime, Golbat, Electabuzz, Metapod, Fearow, Slowbro, Drowzee, Scyther, Poliwag, Clefairy, Krabby, Magikarp, Marowak, Jigglypuff, Muk, Vileplume
+kpopsim ... Pokemon: Seel
+NeoVega619 ... Pokemon: Vulpix, Venonat, Horsea, Wigglytuff, Poliwag, Clefable
+Kamisori ... Pokemon: Weepinbell, Seel, Tauros, Ekans, Gastly, Lapras, Machoke
+MiyaMew ... Pokemon: Ponyta, Kakuna, Doduo, Zubat, Golbat, Diglett, Nidoran-f, Psyduck, Lickitung, Kabutops, Cubone, Onix, Hitmonlee, Gyarados, Magmar, Charmander, Dewgong, Pidgeotto, Rattata
+threeplacesatonce ... Pokemon: Butterfree
+Diosu ... Pokemon: Horsea, Paras, Shellder, Zubat, Sunkern, Spearow, Squirtle, Venomoth, Golduck, Flaaffy, Diglett, Porygon, Noctowl, Pinsir, Vulpix, Shuckle, Tyranitar, Nidorino, Nidoran-m, Metapod, Slowpoke, Krabby, Tentacool, Togetic, Natu, Spinarak, Dragonair, Raticate, Mankey, Meowth, Politoed, Arcanine
+dpggaming15 ... Pokemon: Staryu, Kakuna, Venonat
+BooberSweat ... Pokemon: Charmander, Charmeleon, Mewtwo
+crocapete ... Pokemon: Paras, Jolteon, Jynx, Slowpoke, Grimer, Magikarp, Staryu, Magnemite, Horsea, Wigglytuff, Dragonite, Meowth, Parasect, Goldeen, Seel, Primeape, Ekans, Drowzee, Weedle, Cloyster, Charizard, Shellder, Eevee, Farfetch'd, Clefable, Ninetales, Gyarados, Weepinbell, Rhyhorn, Gastly, Poliwhirl, Kabutops, Geodude, Nidorino, Arbok, Articuno, Starmie, Spearow, Mankey, Cubone, Butterfree, Porygon, Hypno, Metapod, Mew, Koffing, Marowak, Krabby, Doduo, Hitmonlee, Wartortle, Raichu, Ditto, Kadabra, Lapras, Pidgeot, Golem, Tentacruel, Clefairy, Pikachu, Azumarill
+OmniFlare ... Pokemon: MissingNo., Gloom, Rhydon, Nidoran-f, Seaking, Weepinbell, Grimer, Venonat, Weezing, Horsea, Kakuna, Slowbro, Doduo, Mewtwo, Ponyta, Haunter, Weedle, Goldeen, Psyduck, Magnemite, Sandshrew, Hypno, Seel, Staryu, Oddish, Nidoran-m, Eevee, Pinsir, Metapod, Bellsprout, Marowak, Rhyhorn, Paras, Sandslash, Diglett, Squirtle, Exeggcute, Jigglypuff, Seadra, Raichu, Lickitung, Dragonair, Pikachu, Venomoth, Ekans, Clefairy, Graveler, Poliwrath, Charizard, Gastly, Charmander, Machop, Arcanine, Ivysaur, Rapidash, Nidorina, Growlithe, Cubone, Jynx, Kingler, Shellder, Magikarp, Dugtrio, Meowth, Voltorb, Nidorino, Muk, Golduck, Scyther, Electabuzz, Abra, Parasect, Caterpie, Kadabra, Fearow, Hitmonlee, Snorlax, Poliwhirl, Pidgey, Farfetch'd, Machoke, Charmeleon, Lapras, Spearow, Slowpoke, Pidgeot, Koffing, Zubat, Victreebel, Nidoking, Persian, Golem, Mr. Mime, Starmie, Mankey, Magneton, Kangaskhan, Raticate, Machamp, Krabby, Rattata, Moltres, Geodude
+edward_scissorfoot ... Pokemon: Zapdos, Grimer, Snorlax, Machoke, Shiny Mew, Shiny Vaporeon, Shiny Venusaur, Moltres, Shiny Crobat, Shiny Kadabra, Shiny Muk, Jolteon
+Ichigo529 ... Pokemon: Lickitung, Gastly
+Kikka ... Pokemon: Rattata
+smalltrans ... Pokemon: Cloyster
+ojmarsh ... Pokemon: Paras
+thorn___ ... Pokemon: Abra
+dippyrocks ... Pokemon: Arbok
+gamer_kitty_katie ... Pokemon: Venonat, Ivysaur
+larsmandel ... Pokemon: Sandslash
+Assassin_1955 ... Pokemon: Exeggcute, Horsea, Rhyhorn
+mustacheboyo ... Pokemon: Dratini, Paras, Krabby, Mr. Mime, Smoochum
+kijiji_genie ... Pokemon: Marowak, Geodude, Poliwag, Raichu, Bulbasaur, Ponyta
+floofkins7 ... Pokemon: Magikarp, Kangaskhan, Venusaur
+DarthZimby ... Pokemon: Rhydon, Flareon, Charmeleon, Oddish, Kadabra, Golduck, Marowak, Koffing, Ditto, Machoke, Scyther, Diglett, Nidoran-f, Staryu, Electrode, Growlithe, Krabby, Eevee, Goldeen, Mewtwo, Zubat, Venusaur, Fearow, Sandslash, Victreebel, Nidoran-m, Vulpix, Clefable, Ninetales, Abra, Sandshrew, Moltres, Voltorb, Metapod, Kangaskhan, Slowpoke, Golbat, Weedle, Butterfree, Raichu, Psyduck, Drowzee, Parasect, Poliwag, Cubone, Tentacool, Snorlax, Persian, Machop, Charizard, Zapdos, Tangela, Paras, Jigglypuff, Pinsir, Geodude, Dragonair, Wartortle, Seel, Nidoqueen, Raticate, Doduo, Venomoth, Kabutops, Dewgong, Hitmonlee, Spearow, Kabuto, Gengar, Shellder, Muk, Pidgey, Meowth, Poliwhirl, Charmander, Exeggutor, Ekans, Caterpie, Bellsprout, Mankey, Tentacruel, Rattata, Farfetch'd, Rhyhorn, Seadra, Squirtle, Gloom, Grimer
+Brian_Taylor_ ... Pokemon: MissingNo., Ponyta, Haunter, Weedle, Persian, Charmeleon, Ekans, Arcanine, Pidgey, Horsea, Doduo, Venomoth, Rhydon, Magikarp, Nidoran-f, Omastar, Drowzee, Cubone, Vulpix, Paras, Shellder, Sandslash, Marowak, Krabby, Venonat, Meowth, Nidoking, Victreebel, Charmander, Poliwhirl, Magnemite, Graveler, Electabuzz, Spearow, Geodude, Rhyhorn, Grimer, Kadabra, Gloom, Ivysaur, Raichu, Gastly, Abra, Slowbro, Machamp, Fearow, Squirtle, Lickitung, Koffing, Snorlax, Psyduck, Butterfree, Primeape, Seadra, Staryu, Seel, Slowpoke, Rattata, Flareon, Tentacool, Bellsprout, Jigglypuff, Pikachu, Kangaskhan, Nidorino, Voltorb, Nidorina, Wigglytuff, Dugtrio, Raticate, Zubat, Poliwag, Goldeen, Nidoran-m, Oddish, Vileplume, Gengar, Farfetch'd, Dratini, Machop, Dewgong, Onix, Caterpie, Pidgeotto, Sandshrew, Kingler, Nidoqueen, Cloyster, Kabuto, Porygon, Charizard, Clefairy, Weepinbell, Jolteon, Mankey, Beedrill, Ninetales, Growlithe, Kabutops, Articuno, Tentacruel, Exeggutor, Dragonite, Clefable, Golduck, Tangela, Exeggcute, Hypno, Alakazam, Seaking, Electrode, Gyarados, Metapod, Lapras, Pidgeot, Hitmonlee, Eevee, Mew, Zapdos, Starmie, Jynx, Hitmonchan, Muk, Blastoise, Bulbasaur, Machoke, Poliwrath, Moltres, Mewtwo, Golem, Weezing, Dodrio, Wartortle, Tauros, Golbat, Rapidash, Kakuna, Dragonair, Mr. Mime, Diglett, Magmar, Arbok, Magneton, Vaporeon, Pinsir, Ditto, Omanyte, Scyther, Aerodactyl, Venusaur, Parasect, Chansey
+AmnesiaticQuote ... Pokemon: Blastoise, Poliwag, Venusaur, Drowzee, Dratini, Spearow, Nidoran-f, Rhyhorn, Rapidash, Cloyster, Vaporeon, Pidgeotto, Shellder, Magmar, Magikarp, Seel, Poliwrath, Koffing, Alakazam, Scyther, Weezing, Geodude, Metapod, Arcanine, Meowth, Poliwhirl, Tentacool, Haunter
+changedmyname4pastordave ... Pokemon: Magikarp
+storm_watch_now_ ... Pokemon: Zubat
+mfdoom77 ... Pokemon: Slowpoke, Clefairy, Krabby, Horsea, Golduck, Charizard, Doduo, Zubat, Bellsprout, Kakuna, Growlithe, Electrode, Machop, Poliwag, Goldeen, Spearow, Eevee, Dratini, Venomoth, Graveler, Victreebel, Exeggcute, Magnemite, Hypno, Muk, Abra, Ponyta, Raticate, Jynx, Tentacool
+LordGiratina666 ... Pokemon: Graveler, Oddish, Psyduck, Lickitung, Venonat
+bloodberrybluu ... Pokemon: Pidgeot
+the_nightclerk ... Pokemon: Graveler, Poliwhirl, Cubone, Bellsprout, Dewgong, Seadra, Rhydon, Electrode, Ponyta, Weezing, Victreebel, Voltorb, Dugtrio, Diglett, Dragonair, Abra, Unown, Dunsparce, Pidgey, Exeggcute, Spearow, Caterpie, Chinchou, Hoppip, Chikorita, Shiny Gastly, Murkrow, Raichu, Magnemite, Donphan, Shellder, Zubat, Slowpoke
+themolepeopletv ... Pokemon: Vulpix
+cugiine ... Pokemon: Gastly, Mewtwo, Zapdos, Chansey, Sandslash, Krabby, Growlithe, Flareon, Dugtrio, Gengar, Vulpix, Bellsprout, Hitmonlee, Poliwag, Rapidash, Grimer, Weezing, Exeggcute, Raticate, Muk, Tentacool, Tangela, Metapod, Voltorb, Machop, Meowth, Marowak, Venusaur, Scyther, Slowpoke, Paras, Shellder, Venonat, Drowzee
+JustOrisss ... Pokemon: Bulbasaur, Moltres, Jigglypuff, Rhyhorn, Pikachu
+RunxNxGun ... Pokemon: Shiny MissingNo., Nidoking, Dragonite
+Ryanpyro ... Pokemon: Doduo, Krabby, Zubat, Geodude, Tauros, Magikarp, Drowzee, Ninetales, Poliwhirl, Staryu
+TransportPKMN ... Pokemon: Sandshrew, Mewtwo
+cmarr221 ... Pokemon: Pidgeotto
+Rorunii ... Pokemon: Metapod, Caterpie
+FireballsRoommate ... Pokemon: Nidoqueen
+MatPaget ... Pokemon: Caterpie, Meowth, Raticate, Squirtle, Pinsir, Shellder
+StiffCawkedGrowlithe ... Pokemon: Pinsir, Tentacool, Pidgey, Primeape, Eevee, Bulbasaur, Ponyta, Abra, Venonat
+Awesomepewp ... Pokemon: Persian, Alakazam, Kabutops, Clefable, Ekans, Tangela, Machop, Fearow, Kadabra, Gengar, Electrode, Cloyster, Jolteon, Nidoqueen, Rapidash, Gastly, Rhydon, Raticate, Tentacool, Shiny Raichu, Pidgeotto, Golduck, Shiny Vaporeon, Diglett, Omastar, Shiny Azumarill, Articuno, Charmander, Dunsparce, Pikachu, Oddish, Shiny Teddiursa, Ponyta, Golem, Hitmontop, Magikarp, Nidoran-m, Shiny Kakuna, Shiny Geodude, Snorlax, Remoraid, Skiploom, Sudowoodo, Sandslash, Shiny Hitmonchan, Shiny Magnemite, Slowpoke, Shiny Caterpie, Shiny Bellsprout, Octillery, Noctowl, Squirtle, Shiny Shellder, Electabuzz, Hoppip, Forretress, Swinub, Paras, Furret, Pichu, Seadra, Shiny Sunkern, Vulpix, Xatu, Qwilfish, Sandshrew, Grimer, Wooper, Shiny Entei, Blissey, Shiny Dugtrio, Krabby, Kingdra, Flaaffy, Croconaw, Nidorino, Spearow, Rhyhorn, Dratini, Slowking, Shiny Mankey, Nidoran-f, Weedle, Tyranitar, Spinarak, Shiny Haunter, Bellossom, Doduo, Drowzee, Wobbuffet, Exeggcute, Ledian, Shiny Yanma, Aerodactyl, Ariados, Lugia, Dodrio, Shiny Goldeen, Rattata, Chinchou, Gloom, Pupitar, Stantler, Psyduck, Cleffa, Staryu, Wartortle, Gligar, Togetic, Beedrill, Seel, Shiny Shuckle, Meowth, Raikou, Donphan, Aipom, Phanpy, Nidorina, Chikorita, Voltorb, Meganium, Hoothoot, Quilava, Feraligatr, Slugma, Parasect, Piloswine, Suicune, Pidgey, Porygon2, Jigglypuff, Igglybuff, Pineco, Poliwag, Horsea, Weepinbell, Delibird, Marill, Metapod, Shiny Bayleef, Bulbasaur, Cubone, Shiny Poliwhirl, Golbat, Zubat, Slowbro, Corsola, Venusaur, Exeggutor, Kingler, Poliwrath, Sentret, Houndoom, Smeargle, Crobat, MissingNo., Mr. Mime, Togepi, Skarmory, Machamp, Unown, Marowak, Blastoise, Jynx, Venomoth, Sunflora, Cyndaquil, Hypno, Zapdos, Totodile, Shiny Ditto, Charmeleon, Ho-oh, Sneasel, Magby, Shiny Graveler, Ampharos, Pinsir, Growlithe, Clefairy, Abra, Snubbull, Venonat, Seaking, Ledyba, Steelix, Eevee, Koffing, Dragonair, Quagsire, Kangaskhan, Ninetales, Arbok, Jumpluff, Kabuto, Butterfree, Starmie, Politoed, Magmar, Shiny Mewtwo, Shiny Dragonite, Lapras, Girafarig, Primeape, Shiny Magcargo, Tentacruel, Hitmonlee, Smoochum, Mareep, Muk, Granbull, Ivysaur, Pidgeot, Tauros, Arcanine, Charizard, Elekid, Miltank, Shiny Mew, Nidoking, Ursaring, Magneton, Houndour, Machoke, Omanyte, Flareon, Lanturn
+Thanatos13Official ... Pokemon: Muk, Machop
+KRX50 ... Pokemon: Drowzee
+RevinCross ... Pokemon: Venusaur
+aaronthebuffalo ... Pokemon: Tangela, Nidorino, Nidoran-f
+weenie_69 ... Pokemon: Staryu
+vaevictis83 ... Pokemon: Snorlax, Mankey, Caterpie, Pidgeotto
+rounin4life ... Pokemon: Arcanine, Seaking, Moltres, Rhydon, Pidgey, Ekans, Pikachu, Ditto, Gengar, Dratini, Wigglytuff, Raticate, Parasect, Slowbro, Grimer, Nidoqueen
+Obi_Macaroni ... Pokemon: Jynx, Jigglypuff, Seel, Drowzee, Slowpoke, Sandshrew, Hitmonlee
+tennis61911 ... Pokemon: Drowzee, Slowbro, Ditto, Porygon, Sandshrew, Dratini, Machamp, Tauros, Ekans, Slowpoke, Poliwhirl, Flareon, Paras, Bulbasaur, Poliwag, Clefairy, Dewgong, Persian, Horsea
+DullahanTheInsane ... Pokemon: Poliwhirl, Dragonite
+DrewInTheTARDIS ... Pokemon: Haunter
+Skeletorso ... Pokemon: Mew, Grimer
+PetuniaScams ... Pokemon: Haunter
+GalwitMysto ... Pokemon: Dewgong, Nidorino, Horsea
+rhykn0 ... Pokemon: Seel, Blastoise, Metapod, Beedrill, Gyarados, Mewtwo, Weedle, Voltorb, Ivysaur, Machop, Articuno, Vulpix, Charmander, Mew, Kadabra
+ZeroK00L2005 ... Pokemon: Kabuto
+MissSniperella ... Pokemon: MissingNo., Raichu, Raticate, Clefable, Rhyhorn, Grimer, Shiny Seel, Drowzee, Poliwag, Magmar, Nidoran-m, Growlithe, Rapidash, Graveler, Oddish, Staryu, Machoke, Horsea, Jynx, Meowth, Snorlax, Aerodactyl, Rhydon, Caterpie, Geodude, Pidgeot, Seaking, Ekans, Shiny Gastly, Tentacool, Tentacruel, Voltorb, Marowak, Bellsprout, Spearow, Ponyta, Muk, Machop, Magneton, Paras, Kangaskhan, Vaporeon, Sandshrew, Charmander, Diglett, Shiny Clefairy, Nidorino, Tangela, Slowpoke, Slowbro, Seadra, Nidoran-f, Dratini, Lapras, Vileplume, Krabby, Gloom, Mr. Mime, Weezing, Doduo, Weedle, Weepinbell, Magnemite, Mankey, Zapdos, Charmeleon, Charizard, Zubat, Metapod, Ivysaur, Wigglytuff, Hypno, Pidgeotto, Shellder, Goldeen, Dugtrio, Poliwhirl, Jigglypuff, Golem, Kadabra, Lickitung, Blastoise, Cloyster, Omanyte, Ninetales, Nidoqueen, Abra, Hitmonlee, Gyarados, Dragonair, Magikarp, Tauros, Persian, Dragonite, Pinsir, Vulpix, Pidgey, Farfetch'd, Sandslash, Haunter, Hitmonchan, Parasect, Nidorina, Starmie, Venusaur, Porygon, Victreebel, Beedrill, Jolteon, Onix, Golduck, Cubone, Arbok, Exeggutor, Poliwrath, Pikachu, Flareon, Golbat, Moltres, Psyduck, Mew, Electrode, Articuno, Exeggcute, Rattata, Dodrio, Butterfree, Dewgong, Venomoth, Alakazam, Kabutops, Ditto, Machamp, Gengar, Electabuzz, Nidoking, Wartortle, Kingler, Squirtle, Kakuna, Arcanine, Eevee, Chansey, Scyther, Koffing, Fearow, Kabuto, Shiny Venonat, Mewtwo, Primeape, Omastar, Quilava, Girafarig, Raikou, Remoraid, Shiny Cleffa, Hoothoot, Wooper, Marill, Pupitar, Typhlosion, Stantler, Ursaring, Pichu, Yanma, Crobat, Dunsparce, Totodile, Tyrogue, Suicune, Snubbull, Shiny Slugma, Sunflora, Sunkern, Bellossom, Unown, Furret, Natu, Shuckle, Lugia, Skiploom, Ho-oh, Chikorita, Cyndaquil, Spinarak, Ledyba, Meganium, Scizor, Pineco, Tyranitar, Shiny Togepi, Togetic, Hoppip, Bulbasaur, Ariados, Gligar, Murkrow, Entei, Ampharos, Teddiursa, Magby, Chinchou
+DeadheadRyan ... Pokemon: Muk, Seaking, Mewtwo, Machoke, Gyarados, Sandshrew, Wigglytuff
+articil ... Pokemon: Pikachu
+Radish086 ... Pokemon: Koffing, Gloom, Articuno, Voltorb
+yokoCC ... Pokemon: Poliwhirl
+Chlowwy ... Pokemon: Geodude
+HermitSD ... Pokemon: Nidoran-f
+rvolveroshawott ... Pokemon: Magnemite, Magikarp, Dratini
+GOGZero ... Pokemon: MissingNo., Cloyster, Gyarados, Hypno, Exeggutor, Grimer, Persian, Sandshrew, Rattata, Venonat, Spearow, Goldeen, Golbat, Gloom, Kadabra, Staryu, Koffing, Drowzee, Gastly, Ekans, Seel, Diglett, Nidoran-m, Raticate, Wartortle, Golem, Weepinbell, Scyther, Dugtrio, Rhydon, Raichu, Machoke, Jigglypuff, Nidorino, Golduck, Jynx, Kangaskhan, Oddish, Bellsprout, Charizard, Onix, Nidoqueen, Parasect, Charmander, Poliwhirl, Tentacool, Seadra, Metapod, Lapras, Sandslash
+EthanFairw ... Pokemon: MissingNo., Kangaskhan, Jigglypuff, Wigglytuff, Parasect, Kakuna, Marowak, Slowbro, Electabuzz, Abra, Beedrill, Growlithe, Psyduck, Magnemite, Haunter, Ponyta, Diglett, Pikachu, Vulpix, Nidoking, Magikarp, Dratini, Tauros, Seadra, Spearow, Doduo, Slowpoke, Clefairy, Arbok, Ivysaur, Cubone, Wartortle, Geodude, Weezing, Paras, Sandshrew, Goldeen, Dragonite, Gastly, Pidgey, Graveler, Rhydon, Shellder, Poliwhirl, Koffing, Nidorino, Raticate, Grimer, Lickitung, Tentacool, Ditto, Charmander, Mankey, Omanyte, Kingler, Exeggutor, Sandslash, Weedle, Raichu, Staryu, Caterpie, Dugtrio, Kabuto, Flareon, Krabby, Seaking, Hypno, Squirtle, Nidorina, Voltorb, Mew, Rhyhorn, Golbat, Kabutops, Machoke, Nidoran-m, Muk, Articuno, Ekans, Rattata, Nidoran-f, Blastoise, Venomoth, Clefable, Pinsir, Charizard, Gloom, Victreebel, Drowzee, Venusaur, Seel, Poliwag, Magneton, Bulbasaur, Persian, Pidgeotto, Machop, Vaporeon, Hitmonlee, Zubat, Butterfree, Farfetch'd, Kadabra, Golem, Metapod, Dewgong, Porygon, Magmar, Rapidash, Starmie, Jolteon, Hitmonchan, Mewtwo, Gyarados, Pidgeot, Alakazam, Zapdos, Ninetales, Tentacruel, Horsea, Fearow, Oddish, Meowth, Bellsprout, Scyther, Nidoqueen, Mr. Mime, Exeggcute, Snorlax, Onix, Dodrio
+LogicPuzzle ... Pokemon: Staryu, Chansey, Pinsir, Raticate, Goldeen, Nidoran-f, Charmeleon, Kabuto, Moltres, Caterpie, Omastar, Voltorb, Poliwag, Pikachu, Nidoran-m, Rattata, Jigglypuff, Seel, Doduo, Drowzee, Arbok, Magikarp, Cloyster, Gastly, Gengar, Abra
+greygriff ... Pokemon: Nidoking
+Sgt_Twerk ... Pokemon: Clefairy, Horsea, Blastoise, Abra, Psyduck, Pidgeot, Eevee, Kangaskhan, Victreebel, Gengar, Zubat, Poliwag, Magikarp, Arcanine, Diglett, Dragonite, Rhyhorn, Magnemite, Slowpoke, Jolteon, Rhydon, Mew, Gastly, Metapod, Sandshrew, Seel, Scyther, Mr. Mime, Exeggcute, Arbok, Pikachu, Squirtle, Muk, Gyarados, Oddish, Cubone, Spearow, Magneton, Koffing, Weedle, Mankey, Nidoran-m, Golbat, Pidgey, Haunter, Raichu, Zapdos, Gloom, Staryu, Venomoth, Meowth, Tentacruel, Dratini, Charmeleon, Machop, Slowbro
+TwitchCircus ... Pokemon: Machop
+higher_peanut ... Pokemon: Voltorb, Kingler, Nidorina, Clefairy, Jolteon, Squirtle, Arcanine, Shellder, Lickitung, Dodrio, Electrode, Diglett, Rhydon, Hitmonchan, Spearow, Psyduck, Hypno, Abra, Seaking, Tentacool, Metapod, Machamp, Vileplume, Nidoran-m, Growlithe, Dewgong, Kakuna, Machop, Sandslash, Meowth, Poliwag, Nidoqueen, Weepinbell, Lapras, Koffing, Vaporeon, Caterpie, Nidoran-f, Dragonair, Electabuzz, Krabby, Articuno, Zapdos, Shiny Zubat, Venusaur, Weedle, Pidgey, Drowzee, Kadabra, Magikarp, Seadra, Paras, Magneton, Bellsprout, Ekans, Ponyta, Staryu, Parasect, Ivysaur, Starmie, Slowpoke, Golbat, Gastly, Tangela, Jynx, Golduck, Haunter, Omanyte, Venomoth, Mewtwo, Blastoise, Tentacruel, Weezing, Cubone, Venonat, Clefable, Gyarados, Gloom, Muk, Geodude, Magmar, Graveler, Pidgeotto, Nidorino, Pikachu, Alakazam, Poliwhirl, Goldeen, Jigglypuff, Rhyhorn, Scyther, Fearow, Oddish, Mew, Charizard, Raticate, Moltres, Sandshrew, Butterfree, Mankey, Exeggcute, Vulpix, Ninetales, Machoke, Gengar, Farfetch'd, Kabuto, Magnemite, Dugtrio, Pinsir, Shiny Grimer, Beedrill, Swinub, Hoothoot, Teddiursa, Chinchou, Lanturn, Remoraid, Seel, Sudowoodo, Quilava, Noctowl, Sentret, Crobat, Natu, Entei, Wobbuffet, Sunflora, Politoed, Snubbull, Qwilfish, Ariados, Skiploom, Phanpy, Igglybuff, Cloyster, Espeon, Murkrow, Smoochum, Bayleef, Exeggutor, Smeargle, Octillery, Pineco, Shiny Cyndaquil, Xatu, Houndour, Magcargo, Cleffa, Totodile, Ledyba, Sneasel, Flaaffy, Pichu, MissingNo., Porygon2, Nidoking, Flareon, Hoppip, Slowbro, Sunkern, Gligar, Wooper, Umbreon, Golem, Chansey, Unown, Charmeleon, Arbok, Ditto, Stantler, Raichu, Togepi, Togetic, Mareep, Dunsparce
+d00mguy_1993 ... Pokemon: Jynx
+Em_Orald ... Pokemon: Oddish
+1SwagKat ... Pokemon: Venusaur, Vulpix, Dragonair, Krabby, Diglett, Nidoran-f
+ImCerebus ... Pokemon: Omanyte
+pastamight ... Pokemon: MissingNo., Weedle, Oddish, Cubone, Kabutops
+catchunks ... Pokemon: Seel, Weezing, Kabuto
+21Kable ... Pokemon: Spearow, Charmeleon, Magmar, Mankey, Squirtle
+mawsuhs ... Pokemon: Butterfree
+GugCaveman ... Pokemon: Psyduck, Cubone, Swinub, Porygon, Zapdos
+amanwith2cats ... Pokemon: Rattata, Voltorb, Kabutops, Metapod
+kreeepyk ... Pokemon: Grimer
+itsssbaz ... Pokemon: Gloom, Poliwag, Bulbasaur, Nidorina, Beedrill
+sb_sanch ... Pokemon: Pidgey
+Dogaidragon ... Pokemon: Bellsprout, Ditto, Nidoran-f, Slowpoke, Voltorb, Fearow, Hitmonchan, Spearow, Dodrio, Sandshrew, Haunter, Meowth, Electabuzz, Phanpy, Pidgey
+dong_harvey ... Pokemon: Eevee, Mew, Cubone, Ekans
+Lorem_Gripsum ... Pokemon: Nidorina
+dreadoptimist ... Pokemon: Gastly, Caterpie, Weepinbell
+Bushel_Cogbern ... Pokemon: Venonat
+mattmontanez ... Pokemon: Seadra
+CrownedKittyDan ... Pokemon: Charizard, Horsea, Rhyhorn, Koffing, Omanyte, Zubat, Gyarados, Eevee, Gastly, Dragonair, Butterfree, Caterpie, Ponyta, Porygon, Psyduck, Charmander, Alakazam, Growlithe, Kabuto, Nidoran-m, Vulpix, Hypno, Persian, Mankey, Golduck, Flareon, Nidoran-f, Poliwag, Tauros, Venomoth, Arbok, Mewtwo, Graveler, Drowzee, Nidorina
+aceonis ... Pokemon: Ninetales, Gloom, Nidoking, Slowpoke, Magikarp, Muk, Magneton, Electabuzz, Aerodactyl, Venusaur, Moltres, Chansey, Ponyta, Gyarados, Flareon, Pidgeot, Lapras, Spearow, Nidorina, Vaporeon, Exeggutor
+TheDadZone ... Pokemon: Mew, Onix
+freddynzeiss ... Pokemon: Gastly
+TehGritz_ ... Pokemon: Psyduck, Growlithe, Diglett, Seaking
+reallylongfart ... Pokemon: Nidoking
+Regular_Obbi ... Pokemon: Butterfree, Kingler, Grimer, Dratini, Pidgeot
+Soo_Zee ... Pokemon: Articuno, Mew, Vileplume, Persian, Nidorina, Omanyte, Jolteon, Graveler, Blastoise, Magneton, Rhydon, Poliwrath, Machamp, Venonat, Raticate, Tentacruel, Magmar, Abra, Bulbasaur, Aerodactyl, Meowth, Sandslash, Metapod, Grimer, Cubone, Rattata, Nidorino, Tentacool, Butterfree, Exeggutor, Slowpoke, Voltorb, Kadabra, Dugtrio, Arbok, Horsea, Exeggcute, Haunter, Charizard, Magnemite, Shellder, Pidgey, Weedle, Kangaskhan, Nidoran-m, Poliwhirl, Arcanine, Kabuto, Growlithe, Charmander, Pidgeotto, Clefairy, Spearow, Poliwag, Goldeen, Porygon, Parasect, Ponyta, Farfetch'd, Golduck, Victreebel, Venusaur, Fearow, Jigglypuff, Seel, Caterpie, Bellsprout, Gengar, Moltres, Pikachu, Machop, Ninetales, Starmie, Vaporeon, Golbat, Machoke, Snorlax, Kakuna, Gastly, Dodrio, Mr. Mime, Krabby, Pidgeot, Ditto, Lickitung, Cloyster, Wartortle, Doduo, Staryu, Paras, Venomoth, Oddish, Scyther, Drowzee, Muk, Chansey, Geodude, Mankey, Ekans, Magikarp, Gligar, Hoothoot, Ivysaur, Gloom, Weepinbell, Magby, Wooper, Swinub, Shiny Slowking, Seadra, Elekid, Shiny Teddiursa, Ariados, Scizor, Eevee, Kabutops, Dragonair, Flaaffy, Azumarill, Shiny Rapidash, Mareep, Slugma, Furret
+swanson828 ... Pokemon: MissingNo., Raticate, Krabby, Marowak, Scyther, Nidorina, Raichu, Poliwag
+Scared_Cutie ... Pokemon: Geodude
+ChampValentine ... Pokemon: Golduck, Abra, Nidoking, Geodude, Paras, Charmander, Venonat, Koffing, Magnemite
+brittanywittany ... Pokemon: Magikarp, Weepinbell, Poliwag, Jigglypuff, Goldeen, Arbok, Eevee, Hypno, Geodude, Cubone, Weezing, Paras, Nidoking, Charmander, Koffing, Kingler, Zubat, Growlithe, Spearow, Clefairy, Vaporeon, Ponyta, Alakazam, Slowpoke, Persian, Golbat, Sandslash, Poliwhirl, Ekans, Golduck
+hintermoot ... Pokemon: Machamp
+SnorlaxBud ... Pokemon: Seaking, Magneton, Starmie, Voltorb, Haunter, Cloyster, Clefairy, Zapdos, Koffing, Ekans, Ivysaur, Pinsir, Nidoran-m, Fearow, Shellder, Rhyhorn, Psyduck, Pikachu, Paras, Cubone, Eevee, Nidorino, Kingler
+ArcadePark ... Pokemon: Poliwhirl, Mankey, Ekans, Golbat, Muk, Bellsprout, Zubat, Krabby, Abra, Persian, Scyther, Weedle, Cubone, Seadra
+CupOfTek ... Pokemon: Geodude, Marowak, Ditto
+AnakinSkywakka ... Pokemon: Mr. Mime, Bellsprout, Weedle, Kakuna, Poliwrath, Parasect, Machop, Exeggcute, Raticate, Kangaskhan, Ponyta, Magnemite, Vaporeon, Raichu, Growlithe, Doduo, Rapidash, Tentacool, Meowth, Arcanine, Machoke, Gloom, Seadra, Shiny Haunter, Kingler
+JazzToast ... Pokemon: Rattata, Oddish, Pinsir, Alakazam, Kabuto, Spearow, Jigglypuff, Poliwag, Sandshrew, Seadra, Koffing, Magikarp, Seel, Magnemite, Primeape, Nidoran-m, Machoke, Articuno, Pidgey, Slowbro, Seaking, Growlithe, Goldeen, Weezing, Nidoran-f, Nidorina, Charizard, Doduo, Haunter, Grimer, Shellder, Meowth, Bulbasaur, Ponyta, Weedle, Chansey, Ditto, Raichu, Metapod, Charmander, Raticate, Voltorb, Paras, Slowpoke, Onix, Exeggcute, Pikachu, Tentacool, Flareon, Zubat, Venonat, Bellsprout, Gloom, Dratini, Diglett, Mankey, Machamp, Machop, Horsea, Dewgong, Omanyte, Hypno, Hitmonlee, Nidorino, Magmar, Drowzee, Lickitung, Blastoise, Fearow, Cubone, Scyther, Butterfree, Muk, Starmie, Graveler, Psyduck, Caterpie, Abra, Kadabra, Magneton, Clefairy
+shaddo_kun ... Pokemon: Exeggcute, Magmar, Magnemite, Snorlax, Aerodactyl
+kazumifey ... Pokemon: Slowpoke, Graveler, Magmar, Pidgey, Haunter
+Drivont ... Pokemon: Machoke, Ivysaur, Rattata, Electrode, Tentacool
+small_tanks ... Pokemon: MissingNo., Gengar, Magneton, Wartortle
+dboopy ... Pokemon: Haunter
+thetriplestan ... Pokemon: Nidoran-m, Pikachu, Magnemite, Mankey, Kangaskhan, Blastoise, Kabuto, Machoke, Mewtwo, Caterpie, Primeape, Dugtrio
+FenixBloodXIII ... Pokemon: Kingler, Dodrio, Ninetales, Staryu, Rhydon, Dugtrio, Oddish, Eevee
+The_Flamango ... Pokemon: Paras, Oddish
+drownerofpikmin ... Pokemon: Blastoise, Snubbull
+GoodboiJamie ... Pokemon: Bellsprout, Growlithe, Jigglypuff, Wigglytuff, Igglybuff
+funbear27 ... Pokemon: Gastly
+kitsunerokaku ... Pokemon: Scyther, Tauros, Arbok, Kabutops, Exeggutor, Shellder, Chansey, Weedle, Mankey, Charmander, Venonat, Magneton, Metapod, Ninetales, Seel, Cloyster, Tangela, Koffing, Electrode, Nidoqueen, Poliwag, Onix, Horsea, Primeape, Venusaur, Bellsprout, Staryu, Machop, Vaporeon, Ditto, Dragonite, Gastly, Golbat, Nidoking, Poliwhirl, Meowth, Farfetch'd, Nidorina, Lapras, Poliwrath, Krabby, Kadabra, Electabuzz
+xMuramasax ... Pokemon: Alakazam, Mew, Nidoqueen
+lildragonwingthegladiator ... Pokemon: Goldeen, Tentacruel, Ninetales, Seaking, Weedle, Alakazam, Koffing, Pinsir, Machop, Graveler, Abra, Venonat
+grandmalily21 ... Pokemon: Rapidash
+finalknight88 ... Pokemon: Poliwag
+haxx64 ... Pokemon: Slowbro, Zapdos, Grimer, Ditto, Kabuto, Remoraid
+mazzymax_ ... Pokemon: Voltorb, Raticate, Chansey, Pikachu, Aerodactyl, Oddish, Arcanine, Bellsprout, Vulpix, Drowzee, Gastly, Metapod, Weepinbell, Nidoking, Arbok, Ivysaur
+DigitalQuill ... Pokemon: Dragonair, Vileplume, Geodude, Gengar, Exeggcute, Nidorina, Arcanine, Mewtwo, Flareon, Charmander, Drowzee, Seadra, Venonat, Moltres, Aerodactyl, Magnemite, Tangela, Alakazam, Spearow, Magmar, Hitmonchan, Clefairy, Growlithe, Gastly, Metapod, Eevee, Marowak, Beedrill, Bellsprout, Parasect, Ninetales, Golduck
+Soltersortna ... Pokemon: Rapidash, Arcanine, Gyarados, Cubone, Magikarp, Jigglypuff, Aerodactyl, Parasect, Poliwrath, Pinsir, Grimer, Arbok, Shiny Feraligatr
+seagram198 ... Pokemon: Pikachu
+Last_Raven17 ... Pokemon: Shellder, Zapdos, Seadra, Dewgong, Poliwhirl, Marowak, Nidoqueen, Gastly, Zubat, Ponyta, Caterpie, Poliwag, Pidgey, Venomoth, Drowzee, Charizard, Wartortle
+FunkyFreep ... Pokemon: Oddish, Weepinbell
+ppgravy ... Pokemon: Pidgey
+MinimalEfort ... Pokemon: Machoke
+farria828 ... Pokemon: Muk
+justin_cookie ... Pokemon: Tentacool
+pkrpl8r_420 ... Pokemon: Magikarp, Koffing, Muk, Electrode, Kabuto, Diglett, Ivysaur, Gastly, Golbat
+nikkifunky ... Pokemon: Omanyte, Shellder, Nidoran-m, Golem, Pikachu, Parasect, Weepinbell, Nidoran-f, Charmander, Machoke, Doduo, Electabuzz, Raticate, Spearow, Haunter
+ThankYouForBeingAFred ... Pokemon: Muk
+bleu_2ay ... Pokemon: Hypno, Pidgeotto, Sandshrew, Pidgey, Golbat, Electabuzz, Seadra, Koffing, Geodude, Gastly, Drowzee, Grimer, Moltres, Venonat, Metapod, Nidoran-m, Vulpix, Ekans, Exeggutor
+devonchic28 ... Pokemon: Pikachu, Ponyta, Abra, Ditto, Machamp, Wigglytuff, Snorlax
+Nintenboy ... Pokemon: Weepinbell, Zubat, Sandshrew, Poliwag, Arcanine, Pikachu, Moltres, Vulpix
+JjBoyA ... Pokemon: Magikarp, Growlithe, Onix, Exeggcute
+EZbel ... Pokemon: Poliwag, Goldeen
+johnfratcorn ... Pokemon: Horsea
+Xaeromancer ... Pokemon: Koffing, Gengar
+danscissorman ... Pokemon: Weedle
+super_moose_z ... Pokemon: Paras, Pikachu
+colbymonk ... Pokemon: Vulpix, Staryu
+stink_ee ... Pokemon: Ponyta, Venusaur, Poliwhirl, Poliwag, Gastly
+clamSECURITY ... Pokemon: Spearow, Weepinbell, Kabutops, Rattata, Grimer, Tentacool, Kadabra, Machop, Pidgey, Onix, Flareon, Seel, Cloyster, Meowth, Electrode, Golbat, Voltorb, Fearow, Geodude, Ekans, Ditto
+GrandpaVT ... Pokemon: Seel, Zubat, Dodrio, Mewtwo
+CyrilVaxx ... Pokemon: Hitmonchan, Abra, Dragonair, Parasect, Aerodactyl, Bulbasaur, Vulpix, Raichu, Mr. Mime, Dragonite, Rhyhorn, Ditto, Jynx, Shellder, Rapidash, Nidoran-f, Poliwag, Persian, Pidgey, Krabby, Sandshrew, Machamp, Golbat, Psyduck, Pikachu, Dratini, Rattata, Arcanine, Horsea, Jolteon, Cubone, Haunter, Kadabra, Koffing, Golem, Victreebel, Nidorino, Ponyta, Gastly, Venonat, Kabuto, Mew, Tauros, Tentacool, Weezing, Dugtrio, Primeape, Lapras, Nidoran-m, Graveler, Dodrio, Zapdos, Venomoth, Magikarp, Mankey, Rhydon, Pinsir, Metapod, Clefairy, Smeargle, Beedrill, Electabuzz, Shiny Natu, Nidoqueen, Voltorb, Staryu, Caterpie, Doduo, Geodude, Snorlax, Togetic, Sunflora, Chansey, Noctowl, Pineco, Machop, Snubbull, Remoraid
+goodgumbo ... Pokemon: Zapdos, Nidoran-f, Cloyster, Rattata
+beaniegreen ... Pokemon: Pidgey, Parasect, Golbat
+ashittywizard ... Pokemon: Weepinbell, Rhyhorn, Weezing, Golbat, Caterpie, Rapidash, Lapras, Meowth
+Bloopme ... Pokemon: Exeggcute
+tamadudechi ... Pokemon: Mankey
+SpiderByt3s ... Pokemon: Hypno, Clefairy, Spearow, Haunter, Nidoqueen, Jigglypuff, Nidorina, Persian, Machop, Zubat, Cubone, Exeggcute, Scyther, Krabby, Jolteon, Caterpie, Sandslash, Slowpoke, Nidoran-f, Golbat, Vulpix, Kadabra, Nidorino, Pinsir, Pikachu, Vaporeon, Rhydon, Raticate, Horsea, Kakuna, Zapdos, Electabuzz, Tentacool, Ivysaur, Meowth, Hitmonlee, Machamp, Blastoise, Weepinbell, Hitmonchan, Ekans
+ognoob01 ... Pokemon: Charmeleon, Weepinbell, Caterpie, Zapdos, Nidorina, Jynx, Sandslash, Chansey, Oddish
+NoovaDT ... Pokemon: Grimer, Pikachu
+iknowmelvin ... Pokemon: Sandshrew, Nidorino, Gastly
+stonkles\s ... Pokemon: Paras, Jigglypuff, Machop, Venonat, Golem, Gyarados, Charizard, Drowzee, Tentacool, Meowth
+siriuslykrazee ... Pokemon: Seadra
+stonkles  ... Pokemon: Bellsprout, Horsea, Lapras, Golduck, Abra
+tendiesandfries ... Pokemon: Vulpix
+RazzylDazyl ... Pokemon: Diglett
+secondchairmm ... Pokemon: Seel
+PassionPossum ... Pokemon: Mr. Mime, Growlithe, Bulbasaur, Machoke, Nidorina, Weepinbell, Bellsprout, Metapod, Electabuzz, Jynx, Ekans, Voltorb, Drowzee, Pidgey, Arcanine, Gloom, Charmander, Meowth, Muk, Dewgong, Exeggutor, Pinsir, Pikachu, Haunter, Dodrio, Sandshrew, Zapdos
+stelliokontos69 ... Pokemon: Nidoran-m
+zuul2497 ... Pokemon: Graveler, Hypno
+lapii79 ... Pokemon: Bulbasaur
+arcadepre123 ... Pokemon: Kadabra
+GooseTheMoose528 ... Pokemon: Poliwhirl, Venusaur, Jolteon, Omastar, Persian, Arcanine
+KeiFresh ... Pokemon: Marowak
+CptR3dBeard ... Pokemon: Nidoran-m, Ponyta, Grimer, Geodude, Seadra, Magmar
+ahnorex ... Pokemon: Dragonite
+TheBunniekins ... Pokemon: Dratini, Kabuto, Rattata, Diglett, Cubone, Magnemite, Arbok, Zubat, Sandshrew, Blastoise, Vaporeon, Seadra, Koffing, Jigglypuff, Vileplume, Metapod, Kangaskhan, Pidgeotto, Lapras, Pikachu, Poliwhirl, Dewgong, Goldeen, Growlithe, Mankey, Haunter, Abra, Jynx, Articuno, Raichu, Flareon, Ninetales, Charizard, Arcanine, Ampharos
+OldGreggTheButcher ... Pokemon: Arcanine, Pikachu, Lapras, Kadabra, Raticate, Seel, Nidoran-f, Clefable, Charizard, Diglett, Scyther, Drowzee, Machop
+vanillagorilla416 ... Pokemon: Clefairy
+Alfasilverblade ... Pokemon: Porygon, Dragonite, Scyther, Jigglypuff, Gloom
+Rika_972 ... Pokemon: Horsea
+ashleyz06252015 ... Pokemon: Electrode, Machop, Nidorino, Venonat, Parasect, Wigglytuff, Muk, Charmeleon, Jynx, Nidorina, Gloom, Slowpoke, Poliwag, Alakazam, Rattata, Clefairy, Oddish, Diglett, Aerodactyl, Weedle, Abra, Mew, Ledyba
+Mortal__Moose ... Pokemon: Hypno, Rapidash, Qwilfish, Kingler
+samantharoni089 ... Pokemon: Kadabra, Zapdos, Rhyhorn, Hypno, Porygon, Grimer, Gloom, Cloyster, Pineco, Sentret, VoltorbIncinerain ... Pokemon: Goldeen
+monkeymax92 ... Pokemon: Vaporeon
+Cycrum ... Pokemon: Weezing, Krabby
+Dehry ... Pokemon: Tentacruel
+yokodeschanel ... Pokemon: Voltorb, Poliwag, Kingler, Poliwhirl, Staryu, Exeggcute
+FiveOneFour ... Pokemon: Golbat, Magnemite, Electrode, Poliwag, Arbok, Nidoking, Articuno, Metapod, Flareon, Machop, Kabutops, Shellder, Goldeen, Magmar, Weedle, Kakuna, Kingler, Clefairy, Tauros, Kadabra, Pidgeot, Onix, Exeggutor, Moltres, Kangaskhan, Rhyhorn, Mewtwo, Alakazam, Raichu, Charmeleon, Snorlax, Omanyte, Psyduck, Voltorb, Electabuzz, Pidgeotto, Hypno, Venonat, Nidoran-m, Gastly, Sandshrew, Pinsir, Mankey, Charmander, Growlithe, Oddish, Abra, Bulbasaur, Diglett, Mr. Mime, Paras, Chansey, Omastar, Machamp, Tentacool, Arcanine, Dratini, Ekans, Persian, Kabuto
+ieatchair ... Pokemon: Shellder, Seel, Pidgeotto, Nidoking, Mankey, Oddish, Cubone, Geodude, Weedle, Pidgeot, Machoke, Kabutops, Growlithe, Diglett, Lapras, Pikachu, Muk, Rapidash
+angryarrow7 ... Pokemon: Clefable
+SBKi ... Pokemon: Nidoran-f, Poliwag, Dratini, Wigglytuff, Venonat, Growlithe
+wasd_movement ... Pokemon: Ekans
+VanillaNightrail ... Pokemon: Mankey, Vileplume, Oddish, Poliwhirl, Hypno, Ninetales, Totodile, Charmeleon, Vaporeon
+IkariTenshi ... Pokemon: Poliwag, Lapras
+jambrone ... Pokemon: Dragonite, Kadabra, Aerodactyl, Tangela, Shiny Poliwag, Dugtrio, Kabutops
+frank_drescher ... Pokemon: Spearow, Metapod, Drowzee, Sandshrew, Alakazam, Raticate, Exeggutor, Weedle, Gengar, Oddish, Tangela, Nidoqueen, Kingler, Nidorina, Lickitung, Cubone, Tentacool, Ponyta, Venusaur, Persian, Bellsprout, Mr. Mime, Mewtwo, Arcanine, Wartortle, Parasect, Fearow, Snorlax, Dewgong, Koffing, Exeggcute, Horsea, Lapras, Charmander, Kadabra, Flareon, Rattata, Grimer, Machop, Rhydon, Meowth, Poliwhirl, Onix, Nidorino, Aerodactyl, Pikachu, Slowpoke, Porygon, Pidgeotto, Magnemite, Arbok, Growlithe, Jolteon, Blastoise, Marowak, Gloom, Victreebel, Seadra, Omanyte, Kangaskhan, Staryu, Machoke, Haunter, Golbat, Diglett, Primeape, Doduo, Ekans, Moltres, Psyduck, Gyarados, Seel, Gastly, Chansey, Krabby
+Coach__McGuirk ... Pokemon: Mankey, Aerodactyl, Koffing, Snorlax, Gloom
+BlackTieBlackSuit ... Pokemon: Graveler, Persian, Ponyta
+StinkySkunkApe ... Pokemon: Seaking
+micahwaved ... Pokemon: Victreebel, Jigglypuff, Ponyta
+Epochol ... Pokemon: Clefairy, Tentacool, Ekans, Spearow, Growlithe, Lickitung, Vaporeon, Slowbro, Starmie, Ampharos, Mr. Mime, Murkrow, Rhyhorn, Pineco, Magnemite, Snubbull, Nidorino, Gyarados, Bulbasaur, Natu
+nugbones ... Pokemon: MissingNo., Weedle, Zapdos, Graveler, Grimer, Gloom, Shiny Ponyta, Fearow, Rattata, Butterfree, Venomoth, Pikachu, Cubone, Dewgong, Kadabra, Arbok, Staryu, Vileplume, Clefairy, Weepinbell, Vaporeon, Primeape, Metapod, Nidoran-m, Tentacruel, Cloyster, Goldeen, Shiny Magikarp, Growlithe, Krabby, Vulpix, Oddish, Jigglypuff, Venonat, Geodude, Aerodactyl, Poliwag, Shiny Machamp, Lapras, Psyduck, Pidgeotto, Horsea, Abra, Golbat, Meowth, Eevee, Raticate, Zubat, Tangela, Shiny Haunter, Slowpoke, Shiny Sandslash, Charizard, Arcanine, Machop, Magnemite, Mankey, Sandshrew, Shiny Koffing, Rhydon, Rapidash, Poliwhirl, Caterpie, Diglett, Machoke, Victreebel, Golem, Gyarados, Drowzee, Nidoran-f, Electrode, Voltorb, Shiny Charmander, Ivysaur, Ninetales, Weezing, Wartortle, Exeggcute, Ditto, Paras, Shiny Pidgey, Porygon, Shiny Flareon, Ekans, Gastly, Persian, Nidorino, Poliwrath, Blastoise, Kabutops, Marowak, Spearow, Muk, Bulbasaur, Bellsprout, Snorlax, Squirtle, Mr. Mime, Hypno, Exeggutor, Tauros, Gengar, Shiny Tentacool, Jumpluff, Nidorina, Ledyba, Phanpy, Steelix, Ho-oh, Misdreavus, Ursaring, Skarmory, Remoraid, Suicune, Teddiursa, Charmeleon, Seadra, Shiny Sentret, Ledian, Pineco, Typhlosion, Slowbro, Croconaw, Dragonair, Murkrow, Houndour, Hoppip, Gligar, Scyther, Unown, Snubbull, Onix, Shiny Politoed, Pinsir, Dragonite, Azumarill, Shiny Togetic, Shuckle, Skiploom, Tyrogue, Shiny Chinchou, Omastar, Dratini, Lanturn, Girafarig, Kangaskhan, Slowking, Meganium, Chansey, Wooper, Heracross, Magcargo, Xatu, Hoothoot, Shiny Doduo, Magneton, Slugma, Feraligatr, Golduck, Farfetch'd, Articuno, Dugtrio, Aipom, Corsola, Igglybuff, Crobat, Shiny Kingdra, Quagsire, Spinarak, Shellder, Magby, Kingler, Stantler, Seel, Smoochum, Donphan, Forretress, Flaaffy, Cleffa, Sunflora, Lickitung, Omanyte, Togepi, Hitmonlee, Nidoqueen, Furret, Espeon, Chikorita, Sudowoodo, Piloswine, Pichu, Blissey, Pupitar, Starmie, Tyranitar, Raichu, Octillery, Dunsparce, Entei, Bellossom, Sneasel, Elekid, Delibird, Parasect, Ampharos, Quilava, Mareep, Shiny Mew, Rhyhorn, Porygon2, Qwilfish, Sunkern, Jolteon, Marill, Houndoom, Nidoking, Kabuto, Granbull, Shiny Natu, Noctowl, Yanma, Swinub, Alakazam, Electabuzz, Ariados, Wigglytuff, Raikou, Bayleef, Venusaur, Seaking, Kakuna, Dodrio
+tigolbitties503 ... Pokemon: Golem
+SassFactory ... Pokemon: Growlithe
+knoxmuldayne ... Pokemon: Diglett, Kabuto, Voltorb, Venonat, Ponyta, Cloyster, Electrode, Porygon
+DaGuyFromDaPlace ... Pokemon: Cubone, Snorlax, Bellsprout, Horsea, Ponyta, Parasect, Grimer, Growlithe, Sandshrew, Squirtle, Dratini, Graveler, Pikachu, Machamp, Vileplume, Nidoran-f, Ekans, Gyarados, Mankey, Zapdos, Krabby, Psyduck, Gastly, Electrode, Pidgeotto, Machoke, Muk, Nidorino, Meowth, Gloom, Jolteon, Paras, Poliwhirl, Arbok, Magnemite, Butterfree, Mewtwo, Venonat, Raichu, Clefairy, Persian, Victreebel, Golbat, Dugtrio, Oddish, Pidgeot, Hitmonlee, Exeggutor, Kabutops, Slowpoke, Tentacruel, Gengar, Weezing, Zubat, Tentacool, Staryu, Kabuto, Geodude, Doduo, Arcanine, Vulpix, Dewgong, Caterpie, Abra, Poliwag, Alakazam, Pidgey, Raticate, Rhydon
+spacevikings ... Pokemon: Spearow, Geodude, Jigglypuff
+pinkiesheen ... Pokemon: MissingNo., Machop, Geodude, Pidgey, Goldeen
+MandrewFX ... Pokemon: Mew
+FullMetalGamez ... Pokemon: Weepinbell, Beedrill, Voltorb
+Zombie_Sparky ... Pokemon: Omastar, Horsea, Venomoth, Pinsir, Piloswine
+SuiCyko ... Pokemon: Goldeen, Hitmonchan, Porygon, Horsea, Spearow, Sandshrew, Shellder, Magikarp, Onix, Grimer, Snorlax, Psyduck, Tentacruel, Nidoqueen, Oddish, Doduo, Zubat, Tangela, Nidorina, Seel, Kabutops, Magmar, Wigglytuff, Victreebel, Dewgong, Diglett, Magnemite, Poliwag, Arbok, Poliwhirl, Jigglypuff, Machop, Gloom, Chansey, Golduck, Mankey, Hitmonlee, Paras, Golem, Caterpie, Nidoran-f, Pidgey, Pikachu, Vileplume, Fearow, Parasect, Golbat, Venonat, Kadabra, Staryu, Raichu, Sandslash, Kingler, Metapod, Kakuna, Ponyta, Raticate, Gyarados, Machamp, Exeggcute, Poliwrath, Drowzee, Electabuzz, Charmeleon, Meowth, Tauros, Primeape, Alakazam, Krabby, Beedrill, Dragonair, Gastly, Nidorino, Graveler, Wartortle, Growlithe, Venomoth, Gengar, Scyther, Pidgeotto, Venusaur, Houndour
+expgrinder ... Pokemon: Nidoqueen, Cubone
+LouisLeGros ... Pokemon: Butterfree, Pidgey, Flareon, Ninetales, Gloom, Cubone, Omastar, Electrode, Mewtwo, Gastly, Poliwag, Fearow, Caterpie
+PablotheEditor ... Pokemon: Charizard, Ninetales
+TheRumblerr ... Pokemon: Mewtwo
+Positive_Benergy ... Pokemon: Jigglypuff, Weedle, Gastly, Pidgeotto, Golduck, Poliwag, Magnemite, Ponyta, Muk, Golem, Tangela, Tentacruel, Sandslash, Nidoran-m, Magikarp, Drowzee, Horsea, Shellder, Metapod, Beedrill, Eevee, Slowpoke, Diglett, Geodude, Vulpix, Machop, Ekans, Oddish
+evolvinghunger ... Pokemon: Dragonair, Kakuna, Aerodactyl
+ChupacabraGangWarfare ... Pokemon: Rapidash, Jigglypuff
+storm__watch ... Pokemon: Snorlax, Ninetales
+robber85 ... Pokemon: Spearow, Cubone
+icantplays ... Pokemon: Geodude
+mistershield ... Pokemon: Growlithe
+twitchuser90142 ... Pokemon: Horsea, Grimer
+AshyOP ... Pokemon: Flareon
+Bigfattyplus ... Pokemon: Kakuna
+jukeflywalker ... Pokemon: Grimer, Charizard, Omanyte, Kabutops, Clefairy, Charmander, Pidgeot, Flareon, Pikachu, Arcanine, Dragonite, Staryu, Bulbasaur, Nidoking, Venomoth, Chansey, Venusaur, Lickitung, Ponyta, Exeggcute, Magmar, Kadabra, Nidorino, Kakuna, Venonat, Haunter, Raticate, Raichu, Marowak, Lapras, Magneton, Oddish
+HeavyDirtySoulz ... Pokemon: Rhydon
+MondoBroMathew ... Pokemon: Blastoise
+DohoRX ... Pokemon: Nidorino, Charizard, Drowzee, Raticate, Sandslash, Hitmonlee, Mr. Mime, Gyarados, Jynx, Seadra, Kabutops, Primeape, Oddish, Gastly, Ekans, Goldeen, Nidorina, Vileplume, Seel, Golbat, Diglett, Poliwag, Weepinbell
+truthchase ... Pokemon: Paras
+supermoosez_ ... Pokemon: Kadabra, Electrode, Pikachu, Cubone, Exeggutor, Golduck, Metapod
+red_pyramid ... Pokemon: Oddish
+Wolfangthe3rd ... Pokemon: Marowak, Psyduck, Ekans, Voltorb, Pidgey, Flareon, Beedrill, Venomoth, Bulbasaur, Zubat, Golbat, Grimer, Jigglypuff, Venonat, Tauros, Rhydon, Goldeen
+iDeafon ... Pokemon: Rhydon, Gengar, Rattata, Dragonair, Cloyster, Arbok, Charmeleon, Seadra, Parasect, Tentacruel, Poliwhirl, Mankey, Weezing, Staryu, Geodude, Bellsprout, Mew, Ekans, Slowbro, Drowzee
+goudabreez ... Pokemon: Ninetales, Gloom
+AkuPlaysGamez ... Pokemon: Golem, Doduo, Seel
+SpencieReturns ... Pokemon: Spearow
+muerphy ... Pokemon: Pidgeot, Tentacool, Slowpoke, Kadabra, Zapdos, Tangela, Nidoran-m, Nidoran-f, Poliwhirl, Venomoth, Graveler, Tauros, Gloom, Weedle, Seadra, Machop, Seaking, Machamp, Ekans, Doduo, Growlithe, Magikarp, Goldeen, Caterpie, Krabby, Rhydon, Scyther, Koffing, Victreebel, Weepinbell, Cloyster
+MercenaryCobra1 ... Pokemon: Ponyta, Graveler, Gyarados, Weedle, Koffing, Shiny Igglybuff, Krabby, Jigglypuff, Ditto
+Silly_Melancholy ... Pokemon: Geodude, Growlithe, Sandslash, Wigglytuff, Weepinbell, Jigglypuff
+slowbumzy ... Pokemon: Raichu
+TheDoho ... Pokemon: Zapdos, Tauros, Zubat, Machop, Kadabra, Ekans, Arbok, Sandshrew, Metapod, Squirtle, Machoke, Meowth, Nidoking, Krabby, Kakuna, Growlithe, Lapras, Clefable, Mr. Mime, Pidgeot, Clefairy, Nidorino, Shellder, Exeggcute, Horsea, Kangaskhan, Paras, Azumarill
+OneFineDruid ... Pokemon: Slowpoke
+CEOofPwnage ... Pokemon: Kadabra, Gengar, Magmar, Dragonite, Lugia, Rhydon, Scyther, Porygon, Unown, Shiny Elekid, Primeape, Hypno, Octillery, Omanyte, Machamp, Shiny Pineco, Shiny Nidoking
+Opulent_dog ... Pokemon: Grimer, Mankey
+TitanicAnt ... Pokemon: Magikarp, Tauros, Poliwhirl, Rhyhorn, Poliwrath, Ninetales, Victreebel, Dugtrio, Flareon, Kingdra
+bomber991 ... Pokemon: Magikarp, Pidgey, Ekans, Nidorino, Paras, Sandslash, Machop, Weezing, Magnemite, Nidoran-f, Mankey
+BLKarchangel ... Pokemon: Squirtle, Ninetales, Voltorb, Sandslash, Poliwhirl, Rhyhorn, Zubat, Electabuzz, Magikarp, Seaking, Gyarados, Seel, Tangela, Gengar, Seadra, Clefable, Clefairy, Cubone, Poliwag, Dragonite, Mr. Mime, Eevee, Beedrill, Gastly, Metapod, Spearow, Weepinbell, Rapidash, Arbok, Vaporeon, Machoke, Krabby, Slugma, Venonat, Ariados
+bunnyranger ... Pokemon: Ponyta, Paras, Dewgong, Magnemite, Nidoking, Dragonite, Blastoise, Omanyte, Psyduck, Tangela, Jolteon, Poliwhirl, Meowth, Sandslash, Persian, Growlithe, Abra, Wigglytuff, Kadabra, Raticate, Bellsprout, Pinsir, Charizard
+Mecha_blahness ... Pokemon: Machoke, Ponyta, Vaporeon, Moltres
+kittykate82 ... Pokemon: Clefairy, Wigglytuff, Omastar, Tauros, Tentacool, Rattata, Vulpix, Vileplume, Arcanine, Geodude, Drowzee, Magikarp, Goldeen, Voltorb, Kadabra, Zubat, Squirtle, Golbat
+VoidsGameArchive ... Pokemon: Dodrio
+milquenoodle ... Pokemon: Diglett, Metapod, Seel, Exeggcute
+lil_cat_beans ... Pokemon: Poliwhirl, Starmie, Golbat, Oddish, Raikou
+ReynoldHughes ... Pokemon: Cubone, Tentacool, Mankey, Spearow
+kingkrisszapp ... Pokemon: Doduo
+TheAnalogMan ... Pokemon: Cubone
+MrBlinky6000 ... Pokemon: Horsea, Gastly, Staryu
+WildOmelet ... Pokemon: Nidoran-m, Pidgey, Squirtle, Magmar, Oddish, Kakuna, Fearow, Sandshrew, Wartortle, Paras
+redbullenergyesports ... Pokemon: Magneton
+4driannn_ ... Pokemon: Sandslash, Nidoran-m, Fearow, Machop, Drowzee, Shiny Diglett, Alakazam, Dratini
+redfoxscion ... Pokemon: Nidoran-f, Grimer, Drowzee, Sandslash, Kakuna, Tentacruel, Psyduck
+protonyx02 ... Pokemon: Ditto, Magnemite, Haunter, Psyduck, Machoke, Zubat
+CraigTNelsonsLipitorRX ... Pokemon: Magikarp, Mew, Poliwag, Slowpoke, Sunflora, Caterpie, Ho-oh, Machamp, Jynx, Sunkern, Shiny Diglett, Horsea, Spinarak, Blissey
+BlEYEndBandit ... Pokemon: Ekans, Machop, Jolteon, Poliwag, Onix, Charmander, Pidgeotto, Geodude, Ponyta, Nidorino, Squirtle, Rattata, Cubone, Mankey, Moltres, Marowak, Magikarp, Pidgey, Dratini, Seel, Venonat, Staryu, Paras, Raichu, Venomoth, Nidoran-f, Voltorb
+BoobaSweat ... Pokemon: Meowth
+QRCodie ... Pokemon: Venomoth, Vaporeon
+Aihiave ... Pokemon: Weedle, Scyther, Tentacool, Marill, Koffing, Jumpluff, Unown
+AssassinNao ... Pokemon: Sandshrew, Diglett, Dratini, Rattata, Voltorb, Meowth, Slowpoke, Kadabra, Nidorina
+TrophyHunterVarg ... Pokemon: Haunter
+OoGhiJMIQtxxXA ... Pokemon: Rattata
+FighterMageThief ... Pokemon: Magnemite, Nidoran-m
+Darkdrium7 ... Pokemon: Koffing
+therealprime01 ... Pokemon: Hitmonlee
+BangOnHead ... Pokemon: Voltorb, Lapras, Venomoth, Clefable, Nidorina, Grimer
+RareGangster ... Pokemon: Tentacruel
+Anikiki ... Pokemon: Kabutops, Marill
+xXHateful_TacoXx ... Pokemon: Exeggcute, Ponyta
+cabbather ... Pokemon: Kabuto
+kurtcubane ... Pokemon: Zapdos
+acdcfreak216 ... Pokemon: Nidorino, Seadra
+DemonlordZastin7 ... Pokemon: Machop
+Jake_Menwah ... Pokemon: Clefable, Drowzee, Exeggutor, Diglett
+NemoExSirius ... Pokemon: Nidoqueen
+BurntHands ... Pokemon: Jigglypuff
+twlghtwolf ... Pokemon: Rhydon
+cinnamonjonez ... Pokemon: Ekans
+thealmightypig ... Pokemon: Koffing, Magikarp, Zubat, Gyarados, Ponyta, Vaporeon, Kabutops, Venonat, Pikachu, Seel, Togepi, Beedrill, Houndour, Shiny Vulpix, Machop, Slowbro, Shellder, Venusaur, Growlithe, Alakazam, Dugtrio, Oddish, Gengar, Machamp, Seaking, Meowth, Staryu, Weezing, Sudowoodo, Paras, Krabby, Persian, Quilava, Pidgeotto, Primeape, Golem, Pichu, Wooper, Goldeen
+Fuzzy_Beard ... Pokemon: Rapidash
+oldgreggkingofmemes ... Pokemon: Spearow, Oddish, Pidgey, Abra, Wartortle, Machoke, Horsea, Ekans, Arcanine, Venusaur, Meowth, Dugtrio, Alakazam, Kabutops, Jumpluff, Magcargo, Nidorino, Exeggcute, Espeon, Nidorina
+Haseo1776 ... Pokemon: Slowpoke, Nidorina
+Horza_BG ... Pokemon: Dratini
+xCrimsonSx ... Pokemon: Pidgeotto
+FeralYoshi89 ... Pokemon: Porygon, Fearow, Grimer
+sayla0079 ... Pokemon: Poliwhirl
+condoriano420 ... Pokemon: Venomoth, Hoppip, Abra, Pichu, Kabuto
+spummycurd ... Pokemon: Wigglytuff
+doza231 ... Pokemon: Caterpie
+emokonekoyasha ... Pokemon: Kadabra, Charizard
+RashiidTheNobody ... Pokemon: Poliwag, Nidorino
+cavemanchaos ... Pokemon: Exeggcute
+ashleyz92 ... Pokemon: Seaking, Bulbasaur, Krabby, Omanyte, Ekans, Kingler
+Gabetown ... Pokemon:
+the_nautillus ... Pokemon:
+tandylan ... Pokemon:
+pineappletoes ... Pokemon:
+Markars ... Pokemon:
+oddemoji ... Pokemon:
+ryanhayes198 ... Pokemon:
+capnkevyn ... Pokemon:
+ultraviolence69 ... Pokemon:
+Ken_Masters28 ... Pokemon:
+meta_forgot ... Pokemon:
+Johnnasaur ... Pokemon:
+Tempvia ... Pokemon:
+Genghis__John ... Pokemon:
+demonhealer ... Pokemon:
+kmopotato ... Pokemon:
+PressToShoot ... Pokemon:
+Little_dream903 ... Pokemon:
+GetsomeDudd ... Pokemon:
+disgorgex23 ... Pokemon:
+jurgensrashid ... Pokemon:
+ruubink ... Pokemon:
+brianfrenzy ... Pokemon:
+Hatmann ... Pokemon:
+Eugloopy_Dilemma ... Pokemon:
+irresolution_illusion ... Pokemon:
+DarkZoma ... Pokemon:
+TabloidGaming ... Pokemon:
+!accept ... Pokemon:
+kuramaorama ... Pokemon:
+Skullcrusher9000111 ... Pokemon:
+shiverstarr ... Pokemon:
+Ossus10 ... Pokemon:
+chrisjohn8891 ... Pokemon:
+crane__0 ... Pokemon:
+rickbelmont10 ... Pokemon:
+Charmander ... Pokemon:
+sharkwatchtv ... Pokemon:
+fieryblaze42 ... Pokemon: Mew
+Kabron3 ... Pokemon:
+ClockwerkBoo ... Pokemon:
+therickestrick88 ... Pokemon:
+Greznox ... Pokemon:
+HollowOphidian ... Pokemon:
+kyuraga18213_ ... Pokemon:
+spootynook ... Pokemon:
+rarrik460 ... Pokemon:
+Stammer6 ... Pokemon:
+Zacharoni089 ... Pokemon:
+Calla_Cott ... Pokemon:
+DrunkAtGT ... Pokemon:
+OdinPops ... Pokemon: Shiny Charizard, Shiny Blastoise
+BubbaRubbie ... Pokemon:
+Gidget_8448 ... Pokemon:
+5m177y ... Pokemon:
+lotta_apples ... Pokemon:
+lovingspirit7 ... Pokemon:
+MosesHasSpoken ... Pokemon:
+dramura9494 ... Pokemon:
+badatthis87 ... Pokemon:
+squirrelly616 ... Pokemon:
+joemamabeser ... Pokemon:
+GameMachineJames ... Pokemon:
+KitsuGen94 ... Pokemon:
+nixonisnew ... Pokemon:
+Desertfoxx9 ... Pokemon:
+breadcrochets ... Pokemon:
+DashRando ... Pokemon:
+SmokeLeech ... Pokemon:
+Kalahiton ... Pokemon:
+drewbog ... Pokemon:
+TheGreatSaxonMan ... Pokemon:
+Chronostream ... Pokemon:
+RectangleJones ... Pokemon:
+Unsungdee3 ... Pokemon:
+DelinqWitch ... Pokemon:
+Sitrus_Heart ... Pokemon:
+LOUDMOUTH_WOLF ... Pokemon:
+theel3ctrician ... Pokemon:
+lightwolfproductions ... Pokemon:
+midoribushi ... Pokemon:
+bdonnyq ... Pokemon:
+unicorn_cob ... Pokemon:
+StayLoafinTV ... Pokemon:
+XeroFyre ... Pokemon:
+skyferishot ... Pokemon:
+VarikCrassus ... Pokemon:
+howlingmonkey91 ... Pokemon:
+MrBewbLover ... Pokemon:
+VektroidLive ... Pokemon:
+MamokZalku ... Pokemon:
+SmashBrothah ... Pokemon: Swinub
+chunky_code_monkey ... Pokemon:
+Andermcfrando ... Pokemon:
+Scarleana ... Pokemon:
+dr_jasmine_nothing ... Pokemon:
+archion101 ... Pokemon:
+NinjuDoodle ... Pokemon:
+ProtoKitsune ... Pokemon:
+mikheli ... Pokemon:
+SleepyheadDree ... Pokemon:
+DopamineSource ... Pokemon:
+Sam_the_Skald ... Pokemon:
+jadekikta2022 ... Pokemon:
+Tianna_Minn_Square ... Pokemon:
+FruitlessZapple ... Pokemon:
+Serpico23 ... Pokemon:
+Popskyy ... Pokemon:
+DerBlaze420 ... Pokemon:
+mogwaimayhem84 ... Pokemon:
+dragonstar731 ... Pokemon:
+coldApplesauce ... Pokemon:
+Thecounterman ... Pokemon:
+ThunderfootBros ... Pokemon:
+HEXXABYSS666 ... Pokemon:
+bearman414 ... Pokemon:
+spuddnikk ... Pokemon:
+M_uwu_N ... Pokemon:
+mike8983 ... Pokemon:
+BigZeeff ... Pokemon:
+Grunt_Guru ... Pokemon:
+Girax54 ... Pokemon:
+wolfman_lumberjack ... Pokemon:
+axel_nanza ... Pokemon:
+BossMog ... Pokemon:
+PushingButtonsDoc ... Pokemon:
+jaybyrd64 ... Pokemon:
+PleaseStopSayingLiterally ... Pokemon:
+7thSaga ... Pokemon:
+ISaidHeyWhatsGoinOn ... Pokemon:
+f0cht ... Pokemon:
+quaxo11 ... Pokemon:
+bravest3mo ... Pokemon:
+Analog_Clock ... Pokemon:
+konbanmiao ... Pokemon:
+DelinquentGhost ... Pokemon:
+BoofBoi12345 ... Pokemon:
+chaikoopa ... Pokemon:
+loomwix ... Pokemon:
+WiiWareWave ... Pokemon:
+gamersadvocate ... Pokemon:
+spacejesusforever ... Pokemon:
+WEEBerinos_ ... Pokemon:
+Pooootis ... Pokemon:
+3UP_Moon ... Pokemon:
+doodb0b ... Pokemon:
+MrMenuMan ... Pokemon:
+vanessathesecurityguard ... Pokemon:
+neko_lore ... Pokemon:
+onionsbunions ... Pokemon:
+internet_doggo ... Pokemon:
+L4S4GN4 ... Pokemon:
+aka_thug_senpai ... Pokemon:
+kitestar ... Pokemon:
+Kieeeeern ... Pokemon:
+CrashScreen ... Pokemon:
+star_warrior_gaming ... Pokemon:
+SweetPotatoSophie ... Pokemon:
+SigmaShuko ... Pokemon:
+OneLoveLyss ... Pokemon:
+taylus_and_rinji ... Pokemon:
+MeaCulpa_DW ... Pokemon:
+ChefSaber ... Pokemon:
+SimplyNutting ... Pokemon:
+sj737haxx ... Pokemon:
+veganprettyfeet ... Pokemon:
+Mattysoxfan ... Pokemon: Dugtrio, Marill
+CreationVibes ... Pokemon:
+BouserTheBun ... Pokemon:
+mr_the_captain_ ... Pokemon:
+xCyberGeist ... Pokemon:
+goldendragon2222 ... Pokemon:
+DevilHunterWolf ... Pokemon:
+vtuber_axel ... Pokemon:
+SylverWolfX ... Pokemon:
+NoNoseJob ... Pokemon:
+mrjnumber1 ... Pokemon:
+corndogpog ... Pokemon:
+Toxikshroomz ... Pokemon:
+content_aquarius ... Pokemon:
+fecklesswgtn ... Pokemon:
+Kecu_Kraftwork ... Pokemon:
+HsienSoluna ... Pokemon:
+Golden_Duke ... Pokemon:
+Aeomech ... Pokemon:
+MorteVerde ... Pokemon:
+dMoon0 ... Pokemon:
+jumbolumpcrabmeat ... Pokemon:
+PlaXXXle ... Pokemon:
+SuspiciousRhubarb ... Pokemon:
+DrakeLake ... Pokemon:
+RevelCross ... Pokemon:
+BeautyThieve ... Pokemon:
+Soviet5lo ... Pokemon:
+RealTheProfessor ... Pokemon:
+MathyCrimson_ ... Pokemon:
+Yardstickninja7 ... Pokemon:
+CoachJimmy ... Pokemon:
+homey_sth ... Pokemon:
+realHudsonHornet ... Pokemon:
+DruffTheWolf ... Pokemon: Growlithe
+dmooeenm ... Pokemon:
+bobobunga ... Pokemon:
+DaSniper2 ... Pokemon:
+inktoonyork ... Pokemon:
+Gamemaster1991 ... Pokemon:
+no16000 ... Pokemon:
+blade_vancer ... Pokemon:
+the_mendeleyev ... Pokemon:
+kienerg ... Pokemon:
+hynes_ketchup ... Pokemon:
+hyperhateful ... Pokemon:
+chill592 ... Pokemon:
+Juandonde ... Pokemon:
+nofaceFM ... Pokemon:
+L1C4_NAZTi ... Pokemon:
+t0kenknee ... Pokemon:
+DavidBorland ... Pokemon:
+Snackuum ... Pokemon:
+gokus_cousin_jim ... Pokemon:
+shreklover_456 ... Pokemon:
+bropbdy ... Pokemon:
+Ruffsia ... Pokemon: Pidgey
+GravityAndBiscuits ... Pokemon:
+bakedzeedee ... Pokemon: Meowth, Bellossom, Sudowoodo, Hoppip, Persian, Bellsprout, Kingler, Charmeleon, Growlithe, Togepi
+PepePlaysTrumpeto ... Pokemon:
+Vampulin ... Pokemon:
+s_o_u_p_ ... Pokemon:
+takua_tv ... Pokemon:
+AngrySnow_TTV ... Pokemon:
+VillainOfLegend ... Pokemon:
+bettymachete666 ... Pokemon:
+darlene ... Pokemon:
+corudoo ... Pokemon:
+jobob0909 ... Pokemon:
+melomelly1 ... Pokemon:
+bent130 ... Pokemon:
+DecadeTheKarateBugman ... Pokemon:
+DontH8Emancip8 ... Pokemon: Shiny Mew, Suicune
+GrapeSody ... Pokemon:
+MattWithTwoTeas ... Pokemon:
+stairfox00 ... Pokemon:
+TwitchGardenz ... Pokemon:
+DisfiguredPoptart ... Pokemon:
+jensran ... Pokemon:
+lordkingmasterjesus ... Pokemon:
+JamieTheBnnuy ... Pokemon:
+DrPoison ... Pokemon:
+EmiKasumi ... Pokemon:
+Echoes_of_Atlantis ... Pokemon:
+AMFT502 ... Pokemon:
+moon_drummer ... Pokemon:
+sharknado0086 ... Pokemon:
+dontpussout ... Pokemon:
+Wolfhunter6669 ... Pokemon:
+GermxWarfare ... Pokemon:
+meltyKitt ... Pokemon:
+the_legendary_b_man_98: ... Pokemon:
+elkna ... Pokemon: Togepi
+ThePropple ... Pokemon:
+GuyOnASofa ... Pokemon:
+UltaDelta ... Pokemon:
+Bewitcherrr ... Pokemon:
+CaffeineDayDream ... Pokemon:
+gimmedathotdog ... Pokemon:
+the_1yj ... Pokemon:
+escapeintogaming ... Pokemon:
+jenguschrist ... Pokemon:
+couch_potato553 ... Pokemon:
+Pizza_Magician420 ... Pokemon:
+GreatGrandpappyCaleb ... Pokemon:
+KylesVlogYT ... Pokemon:
+MorganiteSkies ... Pokemon:
+bosku ... Pokemon:
+Creepaface01 ... Pokemon:
+vinsanity2313 ... Pokemon:
+Mill_Matter ... Pokemon:
+gohrek ... Pokemon:
+XcesiveObserver ... Pokemon:
+oobasnork ... Pokemon:
+King_WASD ... Pokemon:
+Declan_Simo ... Pokemon:
+EvilMasterSean ... Pokemon:
+Desslyn ... Pokemon:
+owl_hoothoot ... Pokemon: Hoothoot
+raeborga ... Pokemon: Marowak, Slugma, Pidgeotto, Growlithe, Meowth, Krabby, Poliwhirl, Shiny Togepi, Rattata, Paras, Shiny Haunter, Golduck, Seel, Victreebel, Clefairy, Gloom, Drowzee, Weedle, Oddish, Sentret, Quagsire, Magnemite, Lickitung, Psyduck, Wartortle, Machop, Raichu, Spearow, Skarmory, Swinub, Tauros, Primeape, Meganium
+@TheGoodJared ... Pokemon: Shiny Gengar
+@punkygal90 ... Pokemon:
+@SamusKnight2K ... Pokemon: Shiny Haunter
+MrTwister24 ... Pokemon:
+@nugbones ... Pokemon: Shiny Haunter
+@PurpleDoot ... Pokemon:
+@J_Nastys_Nook ... Pokemon: Shiny Haunter
+fydaTECH ... Pokemon: Shiny Magnemite, Ekans, Wooper
+fforby ... Pokemon:
+jojodeebowie ... Pokemon: Shiny Haunter
+@raeborga ... Pokemon:
+NewAndTastySixthHouse ... Pokemon:
+gasgesgos ... Pokemon:
+hank_hill_x ... Pokemon:
+whomping_waluigi ... Pokemon:
+maxim8700 ... Pokemon:
+kaioat3 ... Pokemon:
+NicNightshade ... Pokemon:
+ser_enigma ... Pokemon:
+MooseTheGoose528 ... Pokemon: Nidoking, Raikou, Ponyta
+garbageperson5 ... Pokemon: Mareep
+RetroDefective ... Pokemon: Tentacruel, Sandshrew, Psyduck, Gengar, Poliwag, Clefairy
+Sev_the_Sealion ... Pokemon: Lapras
+BeatEveryGame ... Pokemon:
+noodle982 ... Pokemon:
+HoytSharpshooter ... Pokemon: Magikarp
+barrett_ok ... Pokemon: Dunsparce
+hachikujiburgerking ... Pokemon:
+supergeoffgoodgamer ... Pokemon:
+telepathetic__ ... Pokemon:
+shelcod ... Pokemon:
+Alystar_Corvinus ... Pokemon:
+Heinsolo ... Pokemon:
+VaD3rTM ... Pokemon:
+BagofKnives ... Pokemon:
+Cyborkchop ... Pokemon: Gastly
+Asiatic_Black_Bear ... Pokemon: Remoraid
+b33ayy ... Pokemon:
+Emberlaura ... Pokemon:
+DigiDoggi ... Pokemon: Togepi, Magmar, Cubone, Shiny Mew, Cleffa, Azumarill, Lugia, Shiny Doduo, Marill, Voltorb, Growlithe, Quilava, Raikou, Venonat, Wartortle, Venusaur, Shiny Machoke, Magneton, Clefairy, Suicune
+greebo_phd ... Pokemon:
+thesmoochador ... Pokemon:
+ashleyz09 ... Pokemon: Oddish, Unown, Nidoking, Caterpie, Magnemite, Tauros, Dugtrio, Spearow, Cubone, Psyduck, Forretress, Gastly, Gyarados, Magikarp, Staryu, Krabby, Koffing, Pichu, Mareep, Machoke, Marill, Poliwag
+aggressively_coconut ... Pokemon:
+cardcaptordoge ... Pokemon:
+Lord_HoboTron ... Pokemon:
+spacetomato ... Pokemon:
+All_bonesJones ... Pokemon: Machamp, Flareon
+HoloMango ... Pokemon:
+Scuba_Steve_lll ... Pokemon: Venonat, Ampharos
+WanderingJinn ... Pokemon:
+wyrwolfie ... Pokemon:
+Richard ... Pokemon:
+TroublesomeTaffer ... Pokemon:
+Epyon102 ... Pokemon:
+21Kablae ... Pokemon:
+kharmaaaaaa ... Pokemon:
+PhilipDraco ... Pokemon:
+SenseiJohnnyLaw ... Pokemon: Furret
+fourky ... Pokemon:
+JJYach ... Pokemon: MissingNo., Goldeen, Dewgong, Piloswine, Raticate, Scizor, Seadra, Golduck, Igglybuff, Typhlosion, Houndoom, Psyduck, Scyther, Omastar, Shiny Slowpoke, Mareep, Gloom, Pichu, Koffing, Staryu, Shuckle, Shiny Pineco, Chinchou, Charizard, Chikorita, Unown, Venomoth
+TheUSSBrownNote ... Pokemon:
+servoMD ... Pokemon:
+marcjohn86 ... Pokemon:
+jimmydadesq ... Pokemon:
+cinnamonjonezwife ... Pokemon:
+mitchyDEEEZ ... Pokemon: Feraligatr
+MrM9991 ... Pokemon: Sunflora
+Darkman800 ... Pokemon:
+megamanhuncho ... Pokemon:
+Mivias ... Pokemon:
+Dripsans303 ... Pokemon:
+FennecWF ... Pokemon: Venusaur, Beedrill, Dodrio, Shiny Charizard, Furret, Nidoran-m, Haunter, Shiny Mewtwo, Pidgeotto, Vulpix, Nidorina, Pineco, Grimer, Meganium, Arbok, Slowpoke, Shiny Unown, Cleffa, Shiny Sandshrew
+broWhatHappened ... Pokemon: Bayleef, Blastoise, Golduck, Staryu, Drowzee, Meganium, Charmander, Pidgeotto, Jigglypuff, Ditto, Graveler, Espeon, Pichu, Cubone, Meowth, Shiny Lugia, Sandshrew, Machoke, Geodude, Hitmonchan, Weezing, Mewtwo, Psyduck, Shiny Nidoqueen, Ivysaur, Rhydon, Wartortle
+chuck_mangione ... Pokemon:
+furtherguidedvoltron ... Pokemon:
+welcome ... Pokemon:
+survivel_samuel_ ... Pokemon: Sudowoodo, Diglett, Caterpie, Porygon, Kabutops, Gligar, Lickitung, Meowth, Beedrill, Drowzee, Shiny Hoppip, Granbull, Hitmonchan, Hitmonlee, Slugma, Slowpoke, Jigglypuff, Jumpluff, Nidoran-m
+bloodyheartland ... Pokemon:
+399CY_Vtuber ... Pokemon:
+pankraru ... Pokemon:
+techieR0b ... Pokemon: Staryu
+penguin_survivor ... Pokemon:
+donttouchmypurse ... Pokemon:
+kenokenoo ... Pokemon:
+goldrat5 ... Pokemon: Zubat, Muk, Hoppip, Shiny Alakazam, Slowpoke, Pidgey, Exeggcute, Rapidash, Scyther, Flaaffy, Cubone, Crobat, Spinarak, Hoothoot, Shellder, Ekans, Staryu, Raikou, Skiploom, Sudowoodo, Beedrill, Victreebel, Weedle, Ledian, Ninetales, Onix, Drowzee, Abra, Ampharos, Yanma, Smoochum, Houndour, Psyduck, Sunflora, Marill, Dragonite, Sneasel, Ledyba, Voltorb, Poliwag, Seel, Pidgeotto, Weepinbell, Unown, Politoed, Nidoran-f, Machoke, Rhyhorn, Venomoth, Omastar, Shiny Cloyster, Marowak, Umbreon, Pikachu, Parasect, Raticate, Mankey, Natu, Remoraid, Arbok, Fearow, Kingler, Magneton, Aipom, Togepi, Magikarp, Arcanine, Sunkern, Snubbull, Pineco, Slowking, Goldeen, Heracross, Rattata, Bellsprout, Butterfree, Ditto, Wooper, Qwilfish, Grimer, Houndoom, Slugma, Seadra, Kakuna, Steelix, Magnemite, Krabby, Azumarill, Nidorina, Jolteon, Blastoise, Shiny Caterpie, Charmeleon, Shuckle, Smeargle, Tyranitar, Shiny Aerodactyl, Lapras, Kabutops, Raichu, Golbat, Magcargo, Quilava, Phanpy, Exeggutor, Entei, Swinub, Dratini, Paras, Shiny Chikorita, Sandshrew, Forretress, Weezing, Metapod, Shiny Charizard, Quagsire, Blissey, Dodrio, Ponyta, Togetic, Nidoran-m, Golem, Mew, Poliwhirl, Chansey, Sandslash, Suicune, Mareep, Elekid, Venonat, Machop, Sentret, Shiny Vaporeon, Doduo, Dragonair, Vulpix, Persian, Growlithe, Jynx, Clefairy, Tentacruel, Magmar, Articuno, Meowth, Spearow, Croconaw, Gloom, Oddish, Bulbasaur, Gligar, Totodile, Pinsir, Shiny Machamp, Cleffa, Hitmontop, Tentacool, Ursaring, Lugia, Xatu, Farfetch'd, Donphan, Lickitung, Geodude, Granbull, Haunter, Hypno, Squirtle, Chinchou, Dewgong, Dunsparce, Delibird, Pidgeot, Shiny Ho-oh, Piloswine, Meganium, Koffing, Teddiursa, Snorlax, Gengar, Clefable, Hitmonchan, Electrode, Diglett, Noctowl, Shiny Kingdra, Starmie, Horsea, Golduck, Magby, Vileplume, Stantler, Shiny Pichu, Pupitar, Mantine, Venusaur
+SniffenJ ... Pokemon:
+Whomping_WeeGee ... Pokemon:
+Liokai ... Pokemon: Mankey
+TotalCherries ... Pokemon:
+BlktoothGrN ... Pokemon: Abra, Lugia, Gligar, Oddish, Rapidash, Shiny Pidgeotto, Shiny Croconaw, Snorlax, Rhydon, Charizard, Pidgeot, Mankey
+Aaron_P_Memphis ... Pokemon:
+orisima ... Pokemon:
+pUnJabi_cHOLAY ... Pokemon: Starmie
+Starkezz11 ... Pokemon:
+Kevo131 ... Pokemon: Shiny Charizard
+LifeUhFindsAway ... Pokemon:
+dongdongnasty69 ... Pokemon:
+artsonic990 ... Pokemon: Magnemite, Girafarig, Abra, Jynx, Electrode, Machop, Arbok
+KitsuneRyu ... Pokemon:
+MagnaRyuu ... Pokemon: Marill, Psyduck, Caterpie, Ampharos, Vulpix, Pikachu, Magcargo, Kingler, Teddiursa, Sandshrew, Scizor, Nidorina, Snubbull, Dodrio, Sandslash, Ledyba, Kabuto, Alakazam, Nidoran-m, Parasect, Horsea, Quilava, Shiny Hypno, Vileplume, Ledian, Miltank, Meganium, Machoke, Meowth, Magikarp
+deanbowling ... Pokemon:
+GrumpingJimmy ... Pokemon: Shuckle
+spacelizard1312 ... Pokemon:
+jdt18 ... Pokemon:
+PizzaPhD ... Pokemon:
+voltronthe3rd ... Pokemon: Poliwag, Exeggcute, Xatu
+ghoshiiii ... Pokemon:
+xBreadRangerx ... Pokemon: Noctowl, Totodile, Scyther, Ursaring, Caterpie, Mankey, Swinub, Larvitar
+tubbbug ... Pokemon:
+LudiusLubbsy ... Pokemon:
+BonafideEnglishman ... Pokemon: Poliwhirl
+larkadamant ... Pokemon: Sunkern, Kadabra, Pikachu, Bellossom, Mr. Mime, Poliwhirl, Piloswine, Gyarados, Nidoran-m, Elekid
+Roshark9 ... Pokemon: Chansey
+Serinth ... Pokemon: Suicune, Gyarados, Slowpoke, Flaaffy, Magikarp, Misdreavus, Clefairy, Staryu, Unown, Venomoth, Seadra, Paras, Shiny Lickitung, Muk, Shiny Rapidash, Forretress, Togepi, Mareep, Zubat, Slugma, Meowth, Ivysaur, Magnemite, Slowbro, Growlithe, Raichu, Golem, Vaporeon, Golbat, Shiny Abra, Murkrow, Metapod, Shiny Spearow, Golduck, Noctowl, Weezing, Poliwag, Mankey, Snubbull, Electrode, Persian, Cubone, MissingNo., Hoothoot, Haunter, Igglybuff, Ledian, Zapdos, Geodude, Sunkern, Ledyba, Sudowoodo, Hoppip, Piloswine, Koffing, Voltorb, Weepinbell, Nidoking, Pidgey, Rhyhorn, Vulpix, Machop, Pupitar, Machamp, Feraligatr, Eevee, Starmie, Poliwrath, Quagsire, Heracross, Gengar, Seel, Bellossom, Shellder, Venonat, Tentacool, Granbull, Porygon, Sandslash, Tyrogue, Miltank, Graveler, Pidgeot, Pinsir, Porygon2, Jumpluff, Chinchou, Remoraid, Sandshrew, Magby, Ampharos, Exeggcute, Psyduck, Sunflora, Ekans, Rattata, Delibird, Onix, Kabutops, Bellsprout, Nidoran-m, Sentret, Pichu, Magneton, Kadabra, Blastoise, Nidoqueen, Drowzee, Spinarak, Donphan, Vileplume
+hayckuh ... Pokemon:
+BalooJay ... Pokemon: Mankey, Togepi
+moe2277 ... Pokemon:
+Pigmata ... Pokemon: Seel, Magikarp, Voltorb, Togepi, Meowth, Cleffa, Pikachu, Snubbull, Mareep, Weezing, Dragonair, Haunter, Mantine, Porygon2, Dodrio, Hitmontop, Wooper, Geodude, Drowzee, Octillery, Muk, Unown, Machop, Vulpix, Gloom, Igglybuff, Tauros, Sunflora, Swinub, Shiny Starmie, Goldeen, Ursaring, Poliwag, Slowpoke, Charmeleon, Fearow, Jigglypuff, Shuckle, Spearow, Shiny Gastly, Dugtrio, Poliwhirl, Kabutops, Grimer, Shiny Krabby, Kadabra, Forretress, Sandslash, Shiny Metapod, Shiny Doduo, Caterpie, Chinchou, Exeggutor, Sunkern, Noctowl, Onix, Kingler, Slowking, Parasect, Ninetales, Croconaw
+Phaedrus1983 ... Pokemon:
+Punk_Buster ... Pokemon:
+Petradactylus ... Pokemon:
+digslicker ... Pokemon:
+Skullcra ... Pokemon: Weepinbell
+jobforabusboy ... Pokemon: Piloswine, Natu, Lapras, Smeargle, Hoothoot, Shiny Aerodactyl, Shuckle, Machoke, Sandshrew, Kingdra, Muk, Jumpluff, Growlithe, Crobat, Blastoise, Golbat, Psyduck, Venomoth, Azumarill, Butterfree, Zubat, Alakazam, Furret, Cubone, Ekans, Umbreon, Charmander, Staryu, Abra, Sudowoodo, Nidoking, Gastly, Cleffa, Tyranitar, Magikarp, Koffing, Grimer, Dratini, Girafarig, Golduck, Forretress, Voltorb, Chansey, Snorlax, Pupitar, Dragonair, Seaking, Seel, Rattata, Shiny Croconaw, Seadra, Vulpix, Ponyta, Typhlosion, Graveler, Jynx, Magcargo, Gloom
+robodinobear ... Pokemon:
+LrkStar ... Pokemon: Seel, Geodude, Tangela, Machoke, Furret
+iKidzeroi ... Pokemon:
+SpaceTurtleDude ... Pokemon: Doduo
+SharpySharps ... Pokemon:
+JTuesday ... Pokemon:
+oserium ... Pokemon:
+craigtnelsonssexymanties ... Pokemon: Wooper, Gengar, Kakuna, Articuno, Lapras, Mareep, Vaporeon
+aprillynn0828 ... Pokemon: Pikachu, Eevee, Poliwhirl, Granbull, Weedle, Magnemite, Cleffa, Wigglytuff, Azumarill, Starmie, Exeggutor, Rhydon, Seel, Feraligatr, Lapras, Togepi, Meowth
+ScrObot_ ... Pokemon:
+FunkDoctorGeorge ... Pokemon: Zapdos, Alakazam
+apunzfan ... Pokemon: Girafarig, Vulpix, Mewtwo, Totodile, Poliwag
+FrysAcidTest ... Pokemon:
+gobbsauce ... Pokemon: Bellsprout
+theemanderz ... Pokemon:
+ThisRandomVideoGuy98 ... Pokemon: Vaporeon, Beedrill, Drowzee
+raadiot ... Pokemon:
+pixelwulllf ... Pokemon:
+ninastar13 ... Pokemon: Poliwhirl, Seel, Sentret, Doduo, Ekans, Poliwag, Wartortle, Pidgey, Teddiursa, Krabby, Persian, Shiny Dodrio, Ursaring, Wigglytuff, Hypno, Magmar, Horsea, Cubone, Poliwrath, Rapidash, Lapras, Slugma, Machop, Xatu, Sunkern, Zubat, Delibird, Gastly, Ledyba, Primeape, Weepinbell, Starmie, Jynx, Oddish, Magneton, Mankey
+iamKyLuYa ... Pokemon: Arbok
+mi4_real ... Pokemon:
+doofsupreme ... Pokemon:
+regularjon ... Pokemon: Pidgeotto
+khanoclast ... Pokemon:
+VikingWizardLink ... Pokemon:
+NathanTZ ... Pokemon:
+boxthebee ... Pokemon: Sudowoodo, Grimer, Skiploom, Golduck, Chinchou, Togetic, Swinub, Hitmontop, Shiny Mew, Spearow
+ComfyBogart ... Pokemon:
+theadamwells ... Pokemon:
+senseivinsei ... Pokemon:
+parkertheaikatsufan ... Pokemon:
+jdredd3800 ... Pokemon:
+Darkkoopatrol ... Pokemon:
+xBLACKxVOIDx ... Pokemon: Shiny Charizard
+swampg0th ... Pokemon: Corsola, Poliwhirl, Seel, Wigglytuff, Machoke, Abra, Squirtle, Kakuna, Skiploom, Smeargle, Pikachu, Meganium, Mareep, Shiny Alakazam, Cyndaquil, Voltorb, Marowak, Sentret, Shiny Bulbasaur, Sunkern, Cleffa, Cubone, Quilava, Clefairy, Pichu, Entei, Shiny Spinarak
+BoneMiser ... Pokemon:
+Lugia2453 ... Pokemon: Zubat
+Bakkuru ... Pokemon:
+Oniari ... Pokemon: Golbat
+Brodama ... Pokemon:
+gobbysaucee ... Pokemon: Dunsparce, Staryu, Kakuna, Pidgey, Oddish, Arbok, Espeon, Voltorb, Marill, Mareep, Kingler, Metapod, Ledyba, Goldeen, Doduo, Shellder, Gligar, Diglett, Porygon2, Ditto, Parasect, Unown, Charmeleon, Snubbull, Venomoth, Sudowoodo, Arcanine
+THamburglar ... Pokemon:
+MiphaWellspring ... Pokemon:
+DovahkiinOrochi ... Pokemon: Chikorita, Marill, Croconaw, Jigglypuff, Pidgey, Spinarak, Remoraid
+humbleDub ... Pokemon:
+random ... Pokemon:
+TheAndySocialNetwork ... Pokemon:
+tryerson ... Pokemon:
+Starky_H2BN ... Pokemon: Abra, Zapdos
+VinnyMac187 ... Pokemon:
+!random ... Pokemon:
+yennvt ... Pokemon:
+Gustafer823 ... Pokemon:
+seigenmizu ... Pokemon: Charmander, Pineco, Bulbasaur, Hitmontop, Wooper, Arcanine, Exeggutor, Gyarados, Slugma, Weepinbell, Snubbull, Moltres, Butterfree, Swinub, Shiny Tentacool, Lugia, Growlithe
+timetravellingprototype ... Pokemon:
+l_deicide_l ... Pokemon:
+artistrytapistry ... Pokemon:
+gstar247 ... Pokemon:
+YosefYoStar ... Pokemon: Marowak
+ninjawarlord1421 ... Pokemon: Weepinbell, Machop, Noctowl
+dik_tuba ... Pokemon:
+PeteTGK ... Pokemon:
+jaydog0128 ... Pokemon:
+shirt8 ... Pokemon:
+lonemankane ... Pokemon:
+rvolveroshawott22 ... Pokemon:
+Jeffrey_mag_kekse ... Pokemon:
+huntthemdown ... Pokemon:
+SirSpamASome ... Pokemon:
+Cpt22 ... Pokemon: Vaporeon, Spearow, Goldeen, Omanyte, Nidoking, Hitmonchan, Phanpy, Miltank, Pikachu, Meowth, Kakuna, Lickitung, Zubat, Raichu, Poliwrath, Wartortle, Ekans, Grimer, Metapod, Machoke, Sneasel, Kabuto, Ledyba, Nidoran-f, Jigglypuff, Pidgey, Slowpoke, Drowzee, Chinchou, Houndour, Donphan, Hoppip, Wooper, Entei, Octillery, Pichu, Hitmontop, Blastoise, Spinarak, Psyduck, Steelix, Scyther
+TyJoRa ... Pokemon:
+dunns29 ... Pokemon:
+stepkarl ... Pokemon:
+nate_dogg_80 ... Pokemon:
+kyokusagani1996 ... Pokemon:
+Grouchoporx ... Pokemon:
+tatershovel ... Pokemon: Clefairy, Exeggcute, Paras, Shiny Heracross, Unown
+scmbag ... Pokemon:
+oreochimp ... Pokemon: Nidoran-f
+GuthorVT ... Pokemon:
+EricAlvin ... Pokemon: Feraligatr
+escarus1 ... Pokemon:
+RoyalSovereignTM ... Pokemon:
+phoenixgaming738 ... Pokemon:
+rndom ... Pokemon:
+EverFeltLikeIt ... Pokemon:
+Zoey_Ashley_Lexy_Anarchy ... Pokemon: Machop
+doctorp_ ... Pokemon: Jigglypuff, Tyrogue, Golbat, Shiny Jumpluff, Stantler, Shiny Miltank, Starmie, Haunter
+OptionalBagel ... Pokemon: Koffing, Pidgeotto, Staryu, Magikarp
+edwad_scissorfoot ... Pokemon: Shiny Crobat
+Phlaxis ... Pokemon:
+BarbequeFace ... Pokemon: Togepi, Aipom
+isaac_thedude ... Pokemon: Shiny Primeape, Mareep
+DianaLiora ... Pokemon: Blastoise, Sudowoodo, Marowak, Oddish, Ekans, Quilava, Marill, Steelix, Espeon, Suicune, Meowth, Raikou, Nidoqueen, Shiny Ponyta, Clefable, Slowpoke, Azumarill, Graveler, Drowzee, Vulpix, Shellder, Spearow, Magby, Shiny Weedle, Porygon, Entei, Horsea, Pidgeot
+Corvus_Brachy ... Pokemon:
+CandyStriperViper ... Pokemon: Steelix
+preeeemo ... Pokemon:
+billcasey ... Pokemon: Weedle
+KeyBoardFaceMash ... Pokemon: Swinub
+vinsanity2313 ... Pokemon:
+MrAMannequin ... Pokemon:
+Lunar_Sketch ... Pokemon:
+Zero_Lagger ... Pokemon:
+RobbieRevolver ... Pokemon:
+Tridale ... Pokemon:
+GoldenSun3DS ... Pokemon:
+George_SSJ4 ... Pokemon: Staryu, Geodude
+parkerthemissizillawaifu ... Pokemon:
+MinikuiGaijin ... Pokemon:
+ivan_itchy_anis ... Pokemon: Raikou
+SlimXD911 ... Pokemon:
+dustroy3r ... Pokemon:
+pazparadox22 ... Pokemon:
+Phil_Micracken ... Pokemon:
+ApeTerallen ... Pokemon:
+daveandconfused84 ... Pokemon:
+theUberKitten ... Pokemon: Persian, Chikorita, Jigglypuff, Natu, Hoppip, Exeggutor, Mankey, Hitmonchan, Diglett, Murkrow, Grimer, Staryu, Pineco, Seel, Snubbull, Arbok, Electabuzz, Houndour, Nidorino, Golem, Pikachu, Growlithe, Tyranitar, Eevee, Dunsparce, Remoraid, Phanpy, Hoothoot, Geodude, Ponyta, Swinub, Paras, Totodile, Magikarp, Ledyba, Arcanine, Golduck, Sandshrew, Raichu, Yanma, Zapdos, Bellsprout, Psyduck, Sunkern, Slowpoke, Flaaffy, Bellossom, Sentret, Abra, Gligar, Ninetales, Ekans, Venomoth, Koffing, Smeargle, Vulpix, Shuckle, Furret, Togepi, Gastly, Machop, Seaking, Spinarak, Qwilfish, Pidgey, Charmeleon, Shellder, Xatu, Dewgong, Larvitar, Sandslash, Electrode, Igglybuff
+Death2qwerty ... Pokemon:
+danny_d_cosplay ... Pokemon:
+arcadey123456 ... Pokemon:
+OccurringThought ... Pokemon:
+Villyne ... Pokemon: Bellsprout, Igglybuff, Sandshrew, Muk, Spinarak, Drowzee, Sunflora, Swinub, Ekans, Parasect, Magikarp, Ursaring, Venomoth, Natu, Rattata, Mareep, Graveler, Scizor, Seadra, Clefairy, Ledian, Staryu, Moltres
+flitchard ... Pokemon:
+Vieric01 ... Pokemon: Gligar, Weedle, Pineco, Slowpoke, Fearow, Psyduck, Seaking, Seadra, Snorlax, Furret, Pikachu, Koffing, Gloom, Slowbro, Drowzee, Unown, Venusaur, Shuckle, Magneton, Diglett, Marill, Sandshrew, Magikarp, Haunter, Xatu, Poliwrath, Aerodactyl, Noctowl, Dewgong, Donphan, Staryu, Nidoqueen, Eevee, Quilava, Muk, Kakuna, Charmeleon, Cleffa, Voltorb, Snubbull, Shiny Vulpix, Weezing, Shiny Kadabra, Ninetales, Kabuto, Marowak, Raticate, Ivysaur, Golbat, Paras, Rhydon, Growlithe, Dratini, Blastoise, Beedrill, Seel, Rattata, Shiny Weepinbell, Vileplume, Dunsparce, Chikorita, Ledyba, Nidorina, Graveler, Houndoom, Shiny Ditto, Cubone, Swinub, Entei, Kabutops, Yanma, Remoraid, Caterpie, Mankey, Jigglypuff, Natu, Granbull, Togepi, Nidorino, Oddish, Flaaffy, Metapod, Misdreavus, Octillery, Smeargle, Slugma, Heracross, Nidoran-f, Pidgey, Poliwhirl, Shiny Venomoth, Nidoran-m, Hoppip, Dodrio, Hypno, Skiploom, Slowking, Tyrogue, Stantler, Pichu, Butterfree, Phanpy, Hitmonchan, Porygon, Teddiursa, Primeape, Mareep, Meowth, Kangaskhan, Ekans, Gengar, Machop, Geodude, Shiny Crobat, Aipom, Bayleef, Gyarados, Espeon, Azumarill, Lapras, Mewtwo, Electabuzz, Shiny Victreebel, Abra, Mr. Mime, Delibird, Magnemite, Tentacool, Arcanine, Shiny Spearow, Sneasel, Igglybuff, Sudowoodo, Exeggcute, Magby, Skarmory, Electrode, Bellsprout, Doduo, Gastly, Magcargo, Togetic, Steelix, Miltank, Horsea, Shiny Jumpluff, Tauros, Starmie, Clefable
+Cheesetoast99 ... Pokemon:
+aslatavi ... Pokemon:
+BoofBoi__ ... Pokemon:
+craigtnelsonisrisen ... Pokemon:
+CraigTNelsonIsRisen ... Pokemon: Mareep
+dpad_radio ... Pokemon: Meganium
+TrueChara ... Pokemon: Snorlax, Gastly, Togetic, Shiny Dugtrio, Weepinbell, Slowpoke, Hoppip, Ampharos, Houndoom, Machop, Marowak, Togepi, Jigglypuff, Pikachu, Meganium, Shiny Vulpix, Zapdos, Vaporeon, Smeargle, Ponyta, Sandshrew, Gloom, Shiny Nidorina, Persian, Dragonair, Seel, Dunsparce, Shiny Natu
+Sherizati ... Pokemon: Onix
+barbequeface ... Pokemon: Shiny Dratini
+DarkWebProsciutto ... Pokemon: Horsea
+Maxim8700 ... Pokemon: Kabutops
+Over_Spiced ... Pokemon:
+l3m0nyl3m0nad3 ... Pokemon: Raticate, Jolteon, Pupitar, Kadabra, Staryu, Spinarak
+mrstreamer50008 ... Pokemon:
+Sparkster2600 ... Pokemon:
+SenseiHollow ... Pokemon: Rhyhorn, Shiny Quagsire, Swinub, Wartortle, Oddish, Lickitung, Crobat, Shiny Feraligatr, Exeggcute, Kangaskhan, Kabuto, Tyranitar
+SoulProphet85 ... Pokemon:
+aguy8900 ... Pokemon:
+BlakTigr84 ... Pokemon:
+ham259 ... Pokemon:
+pek3to ... Pokemon:
+SlayerSuperShow ... Pokemon: Bayleef
+PMda2nd ... Pokemon:
+Jumbler ... Pokemon:
+voltronsphone ... Pokemon: Drowzee, Ekans, Sandshrew, Machoke
+chronotheunholy ... Pokemon:
+IronTorch20 ... Pokemon: Donphan
+picnickerliz ... Pokemon: Abra
+peepo_is_vincent ... Pokemon: Pidgeotto, Seel, Mankey, Koffing, Metapod
+Keatzee ... Pokemon:
+miguelrgabriel ... Pokemon: Skiploom
+FluffyQuokka1 ... Pokemon:
+rogue88 ... Pokemon:
+dogbentobox ... Pokemon:
+IngsGamingSanctum ... Pokemon:
+SlappyMeats ... Pokemon: Mew
