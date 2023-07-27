@@ -1,5 +1,4 @@
-Warning: Trainer DarkZoma in source file has a null Pokemon, ignoring
-Warning: Trainer Noxamillion in source file has a null Pokemon, ignoring
+This is the merged file that combines the two versions of Pokemon save files Jared had.
 
 ************** Merged file **************
 TheGoodJared ... Pokemon: MissingNo., Mewtwo, Ninetales, Raichu, Shiny Muk, Machoke, Golem, Metapod, Venonat, Arbok, Wartortle, Ivysaur, Charmander, Gengar, Shiny Paras, Cloyster, Dragonair, Hoothoot, Tyrogue, Shiny Aipom, Magikarp, Omastar, Cyndaquil, Shiny Vulpix, Poliwrath, Suicune, Unown, Shiny Jolteon, Mankey, Swinub, Kabuto, Shiny Shuckle, Mew, Shiny Eevee
