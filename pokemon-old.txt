@@ -1,3 +1,5 @@
+This is the list of Pokemon from the older save file. It should contain all the Pokemon caught since Jared starting using the Pokemon app until his PC crash a few months ago:
+
 ************** Old file **************
 TheGoodJared ... Pokemon: MissingNo., Mewtwo, Ninetales, Raichu, Shiny Muk, Machoke, Golem, Metapod, Venonat, Arbok, Wartortle, Ivysaur, Charmander, Gengar, Shiny Paras, Cloyster, Dragonair, Hoothoot, Tyrogue, Shiny Aipom, Magikarp, Omastar, Cyndaquil, Shiny Vulpix, Poliwrath, Suicune, Unown, Shiny Jolteon, Mankey, Swinub, Kabuto
 FieryPoops89 ... Pokemon: Bellsprout, Mankey, Horsea, Weezing, Shellder, Hitmonchan, Pidgey, Dodrio, Charizard, Spearow, Vulpix, Tentacool, Rapidash, Sandshrew, Kakuna, Growlithe, Rattata, Porygon, Victreebel, Kadabra, Doduo, Magnemite, Graveler, Flareon, Clefable, Clefairy, Muk, Jigglypuff, Gloom, Sandslash, Goldeen, Wigglytuff, Machop, Drowzee, Voltorb, Articuno, Cubone
