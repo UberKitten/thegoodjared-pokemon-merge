@@ -1,3 +1,5 @@
+This is the list of Pokemon from the newer save file. It should contain Pokemon caught since Jared's PC crash a few months ago:
+
 ************** New file **************
 Richard ... Pokemon:
 TheGoodJared ... Pokemon: Shiny Shuckle, Mew, Shiny Eevee
